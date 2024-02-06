@@ -6,3 +6,4 @@ This Repository is made for a Data science project that analyses some  mobile fe
   - Sam Ahmadizadeh
   - Kiarash Amini
   - Parsa Abdolmaleki
+  - Amir Rahimi
