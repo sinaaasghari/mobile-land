@@ -17,7 +17,7 @@ class Scrapper:
     @staticmethod
     def get_soup(url):
         try:
-            time.sleep(np.random.rand() / 100)
+            time.sleep(np.random.randint(7, 10) / 1000)
             headers = {'user-agent': 'Chrome/58.0.3029.110', 'accept-language': 'en-US'}
             response = requests.get(url, headers=headers)
             soup = BeautifulSoup(response.content, 'html.parser')
@@ -68,16 +68,21 @@ class Scrapper:
 
     @staticmethod
     def scrape_phone_data(phone_url):
-        soup = Scrapper.get_soup(phone_url)
-        headers = [row.text for row in soup.select('#specs-list')[0].find_all('th')]
-        year = Scrapper.extract_year(soup, headers)
+        try:
+            soup = Scrapper.get_soup(phone_url)
+            headers = [row.text for row in soup.select('#specs-list')[0].find_all('th')]
+            year = Scrapper.extract_year(soup, headers)
 
-        if year < 2010:
-            return None
+            if year < 2010:
+                return None
 
-        phone_data = {'year': year}
-        Scrapper.extract_info(soup, headers, phone_data)
-        return phone_data
+            phone_data = {'year': year}
+            Scrapper.extract_info(soup, headers, phone_data)
+            return phone_data
+        except Exception as e:
+            Scrapper.FAILED_REQUEST_URLS.append(phone_url)
+            logging.error(f'Failed to request to {phone_url} {str(e)}')
+
 
     @staticmethod
     def extract_year(soup, headers):
