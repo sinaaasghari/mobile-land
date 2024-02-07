@@ -87,7 +87,11 @@ class Scrapper:
             logging.error(f'could not find Launch as a header')
             return 0
         year_data = soup.select('#specs-list')[0].find_all('table')[launch].find(class_='nfo').text
-        return int(re.findall(r'\d+', year_data)[0])
+        try:
+            year = int(re.findall(r'\d+', year_data)[0])
+        except:
+            year = 0
+        return year
 
     @staticmethod
     def extract_info(soup, headers, phone_data):
