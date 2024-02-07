@@ -4,7 +4,7 @@ import requests
 import time
 import logging
 import re
-
+import threading
 
 class Scrapper:
     BRANDS_TO_SEARCH = ['alcatel', 'Apple', 'Asus', 'BLU', 'HTC', 'Huawei', 'Infinix', 'Lenovo', 'LG', 'Nokia', 'Sony',
@@ -17,7 +17,6 @@ class Scrapper:
     @staticmethod
     def get_soup(url):
         try:
-            time.sleep(np.random.rand() / 100)
             headers = {'user-agent': 'Chrome/58.0.3029.110', 'accept-language': 'en-US'}
             response = requests.get(url, headers=headers)
             soup = BeautifulSoup(response.content, 'html.parser')
@@ -67,7 +66,7 @@ class Scrapper:
         pass
 
     @staticmethod
-    def scrape_phone_data(phone_url):
+    def scrape_phone_data(phone_url , ans):
         soup = Scrapper.get_soup(phone_url)
         headers = [row.text for row in soup.select('#specs-list')[0].find_all('th')]
         year = Scrapper.extract_year(soup, headers)
@@ -77,7 +76,8 @@ class Scrapper:
 
         phone_data = {'year': year}
         Scrapper.extract_info(soup, headers, phone_data)
-        return phone_data
+        print(f'Finished : { threading.currentThread().getName() } is done .')
+        ans.append(phone_data)
 
     @staticmethod
     def extract_year(soup, headers):
