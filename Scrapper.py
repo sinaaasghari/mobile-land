@@ -7,12 +7,12 @@ import re
 
 
 class Scrapper:
-    _brands_to_search = ['alcatel', 'Apple', 'Asus', 'BLU', 'HTC', 'Huawei', 'Infinix', 'Lenovo', 'LG', 'Nokia', 'Sony',
+    BRANDS_TO_SEARCH = ['alcatel', 'Apple', 'Asus', 'BLU', 'HTC', 'Huawei', 'Infinix', 'Lenovo', 'LG', 'Nokia', 'Sony',
                          'Xiaomi', 'ZTE', 'Samsung']
-    _first_page_url = 'https://www.gsmarena.com/makers.php3'
-    _failed_request_urls = []
-    _core_dict = {'Octa': 8, 'Dual': 2, 'Quad': 4, 'Hexa': 6, 'Deca': 10}
-    _sim_list = ['Micro-SIM', 'Nano-SIM', 'Mini-SIM']
+    FIRST_PAGE_URL = 'https://www.gsmarena.com/makers.php3'
+    FAILED_REQUEST_URLS = []
+    CORE_DICT = {'Octa': 8, 'Dual': 2, 'Quad': 4, 'Hexa': 6, 'Deca': 10}
+    SIM_LIST = ['Micro-SIM', 'Nano-SIM', 'Mini-SIM']
 
     @staticmethod
     def get_soup(url):
@@ -23,24 +23,24 @@ class Scrapper:
             soup = BeautifulSoup(response.content, 'html.parser')
             return soup
         except Exception as e:
-            Scrapper._failed_request_urls.append(url)
+            Scrapper.FAILED_REQUEST_URLS.append(url)
             logging.error(f'Failed to request to {url} {str(e)}')
 
     @staticmethod
     def get_brand_base_urls():
-        soup = Scrapper.get_soup(Scrapper._first_page_url)
+        soup = Scrapper.get_soup(Scrapper.FIRST_PAGE_URL)
         brand_base_urls = []
         for row in soup.select('.st-text')[0].find_all('td'):
-            for brand in Scrapper._brands_to_search:
+            for brand in Scrapper.BRANDS_TO_SEARCH:
                 if brand in row.find('a').text:
                     brand_base_urls.append('https://www.gsmarena.com/' + row.find('a')['href'])
 
-        # there are two names that contains sony or asus that we don't want to work with.
+        # brand_base_urls = [url for url in brand_base_urls
+        #                    if 'garmin_asus' not in url and 'sony_ericsson' not in url]
         brand_base_urls.remove('https://www.gsmarena.com/garmin_asus-phones-65.php')
         brand_base_urls.remove('https://www.gsmarena.com/sony_ericsson-phones-19.php')
         return brand_base_urls
 
-    # returns the links of all pages from all brands
     @staticmethod
     def get_page_urls(brand_base_urls):
         page_urls = []
@@ -68,13 +68,13 @@ class Scrapper:
 
     @staticmethod
     def scrape_phone_data(phone_url):
-        # will return phone_data dict from one phone page url
-        # if phone is made before 2010 it will return None
         soup = Scrapper.get_soup(phone_url)
         headers = [row.text for row in soup.select('#specs-list')[0].find_all('th')]
         year = Scrapper.extract_year(soup, headers)
+
         if year < 2010:
             return None
+
         phone_data = {'year': year}
         Scrapper.extract_info(soup, headers, phone_data)
         return phone_data
@@ -125,7 +125,7 @@ class Scrapper:
                 try:
                     phone_data['core'] = float(core)
                 except:
-                    phone_data['core'] = Scrapper._core_dict.get(core, '')
+                    phone_data['core'] = Scrapper.CORE_DICT.get(core, '')
             else:
                 phone_data['core'] = ''
             if os_index != -1:
@@ -236,7 +236,7 @@ class Scrapper:
             except:
                 phone_data['weight'] = ''
             try:
-                for sim in Scrapper._sim_list:
+                for sim in Scrapper.SIM_LIST:
                     if sim in body_info[sim_index]:
                         phone_data['sim'] = sim
                         break
