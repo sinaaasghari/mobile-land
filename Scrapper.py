@@ -234,7 +234,7 @@ class Scrapper:
             try:
                 phone_data['weight'] = body_info[weigth_index].split(' g')[0]
             except:
-                phone_data['weigth'] = ''
+                phone_data['weight'] = ''
             try:
                 for sim in Scrapper._sim_list:
                     if sim in body_info[sim_index]:
