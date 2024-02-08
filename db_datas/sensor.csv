@@ -1,35 +1,35 @@
 id,name
-27,gyro
-19,fingerprint
-34,heart rate
-13,sensor core
-9,compass
-33,unspecified sensors
-25,proximity - other markets
-15,gyroscope
-16,Hand ID
-2,infrared thermometer
-10,SpO2
-12,ambient light sensor
-29,compass - North AmericaAccelerometer
-23,humidity
-30,temperature
-1,altimeter
-4,UV
-21,color spectrum
-3,Fingerprints
-5,Face ID
+26,accelerometer
+33,barometer
+5,gyro
 31,Face recognition
-28,gesture
-17,Iris scanner
-18,proximity
-26,Infrared Face ID
-6,Fingerprint
-22,Accelerometer
-24,barometer
-32,accelerometer
-14,ultrasound proximity
-7,Unspecified
-11,Dual fingerprint
-20,Yes
-8,proximity/ gyro
+24,ultrasound proximity
+10,temperature
+13,Unspecified
+1,color spectrum
+2,infrared thermometer
+14,gyroscope
+22,compass
+11,Face ID
+9,Accelerometer
+18,Yes
+16,sensor core
+29,unspecified sensors
+19,UV
+4,Iris scanner
+3,proximity
+15,humidity
+30,Hand ID
+21,ambient light sensor
+17,fingerprint
+12,proximity - other markets
+6,gesture
+32,proximity/ gyro
+28,altimeter
+20,SpO2
+8,Dual fingerprint
+27,compass - North AmericaAccelerometer
+25,Fingerprint
+34,heart rate
+23,Fingerprints
+7,Infrared Face ID
