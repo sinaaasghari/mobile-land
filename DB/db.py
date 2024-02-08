@@ -25,7 +25,6 @@ class Phone(Base):
     year = Column(Integer)
     price = Column(Integer)
     Battery = Column(Integer)
-    network = Column(String(3))
     os_id = Column(Integer, ForeignKey('os.id'))
     weight = Column(Integer)
     sim = Column(String(16))
@@ -78,6 +77,17 @@ class Phone_Memory(Base):
     phone_id = Column(Integer, ForeignKey('phone.id'))
     memory_id = Column(Integer, ForeignKey('memory.id'))
 
+class Network(Base):
+    __tablename__ = 'network'
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    name = Column(String(128))
+
+class Phone_Network(Base):
+    __tablename__ = 'phone_network'
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    phone_id = Column(Integer, ForeignKey('phone.id'))
+    network_id = Column(Integer, ForeignKey('network.id'))
+
 
 Base.metadata.create_all(engine)
 
@@ -88,7 +98,10 @@ sensor = pd.read_csv('db_datas/sensor.csv')
 phone_sensor = pd.read_csv('db_datas/phone-sensor.csv')
 memory = pd.read_csv('db_datas/memory.csv')
 phone_memory = pd.read_csv('db_datas/phone-memory.csv')
+network = pd.read_csv('db_datas/network.csv')
+phone_network = pd.read_csv('db_datas/phone_network.csv')
 
+network.to_sql('network', con=engine, if_exists='append', index=False)
 brand.to_sql('brand', con=engine, if_exists='append', index=False)
 sensor.to_sql('sensor', con=engine, if_exists='append', index=False)
 os.to_sql('os', con=engine, if_exists='append', index=False)
@@ -96,3 +109,4 @@ memory.to_sql('memory', con=engine, if_exists='append', index=False)
 phone.to_sql('phone', con=engine, if_exists='append', index=False)
 phone_sensor.to_sql('phone_sensor', con=engine, if_exists='append', index=False)
 phone_memory.to_sql('phone_memory', con=engine, if_exists='append', index=False)
+phone_network.to_sql('phone_network', con=engine, if_exists='append', index=False)
