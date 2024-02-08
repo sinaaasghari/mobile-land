@@ -1,0 +1,35 @@
+id,name
+27,gyro
+19,fingerprint
+34,heart rate
+13,sensor core
+9,compass
+33,unspecified sensors
+25,proximity - other markets
+15,gyroscope
+16,Hand ID
+2,infrared thermometer
+10,SpO2
+12,ambient light sensor
+29,compass - North AmericaAccelerometer
+23,humidity
+30,temperature
+1,altimeter
+4,UV
+21,color spectrum
+3,Fingerprints
+5,Face ID
+31,Face recognition
+28,gesture
+17,Iris scanner
+18,proximity
+26,Infrared Face ID
+6,Fingerprint
+22,Accelerometer
+24,barometer
+32,accelerometer
+14,ultrasound proximity
+7,Unspecified
+11,Dual fingerprint
+20,Yes
+8,proximity/ gyro
