@@ -36,6 +36,7 @@ class Phone(Base):
     length = Column(DECIMAL)
     width = Column(DECIMAL)
     thickness = Column(DECIMAL)
+    core = Column(DECIMAL)
 
 
 class Brand(Base):
