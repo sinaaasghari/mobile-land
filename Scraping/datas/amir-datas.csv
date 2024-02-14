@@ -1,0 +1,1053 @@
+year,name,brand,core,type,version,memory,network,sensor,dimensions,weight,sim,size,screen_to_body_ratio,resolution,ppi_density,price,battery
+2020,3.4,Nokia,8,Android,10,"[('32', '3'), ('64', '3'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity']",161 x 76 x 8.7,180,Nano-SIM,6.39,81.9,720 x 1560,269,100,4000
+2020,2.4,Nokia,8,Android,10,"[('32', '2'), ('64', '3')]",111,"['Fingerprint', 'accelerometer', 'proximity']",165.9 x 76.3 x 8.7,195,Nano-SIM,6.5,80.6,720 x 1600,270,240,4500
+2020,C3,Nokia,8,Android,10,"[('16', '2'), ('32', '2'), ('32', '3')]",111,"['Fingerprint', 'accelerometer', 'proximity']",159.9 x 77 x 8.7,184.5,Nano-SIM,5.99,75.2,720 x 1440,269,130,3040
+2020,C5 Endi,Nokia,8,Android,10,"[('64', '3')]",111,"['Fingerprint', 'accelerometer', 'proximity', 'compass']",171.7 x 76.7 x 8.9,200,Nano-SIM,6.52,77.9,720 x 1600,269,150,4000
+2020,C2 Tennen,Nokia,4,Android,10,"[('16', '2'), ('32', '2')]",111,"['Accelerometer', 'proximity']",150.6 x 72.4 x 9.1,180,Nano-SIM,5.45,70.3,720 x 1440,295,60,3000
+2020,C2 Tava,Nokia,4,Android,10,"[('16', '2'), ('32', '2')]",111,"['Accelerometer', 'proximity']",150.6 x 72.4 x 9.1,180,Nano-SIM,5.45,70.3,720 x 1440,295,100,3000
+2020,150 (2020),Nokia,,,,"[('4',)]",001,[''],132 x 50.5 x 15,90.5,Mini-SIM,2.4,26.8,240 x 320,167,30,1020
+2020,125,Nokia,,,,"[('4',)]",001,[''],132 x 50.5 x 15,91.3,Mini-SIM,2.4,26.8,240 x 320,167,20,1020
+2020,8.3 5G,Nokia,8,Android,10,"[('64', '6'), ('64', '8'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",171.9 x 78.6 x 9,220,Nano-SIM,6.81,82.9,1080 x 2400,386,470,4500
+2020,5.3,Nokia,8,Android,10,"[('64', '3'), ('64', '4'), ('64', '6'), ('128', '4')]",111,"['Fingerprint', 'accelerometer', 'proximity']",164.3 x 76.6 x 8.5,185,Nano-SIM,6.55,82.3,720 x 1600,268,290,4000
+2020,1.3,Nokia,4,Android,10,"[('16', '1')]",111,"['Accelerometer', 'proximity']",147.3 x 71.2 x 9.4,155,Nano-SIM,5.71,77.6,720 x 1520,295,170,3000
+2020,5310 (2020),Nokia,,,,"[('16', '8')]",001,[''],123.7 x 52.4 x 13.1,88.2,Mini-SIM,2.4,27.5,240 x 320,167,70,1200
+2020,C2,Nokia,4,Android,9.0,"[('16', '1')]",111,"['Accelerometer', 'proximity']",154.8 x 75.6 x 8.9,161,Nano-SIM,5.7,71.6,720 x 1440,282,,2800
+2019,C1,Nokia,4,Android,9.0,"[('16', '1')]",011,"['Accelerometer', 'proximity']",147.6 x 71.4 x 8.7,155,Nano-SIM,5.45,72.7,480 x 960,197,50,2500
+2019,2.3,Nokia,4,Android,9.0,"[('32', '2')]",111,"['Accelerometer', 'proximity']",157.7 x 75.4 x 8.7,183,Nano-SIM,6.2,80.7,720 x 1520,271,120,4000
+2019,7.2,Nokia,8,Android,9.0,"[('64', '4'), ('64', '6'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",159.9 x 75.2 x 8.3,180,Nano-SIM,6.3,82.4,1080 x 2280,400,240,3500
+2019,6.2,Nokia,8,Android,9.0,"[('32', '3'), ('64', '3'), ('64', '4'), ('128', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",159.9 x 75.1 x 8.3,180,Nano-SIM,6.3,82.5,1080 x 2280,400,180,3500
+2019,800 Tough,Nokia,2,KaiOS,2.5.2,"[('4', '512')]",111,[''],145.4 x 62.1 x 16.1,161,Nano-SIM,2.4,19.8,240 x 320,167,300,2100
+2021,2720 V Flip,Nokia,2,KaiOS,2.5.2,"[('4', '512')]",111,[''],192.7 x 54.5 x 11.6,118,Nano-SIM,2.8,23.1,240 x 320,143,70,1500
+2019,2720 Flip,Nokia,2,KaiOS,2.5.2,"[('4', '512')]",111,[''],192.7 x 54.5 x 11.6,118,Nano-SIM,2.8,23.1,240 x 320,143,140,1500
+2019,220 4G,Nokia,,,,"[('24', '16')]",101,[''],121.3 x 52.9 x 13.4,86.5,Nano-SIM,2.4,27.8,240 x 320,167,40,1200
+2019,110 (2019),Nokia,,,,"[('4',)]",001,[''],115.2 x 49.9 x 14.3,75,Mini-SIM,1.77,16.9,120 x 160,113,20,800
+2019,105 (2019),Nokia,,,,"[('4', '4')]",001,[''],119 x 49.2 x 14.4,73,Mini-SIM,1.77,16.6,120 x 160,113,10,800
+2019,3.1 C,Nokia,4,Android,9.0,"[('32', '2')]",111,"['Accelerometer', 'gyro', 'proximity']",152.7 x 71.9 x 9.4,156,Nano-SIM,5.45,69.8,720 x 1440,295,,2990
+2019,3.1 A,Nokia,4,Android,9.0,"[('32', '2')]",111,"['Accelerometer', 'gyro', 'proximity']",152.7 x 71.9 x 9.4,156,Nano-SIM,5.45,69.8,720 x 1440,295,,2990
+2019,2.2,Nokia,4,Android,9.0,"[('16', '2'), ('32', '3')]",111,"['Accelerometer', 'proximity']",146 x 70.6 x 9.3,153,Nano-SIM,5.71,79.0,720 x 1520,295,100,3000
+2019,X71,Nokia,8,Android,9.0,"[('64', '6'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",157.2 x 76.5 x 8,180,Nano-SIM,6.39,83.9,1080 x 2316,400,290,3500
+2019,9 PureView,Nokia,8,Android,9.0,"[('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",155 x 75 x 8,172,Nano-SIM,5.99,79.7,1440 x 2880,538,210,3320
+2019,4.2,Nokia,8,Android,9.0,"[('16', '2'), ('32', '3')]",111,"['Fingerprint', 'accelerometer', 'proximity']",149 x 71.3 x 8.4,161,Nano-SIM,5.71,76.6,720 x 1520,295,130,3000
+2020,3 V,Nokia,4,Android,9.0,"[('16', '2')]",111,"['Accelerometer', 'proximity']",161.2 x 76.2 x 9.1,188.6,Nano-SIM,6.26,79.6,720 x 1520,269,140,4000
+2019,3.2,Nokia,4,Android,9.0,"[('16', '2'), ('32', '3'), ('64', '3')]",111,"['Fingerprint', 'accelerometer', 'proximity']",159.4 x 76.2 x 8.6,181,Nano-SIM,6.26,80.5,720 x 1520,269,140,4000
+2019,1 Plus,Nokia,4,Android,9.0,"[('8', '1'), ('16', '1'), ('16', '3')]",111,"['Accelerometer', 'proximity']",145 x 70.4 x 8.6,138.4,Nano-SIM,5.45,75.1,480 x 960,197,80,2500
+2019,210,Nokia,,,,"[('16',)]",001,[''],120.8 x 53.5 x 13.8,82,Mini-SIM,2.4,27.6,240 x 320,167,30,1020
+2018,8.1 (Nokia X7),Nokia,8,Android,9.0,"[('64', '4'), ('64', '6'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",154.8 x 75.8 x 8,180,Nano-SIM,6.18,81.2,1080 x 2280,408,390,3500
+2018,106 (2018),Nokia,,,,"[('4', '4')]",001,[''],111.2 x 49.5 x 14.4,70.2,Mini-SIM,1.8,18.2,120 x 160,111,20,800
+2018,3.1 Plus,Nokia,8,Android,8.1,"[('16', '2'), ('32', '2'), ('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",156.9 x 76.4 x 8.2,180,Nano-SIM,6.0,77.5,720 x 1440,268,120,3500
+2018,7.1,Nokia,8,Android,8.1,"[('32', '3'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",149.7 x 71.2 x 8,160,Nano-SIM,5.84,79.9,1080 x 2280,432,240,3060
+2018,6.1 Plus (Nokia X6),Nokia,8,Android,8.1,"[('32', '4'), ('64', '4'), ('64', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",147.2 x 71 x 8,151,Nano-SIM,5.8,81.5,1080 x 2280,432,160,3060
+2018,5.1 Plus (Nokia X5),Nokia,8,Android,8.1,"[('32', '3'), ('64', '4'), ('64', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",149.5 x 72 x 8.1,160,Nano-SIM,5.86,79.6,720 x 1520,287,190,3060
+2018,5.1,Nokia,8,Android,8.0,"[('16', '2'), ('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",151.1 x 70.7 x 8.3,150,Nano-SIM,5.5,73.1,1080 x 2160,439,240,2970
+2018,3.1,Nokia,8,Android,8.0,"[('16', '2'), ('32', '2'), ('32', '3')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",146.3 x 68.7 x 8.7,138.3,Nano-SIM,5.2,69.4,720 x 1440,310,200,2990
+2018,2.1,Nokia,4,Android,8.1,"[('8', '1')]",111,"['Accelerometer', 'proximity']",153.6 x 77.6 x 9.7,174,Nano-SIM,5.5,70.0,720 x 1280,267,100,4000
+2018,8110 4G,Nokia,2,KaiOS,2.5.1,"[('4', '512')]",111,[''],133.5 x 49.3 x 14.9,117,Micro-SIM,2.4,27.1,240 x 320,167,140,1500
+2018,8 Sirocco,Nokia,8,Android,8.0,"[('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",140.9 x 73 x 7.5,177,Nano-SIM,5.5,81.1,1440 x 2560,534,1010,3260
+2018,7 plus,Nokia,8,Android,8.1,"[('64', '4'), ('64', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",158.4 x 75.6 x 8,183,Nano-SIM,6.0,77.2,1080 x 2160,403,490,3800
+2018,6.1,Nokia,8,Android,8.1,"[('32', '3'), ('32', '4'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",148.8 x 75.8 x 8.2,172,Nano-SIM,5.5,73.2,1080 x 1920,403,220,3000
+2018,1,Nokia,4,Android,8.1,"[('8', '1')]",111,"['Accelerometer', 'proximity']",133.6 x 67.8 x 9.5,131,Micro-SIM,4.5,61.6,480 x 854,218,100,2150
+2018,3310 4G,Nokia,,,,"[('512', '256')]",111,[''],117 x 52.4 x 13.4,88.1,Micro-SIM,2.4,29.1,240 x 320,167,100,1200
+2017,2,Nokia,4,Android,7.1.1,"[('8', '1')]",111,"['Accelerometer', 'proximity', 'compass']",143.5 x 71.3 x 9.3,161,Nano-SIM,5.0,67.4,720 x 1280,294,110,4100
+2017,7,Nokia,8,Android,7.1.1,"[('64', '4'), ('64', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",141.2 x 71.5 x 7.9,153,Nano-SIM,5.2,73.8,1080 x 1920,424,220,3000
+2017,3310 3G,Nokia,,,,"[('64',)]",011,[''],117 x 52.4 x 13.4,88.2 (DS)/ 84.9 (SS) (3.10 oz),Micro-SIM,2.4,29.1,240 x 320,167,70,1200
+2017,8,Nokia,8,Android,7.1.1,"[('64', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",151.5 x 73.7 x 7.9,160,Nano-SIM,5.3,69.4,1440 x 2560,554,300,3090
+2017,105 (2017),Nokia,,,,"[('4', '4')]",001,[''],112 x 49.5 x 14.4,73,Mini-SIM,1.8,18.1,120 x 160,111,20,800
+2017,130 (2017),Nokia,,,,"[('8', '4')]",001,[''],111.5 x 48.4 x 14.2,74,Mini-SIM,1.8,18.6,120 x 160,111,30,1020
+2017,3,Nokia,4,Android,7.0,"[('16', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",143.4 x 71.4 x 8.5,140,Nano-SIM,5.0,67.3,720 x 1280,294,100,2630
+2017,5,Nokia,8,Android,7.1.1,"[('16', '2'), ('16', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",149.7 x 72.5 x 8,160,Nano-SIM,5.2,68.7,720 x 1280,282,170,3000
+2017,6,Nokia,8,Android,7.1.1,"[('32', '3'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",154 x 75.8 x 7.9,169,Nano-SIM,5.5,70.7,1080 x 1920,403,400,3000
+2017,3310 (2017),Nokia,,,,"[('16',)]",001,[''],115.6 x 51 x 12.8,85,Micro-SIM,2.4,30.3,240 x 320,167,60,1200
+2016,150,Nokia,,,,,001,[''],118 x 50.2 x 13.5,81,Mini-SIM,2.4,30.1,240 x 320,167,30,1020
+2016,216,Nokia,,,,"[('16', 'RA')]",001,[''],118 x 50.2 x 13.5,82.6 (2.93 oz),Mini-SIM,2.4,30.1,240 x 320,167,40,1020
+2015,230 Dual SIM,Nokia,,,,"[('16', 'RA')]",001,[''],124.6 x 53.4 x 10.9,91.8,Mini-SIM,2.8,36.5,240 x 320,143,70,1200
+2015,230,Nokia,,,,"[('16', 'RA')]",001,[''],124.6 x 53.4 x 10.9,91.8,Mini-SIM,2.8,36.5,240 x 320,143,70,1200
+2015,222 Dual SIM,Nokia,,,,"[('16', 'RA')]",001,[''],116 x 50 x 12.9,79,Mini-SIM,2.4,30.8,240 x 320,167,40,1100
+2015,222,Nokia,,,,"[('16', 'RA')]",001,[''],116 x 50 x 12.9,79,Mini-SIM,2.4,30.8,240 x 320,167,40,1100
+2015,105 Dual SIM (2015),Nokia,,,,"[('4', 'RA')]",001,[''],108.5 x 45.5 x 14.1,69.6,Mini-SIM,1.4,12.8,128 x 128,129,20,800
+2015,105 (2015),Nokia,,,,"[('4', 'RA')]",001,[''],108.5 x 45.5 x 14.1,69.8,Mini-SIM,1.4,12.8,128 x 128,129,20,800
+2015,215,Nokia,,,,"[('8', 'RA')]",001,[''],116 x 50 x 12.9,78.4,Mini-SIM,2.4,31.1,240 x 320,166,30,1100
+2015,215 Dual SIM,Nokia,,,,"[('8', 'RA')]",001,[''],116 x 50 x 12.9,78.6,Mini-SIM,2.4,30.8,240 x 320,167,30,1100
+2014,Lumia 638,Nokia,4,Microsoft,Windows,"[('8', '1')]",111,['Accelerometer'],129.5 x 66.7 x 9.2,136,Micro-SIM,4.5,64.6,480 x 854,218,100,1830
+2014,N1,Nokia,4,Android,5.0,"[('32', '2')]",001,"['Accelerometer', 'gyro', 'compass']",200.7 x 138.6 x 6.9,318,,7.9,69.5,1536 x 2048,324,320,5300
+2014,Lumia 730 Dual SIM,Nokia,4,Microsoft,Windows,"[('8', '1')]",011,"['Accelerometer', 'proximity', 'compass', 'sensor core']",134.7 x 68.5 x 8.7,130,Micro-SIM,4.7,64.3,720 x 1280,316,170,2200
+2014,Lumia 735,Nokia,4,Microsoft,Windows,"[('8', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'sensor core']",134.7 x 68.5 x 8.9,134,Nano-SIM,4.7,66.0,720 x 1280,312,220,2200
+2014,Lumia 830,Nokia,4,Microsoft,Windows,"[('16', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",139.4 x 70.7 x 8.5,150,Nano-SIM,5.0,69.9,720 x 1280,294,330,2200
+2014,130 Dual SIM,Nokia,,,,"[('4', 'RA')]",001,[''],106 x 45.5 x 13.9,67.9,Mini-SIM,1.8,21.1,128 x 160,114,20,1020
+2014,130,Nokia,,,,"[('4', 'RA')]",001,[''],106 x 45.5 x 13.9,68.6,Mini-SIM,1.8,21.1,128 x 160,114,20,1020
+2014,Lumia 530 Dual SIM,Nokia,4,Microsoft,Windows,"[('4', '512')]",011,['Accelerometer'],119.7 x 62.3 x 11.7,129,Micro-SIM,4.0,59.1,480 x 854,245,100,1430
+2014,Lumia 530,Nokia,4,Microsoft,Windows,"[('4', '512')]",011,['Accelerometer'],119.7 x 62.3 x 11.7,129,Micro-SIM,4.0,59.1,480 x 854,245,100,1430
+2014,X2 Dual SIM,Nokia,2,Android,4.3,"[('4', '1')]",011,"['Accelerometer', 'proximity']",121.7 x 68.3 x 11.1,150,Micro-SIM,4.3,63.3,480 x 800,217,90,1800
+2014,225,Nokia,,,,,001,[''],124 x 55.5 x 10.4,99.8,Mini-SIM,2.8,35.3,240 x 320,143,50,1200
+2014,225 Dual SIM,Nokia,,,,,001,[''],124 x 55.5 x 10.4,100.6,Mini-SIM,2.8,35.3,240 x 320,143,50,1200
+2014,Lumia 930,Nokia,4,Microsoft,Windows,"[('32', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'sensor core']",137 x 71 x 9.8,167,Nano-SIM,5.0,70.9,1080 x 1920,441,370,2420
+2014,Lumia 635,Nokia,4,Microsoft,Windows,"[('8', '512')]",111,"['Accelerometer', 'sensor core']",129.5 x 66.7 x 9.2,134,Micro-SIM,4.5,62.9,480 x 854,221,110,1830
+2014,Lumia 630 Dual SIM,Nokia,4,Microsoft,Windows,"[('8', '512')]",011,"['Accelerometer', 'sensor core']",129.5 x 66.7 x 9.2,134,Micro-SIM,4.5,62.9,480 x 854,221,140,1830
+2014,Lumia 630,Nokia,4,Microsoft,Windows,"[('8', '512')]",011,"['Accelerometer', 'sensor core']",129.5 x 66.7 x 9.2,134,Micro-SIM,4.5,62.9,480 x 854,221,110,1830
+2014,XL,Nokia,2,Android,4.1.2,"[('4', '768')]",011,"['Accelerometer', 'proximity']",141.4 x 77.7 x 10.9,190,Micro-SIM,5.0,64.8,480 x 800,187,100,2000
+2014,X+,Nokia,2,Android,4.1.2,"[('4', '768')]",011,"['Accelerometer', 'proximity']",115.5 x 63 x 10.4,128.7,Micro-SIM,4.0,62.6,480 x 800,233,120,1500
+2014,X,Nokia,2,Android,4.1.2,"[('4', '512')]",011,"['Accelerometer', 'proximity']",115.5 x 63 x 10.4,128.7,Micro-SIM,4.0,62.6,480 x 800,233,100,1500
+2014,Asha 230,Nokia,,Nokia,Asha,"[('64', 'RA')]",001,"['Accelerometer', 'proximity']",99.5 x 58.6 x 13.2,89.3,Micro-SIM,2.8,41.6,240 x 320,143,60,1020
+2014,220,Nokia,,,,,001,[''],116.4 x 50.3 x 13.2,83.6 (2.93 oz),Mini-SIM,2.4,30.5,240 x 320,167,40,1100
+2014,Lumia Icon,Nokia,4,Microsoft,Windows,"[('32', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'sensor core']",137 x 71 x 9.8,167,Nano-SIM,5.0,70.9,1080 x 1920,441,400,2420
+2013,515,Nokia,,,,"[('256', '64')]",011,[''],114 x 48 x 11,101.1,Micro-SIM,2.4,32.6,240 x 320,167,140,1200
+2013,107 Dual SIM,Nokia,,,,"[('4', 'RA')]",001,[''],112.9 x 47.5 x 14.9,75.8,Mini-SIM,1.8,19.0,128 x 160,114,20,1020
+2013,106,Nokia,,,,"[('384', 'k')]",001,[''],112.9 x 47.5 x 14.9,74.2,Mini-SIM,1.8,19.0,128 x 160,114,20,800
+2013,Lumia 625,Nokia,2,Microsoft,Windows,"[('8', '512')]",111,"['Accelerometer', 'proximity']",133.3 x 72.3 x 9.2,159,Micro-SIM,4.7,65.2,480 x 800,199,160,2000
+2013,Lumia 1020,Nokia,2,Microsoft,Windows,"[('32', '2'), ('64', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",130.4 x 71.4 x 10.4,158,Micro-SIM,4.5,61.9,768 x 1280,332,400,2000
+2013,208,Nokia,,,,"[('256', '64')]",011,[''],114.2 x 50.9 x 12.8,89.6,Micro-SIM,2.4,30.7,240 x 320,167,60,1020
+2013,207,Nokia,,,,"[('256', '64')]",011,[''],114.2 x 50.9 x 12.8,91.3,Micro-SIM,2.4,30.7,240 x 320,167,60,1020
+2013,Lumia 925,Nokia,2,Microsoft,Windows,"[('16', '1'), ('32', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",129 x 70.6 x 8.5,139,Micro-SIM,4.5,63.3,768 x 1280,332,260,2000
+2013,Lumia 928,Nokia,2,Microsoft,Windows,"[('32', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",133 x 68.9 x 10.1,162,Micro-SIM,4.5,62.9,768 x 1280,332,380,2000
+2013,Asha 501,Nokia,,Nokia,Asha,"[('128', '64')]",001,"['Accelerometer', 'proximity']",99.2 x 58 x 12.1,98.2,Micro-SIM,3.0,48.4,240 x 320,133,80,1200
+2013,Asha 210,Nokia,,,,"[('64', '32')]",001,[''],111.5 x 60 x 11.8,97.3,Mini-SIM,2.4,26.7,320 x 240,167,50,1200
+2013,Lumia 720,Nokia,2,Microsoft,Windows,"[('8', '512')]",011,"['Accelerometer', 'proximity', 'compass']",127.9 x 67.5 x 9,128,Micro-SIM,4.3,61.0,480 x 800,217,200,2000
+2013,Lumia 520,Nokia,2,Microsoft,Windows,"[('8', '512')]",011,"['Accelerometer', 'proximity']",119.9 x 64 x 9.9,124,Micro-SIM,4.0,59.3,480 x 800,233,70,1430
+2013,301,Nokia,,,,"[('256', 'RO'), ('64', 'RA')]",011,[''],114 x 50 x 12.5,102,Mini-SIM,2.4,31.3,240 x 320,167,70,1110
+2013,105,Nokia,,,,"[('8', '384')]",001,[''],107 x 44.8 x 14.3,70,Mini-SIM,1.45,14.1,128 x 128,125,20,800
+2013,Asha 310,Nokia,,,,"[('20', '128')]",001,['Accelerometer'],109.9 x 54 x 13,103.7,Mini-SIM,3.0,43.2,240 x 400,155,80,1110
+2012,Lumia 505,Nokia,800.0,Microsoft,Windows,"[('4', '256')]",011,"['Accelerometer', 'proximity']",118.1 x 61.2 x 11.3,131,Micro-SIM,3.7,53.9,480 x 800,252,140,1300
+2012,Lumia 620,Nokia,2,Microsoft,Windows,"[('8', '512')]",011,"['Accelerometer', 'proximity', 'compass']",115.4 x 61.1 x 11,127,Micro-SIM,3.8,58.3,480 x 800,246,120,1300
+2012,114,Nokia,,,,"[('16',)]",001,[''],110 x 46 x 14.8,80,Mini-SIM,1.8,20.2,128 x 160,114,30,1020
+2012,206,Nokia,,,,"[('64',)]",001,[''],116 x 49.4 x 12.4,91,Mini-SIM,2.4,31.1,240 x 320,167,70,1110
+2012,Asha 205,Nokia,,,,"[('64',)]",001,[''],112.8 x 61.1 x 13,94,Mini-SIM,2.4,25.9,320 x 240,167,50,1020
+2012,109,Nokia,,,,"[('64', 'RO'), ('16', 'RA')]",001,[''],110 x 46 x 14.8,77,Mini-SIM,1.8,20.2,128 x 160,114,40,800
+2012,Lumia 822,Nokia,2,Microsoft,Windows,"[('16', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",127.8 x 68.4 x 11.2,141.6,Micro-SIM,4.3,60.2,480 x 800,217,320,1800
+2012,Lumia 510,Nokia,800.0,Microsoft,Windows,"[('4', '256')]",011,"['Accelerometer', 'proximity']",120.7 x 64.9 x 11.5,129,Micro-SIM,4.0,58.1,480 x 800,233,110,1300
+2012,Lumia 810,Nokia,2,Microsoft,Windows,"[('8', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",127.8 x 68.4 x 10.9,145,Micro-SIM,4.3,60.2,480 x 800,217,250,1800
+2012,Asha 309,Nokia,,,,"[('20', '128')]",001,['Accelerometer'],109.9 x 54 x 13.2,102,Mini-SIM,3.0,43.2,240 x 400,155,90,1110
+2012,Asha 308,Nokia,,,,"[('20', '128')]",001,['Accelerometer'],109.9 x 54 x 13,104,Mini-SIM,3.0,43.2,240 x 400,155,70,1110
+2012,Lumia 920,Nokia,2,Microsoft,Windows,"[('32', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",130.3 x 70.8 x 10.7,185,Micro-SIM,4.5,62.5,768 x 1280,332,210,2000
+2012,Lumia 820,Nokia,2,Microsoft,Windows,"[('8', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",123.8 x 68.5 x 9.9,160,Micro-SIM,4.3,62.1,480 x 800,217,170,1650
+2012,Asha 311,Nokia,1.0,,,"[('140', '256')]",011,"['Accelerometer', 'proximity']",106 x 52 x 12.9,95,Mini-SIM,3.0,46.5,240 x 400,155,80,1110
+2012,Asha 306,Nokia,,,,"[('10', '64')]",001,['Accelerometer'],110.3 x 53.8 x 12.8,96,Mini-SIM,3.0,43.2,240 x 400,155,70,1110
+2012,Asha 305,Nokia,,,,"[('10', '64')]",001,['Accelerometer'],110.3 x 53.8 x 12.8,98,Mini-SIM,3.0,43.2,240 x 400,155,70,1110
+2012,113,Nokia,,,,"[('16',)]",001,[''],110 x 46 x 14.8,77,Mini-SIM,1.8,20.2,128 x 160,114,70,800
+2012,112,Nokia,,,,"[('16',)]",001,[''],110.4 x 46.9 x 15.4,85.5,Mini-SIM,1.8,19.7,128 x 160,114,80,1400
+2012,111,Nokia,,,,"[('10',)]",001,[''],110 x 46 x 14.8,77,Mini-SIM,1.8,20.2,128 x 160,114,50,800
+2012,110,Nokia,,,,"[('10',)]",001,[''],110 x 46 x 14.5,80,Mini-SIM,1.8,20.2,128 x 160,114,40,1020
+2012,Lumia 610 NFC,Nokia,800.0,Microsoft,Windows,"[('8', '256')]",011,"['Accelerometer', 'proximity', 'compass']",119 x 62 x 12,135,Micro-SIM,3.7,52.8,480 x 800,252,110,1300
+2012,103,Nokia,,,,,001,[''],107.2 x 45.1 x 15.3,76.6,Mini-SIM,1.36,11.6,96 x 68,87,10,800
+2012,808 PureView,Nokia,1.3,Nokia,Belle,"[('16', '512')]",011,"['Accelerometer', 'proximity', 'compass']",123.9 x 60.2 x 13.9,169,Micro-SIM,4.0,59.1,360 x 640,184,280,1400
+2012,800c,Nokia,1.4,Microsoft,Windows,"[('16', '512')]",011,"['Accelerometer', 'proximity', 'compass']",116.5 x 61.2 x 12.1,142,Micro-SIM,3.7,54.7,480 x 800,252,170,1450
+2012,Lumia 610,Nokia,800.0,Microsoft,Windows,"[('8', '256')]",011,"['Accelerometer', 'proximity', 'compass']",119 x 62 x 12,131.5,Micro-SIM,3.7,52.8,480 x 800,252,90,1300
+2012,Asha 302,Nokia,1.0,,,"[('100', '256')]",011,[''],115.2 x 58.9 x 13.5,106,Mini-SIM,2.4,26.3,320 x 240,167,80,1320
+2012,Asha 203,Nokia,,,,"[('10', '32')]",001,[''],114.8 x 49.8 x 13.9,90,Mini-SIM,2.4,31.2,240 x 320,167,80,1020
+2012,Asha 202,Nokia,,,,"[('10', '32')]",001,[''],114.8 x 49.8 x 13.9,90,Mini-SIM,2.4,31.2,240 x 320,167,70,1020
+2012,Lumia 900,Nokia,1.4,Microsoft,Windows,"[('16', '512')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",127.8 x 68.5 x 11.5,160,Micro-SIM,4.3,60.1,480 x 800,217,160,1830
+2012,Lumia 900 AT&T,Nokia,1.4,Microsoft,Windows,"[('16', '512')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",127.8 x 68.5 x 11.5,160,Micro-SIM,4.3,60.1,480 x 800,217,160,1830
+2011,801T,Nokia,680.0,Symbian,Anna,"[('8', '256')]",011,"['Accelerometer', 'proximity', 'compass']",125.2 x 65 x 12.8,170,Mini-SIM,4.0,54.2,360 x 640,184,220,1300
+2011,X2-02,Nokia,,,,"[('10', '64')]",001,[''],113 x 50 x 15,71,Mini-SIM,2.2,26.5,240 x 320,182,60,1020
+2011,Lumia 800,Nokia,1.4,Microsoft,Windows,"[('16', '512')]",011,"['Accelerometer', 'proximity', 'compass']",116.5 x 61.2 x 12.1,142,Micro-SIM,3.7,54.7,480 x 800,252,140,1450
+2011,Lumia 710 T-Mobile,Nokia,1.4,Microsoft,Windows,"[('8', '512')]",011,"['Accelerometer', 'proximity', 'compass']",119 x 62.4 x 12.5,125.5,Micro-SIM,3.7,52.5,480 x 800,252,130,1300
+2011,Lumia 710,Nokia,1.4,Microsoft,Windows,"[('8', '512')]",011,"['Accelerometer', 'proximity', 'compass']",119 x 62.4 x 12.5,125.5,Micro-SIM,3.7,52.5,480 x 800,252,100,1300
+2011,Asha 303,Nokia,1.0,,,"[('170', '(100'), ('256', 'RO'), ('128', 'RA')]",011,[''],116.5 x 55.7 x 13.9,99,Mini-SIM,2.6,32.3,320 x 240,154,110,1300
+2011,Asha 300,Nokia,1.0,,,"[('140', '256')]",011,['Proximity'],112.8 x 49.5 x 12.7,85,Mini-SIM,2.4,31.9,240 x 320,167,70,1110
+2011,Asha 201,Nokia,,,,"[('10', '64')]",001,[''],115.5 x 61.1 x 14,105,Mini-SIM,2.4,25.3,320 x 240,167,50,1430
+2011,Asha 200,Nokia,,,,"[('10', '64')]",001,[''],115.4 x 61.1 x 14,105,Mini-SIM,2.4,25.3,320 x 240,167,50,1430
+2011,603,Nokia,1.0,Symbian,Belle,"[('2', '(340'), ('512', 'RA'), ('1', 'RO')]",011,"['Accelerometer', 'proximity', 'compass']",113.5 x 57.1 x 12.7,109.6,Micro-SIM,3.5,52.1,360 x 640,210,100,3
+2011,C2-05,Nokia,,,,"[('64',)]",001,[''],99.4 x 47.8 x 16.3,98.5,Mini-SIM,2.0,26.1,240 x 320,200,60,860
+2011,X2-05,Nokia,,,,"[('64',)]",001,[''],113 x 50 x 15,87.8,Mini-SIM,2.2,26.5,240 x 320,182,90,800
+2011,C5-06,Nokia,600.0,Symbian,9.4,"[('40', '128')]",001,['Accelerometer'],105.8 x 51 x 13.8,93,Mini-SIM,3.2,52.3,360 x 640,229,90,1000
+2011,C5-05,Nokia,600.0,Symbian,9.4,"[('40', '128')]",001,['Accelerometer'],105.8 x 51 x 13.8,93,Mini-SIM,3.2,52.3,360 x 640,229,80,1000
+2011,C5-04,Nokia,600.0,Symbian,9.4,"[('60', '128')]",011,['Accelerometer'],105.8 x 50.8 x 13.8,100,Mini-SIM,3.2,52.5,360 x 640,229,100,1000
+2011,101,Nokia,,,,,001,[''],110 x 45.5 x 14.9,71,Mini-SIM,1.8,20.4,128 x 160,114,40,1020
+2011,100,Nokia,,,,,001,[''],110 x 45.5 x 14.9,69.6,Mini-SIM,1.8,20.4,128 x 160,114,50,850
+2011,701,Nokia,1.0,Symbian,Belle,"[('8', '512')]",011,"['Accelerometer', 'proximity', 'compass']",117.2 x 56.8 x 11,131,Mini-SIM,3.5,50.7,360 x 640,210,150,1300
+2011,700,Nokia,1.0,Symbian,Belle,"[('2', '512')]",011,"['Accelerometer', 'proximity', 'compass']",110 x 50.7 x 9.7,96,Mini-SIM,3.2,50.6,360 x 640,229,140,1080
+2011,600,Nokia,1.0,Symbian,Belle,"[('2',)]",011,"['Accelerometer', 'proximity', 'compass']",111 x 53 x 13,100,Mini-SIM,3.2,48.0,360 x 640,229,240,1200
+2011,C3-01 Gold Edition,Nokia,1.0,,,"[('140', '64')]",011,[''],111 x 47.5 x 11,100,Mini-SIM,2.4,33.8,240 x 320,167,180,1050
+2011,500,Nokia,1.0,Symbian,Anna,"[('2', '256')]",011,"['Accelerometer', 'proximity', 'compass']",111.3 x 53.8 x 14.1,93,Mini-SIM,3.2,47.1,360 x 640,229,110,1110
+2011,N9,Nokia,1.0,MeeGo,1.2,"[('16', '1'), ('64', '1')]",011,"['Accelerometer', 'proximity', 'compass']",116.5 x 61.2 x 12.1,135,Micro-SIM,3.9,58.8,480 x 854,251,140,1450
+2011,C5 5MP,Nokia,600.0,Symbian,9.3,"[('270', '256')]",011,[''],112.3 x 46 x 12.3,95,Mini-SIM,2.2,29.0,240 x 320,182,110,1050
+2011,C2-06,Nokia,,,,"[('10',)]",001,[''],103 x 51.4 x 17,115,Mini-SIM,2.6,39.5,240 x 320,154,110,1020
+2011,C2-03,Nokia,,,,"[('10',)]",001,[''],103 x 51.4 x 17,115,Mini-SIM,2.6,39.5,240 x 320,154,70,1020
+2011,C2-02,Nokia,,,,"[('10',)]",001,[''],103 x 51.4 x 17,115,Mini-SIM,2.6,39.5,240 x 320,154,70,1020
+2011,702T,Nokia,680.0,Symbian,Anna,"[('8', '256')]",011,"['Accelerometer', 'proximity', 'compass']",117.1 x 60.4 x 10,127,Mini-SIM,2.46,26.5,640 x 480,325,180,1200
+2011,T7,Nokia,680.0,Symbian,3,"[('290', '256')]",011,"['Accelerometer', 'proximity', 'compass']",113.5 x 59 x 12.8,134 (4.73 oz),Mini-SIM,3.5,50.4,360 x 640,210,240,1200
+2011,N950,Nokia,1.0,MeeGo,1.2,"[('8.5', 'user'), ('1', 'RA')]",011,"['Accelerometer', 'proximity', 'compass']",-,-,Mini-SIM,4.0,,480 x 854,245,,1320
+2011,Oro,Nokia,680.0,Symbian,Anna,"[('8', '256')]",011,"['Accelerometer', 'proximity', 'compass']",117.3 x 57.5 x 12.2,132,Mini-SIM,3.5,50.1,360 x 640,210,230,1200
+2011,X1-01,Nokia,,,,,001,[''],112.2 x 47.3 x 16,91.1,Mini-SIM,1.8,19.2,128 x 160,114,30,1320
+2011,X7-00,Nokia,680.0,Symbian,Anna,"[('256', 'RA'), ('1', 'RO')]",011,"['Accelerometer', 'proximity']",119.7 x 62.8 x 11.9,146,Mini-SIM,4.0,58.7,360 x 640,184,180,1200
+2011,E6,Nokia,680.0,Symbian,Anna,"[('8', '256')]",011,"['Accelerometer', 'proximity', 'compass']",115.5 x 59 x 10.5,133,Mini-SIM,2.46,27.5,640 x 480,325,140,1500
+2011,C7 Astound,Nokia,680.0,Symbian,3,"[('8', '256')]",011,"['Accelerometer', 'proximity', 'compass']",117.3 x 56.8 x 10.5,130,Mini-SIM,3.5,50.7,360 x 640,210,220,1200
+2011,X1-00,Nokia,,,,,001,[''],112.2 x 47.3 x 16,91.1,Mini-SIM,1.8,19.2,128 x 160,114,40,1320
+2010,X2-01,Nokia,,,,"[('55', '64')]",001,[''],119.4 x 59.8 x 14.3,107.5,Mini-SIM,2.4,25.0,320 x 240,167,50,1020
+2010,C2-01,Nokia,,,,"[('43', '64')]",011,[''],109.8 x 46.9 x 15.3,89,Mini-SIM,2.0,24.1,240 x 320,200,70,1020
+2010,C5-03,Nokia,600.0,Symbian,9.4,"[('40', '128')]",011,['Accelerometer'],105.8 x 51 x 13.8,93,Mini-SIM,3.2,52.3,360 x 640,229,100,1000
+2010,E7,Nokia,680.0,Symbian,3,"[('16', '256')]",011,"['Accelerometer', 'proximity', 'compass']",123.7 x 62.4 x 13.6,176,Mini-SIM,4.0,57.1,360 x 640,184,150,1200
+2010,C6-01,Nokia,680.0,Symbian,3,"[('340', '256')]",011,"['Accelerometer', 'proximity', 'compass']",103.8 x 52.5 x 13.9,131,Mini-SIM,3.2,51.8,360 x 640,229,170,1050
+2010,C7,Nokia,680.0,Symbian,3,"[('8', '256')]",011,"['Accelerometer', 'proximity', 'compass']",117.3 x 56.8 x 10.5,130,Mini-SIM,3.5,50.7,360 x 640,210,150,1200
+2010,C3-01 Touch and Type,Nokia,680.0,,,"[('30', '64')]",011,[''],111 x 47.5 x 11,100,Mini-SIM,2.4,33.8,240 x 320,167,70,1050
+2010,5250,Nokia,434.0,Symbian,,"[('51',)]",001,[''],104 x 49 x 14,107g (3.77 oz),Mini-SIM,2.8,42.4,360 x 640,262,60,1000
+2010,X3-02 Touch and Type,Nokia,1.0,,,"[('256', 'RO'), ('128', 'RA'), ('128', 'RO'), ('64', 'RA')]",011,[''],106.2 x 48.4 x 9.6,77.4,Mini-SIM,2.4,34.7,240 x 320,167,80,860
+2010,X6 8GB (2010),Nokia,434.0,Symbian,9.4,"[('8', '128')]",011,"['Accelerometer', 'proximity']",111 x 51 x 13.8,122,Mini-SIM,3.2,49.9,360 x 640,229,70,1320
+2010,X5-01,Nokia,600.0,Symbian,OS,"[('200',)]",011,['Accelerometer'],74.3 x 66.4 x 16.9,129,Mini-SIM,2.36,35.0,320 x 240,169,120,950
+2010,5233,Nokia,434.0,Symbian,9.4,"[('70', '128')]",001,"['Accelerometer', 'proximity']",111 x 51.7 x 14.5,113,Mini-SIM,3.2,49.2,360 x 640,229,100,1320
+2010,E73 Mode,Nokia,,Symbian,OS,"[('250',)]",011,"['Accelerometer', 'compass']",113.8 x 58.4 x 10.2,127.6,Mini-SIM,2.4,26.8,320 x 240,167,120,1500
+2010,C2-00,Nokia,,,,"[('64', 'RO'), ('16', 'RA')]",001,[''],108 x 45 x 14.7,74.1,Mini-SIM,1.8,21.0,128 x 160,114,50,1020
+2010,C1-02,Nokia,,,,"[('10', '64')]",001,[''],108 x 45 x 13.8,77.5,Mini-SIM,1.8,21.0,128 x 160,114,40,1020
+2010,C1-01,Nokia,,,,"[('10', '16')]",001,[''],108 x 45 x 14,78.8,Mini-SIM,1.8,21.0,128 x 160,114,50,800
+2010,C1-00,Nokia,,,,,001,[''],107.1 x 45 x 15,72.9,Mini-SIM,1.8,21.2,128 x 160,114,30,1020
+2010,N8,Nokia,680.0,Symbian,3,"[('16', '256')]",011,"['Accelerometer', 'proximity', 'compass']",113.5 x 59.1 x 12.9,135,Mini-SIM,3.5,50.3,360 x 640,210,140,1200
+2010,X2-00,Nokia,,,,"[('48', '128')]",001,[''],111 x 47 x 13.3,81,Mini-SIM,2.2,28.7,240 x 320,182,40,860
+2010,C6,Nokia,434.0,Symbian,9.4,"[('240',)]",011,"['Accelerometer', 'proximity']",113 x 53 x 16.8,150,Mini-SIM,3.2,47.1,360 x 640,229,120,1200
+2010,E5,Nokia,600.0,Symbian,9.3,"[('250MB;', '256')]",011,[''],115 x 58.9 x 12.8,126,Mini-SIM,2.36,25.5,320 x 240,169,90,1200
+2010,C3 (2010),Nokia,,,,"[('55', '64')]",001,[''],115.5 x 58.1 x 13.6,114,Mini-SIM,2.4,26.6,320 x 240,167,90,1320
+2010,C5,Nokia,600.0,Symbian,9.3,"[('50', '128')]",011,[''],112 x 46 x 12.3,89.3,Mini-SIM,2.2,29.1,240 x 320,182,110,1050
+2010,C5 TD-SCDMA,Nokia,600.0,Symbian,9.3,"[('256',)]",011,[''],112 x 48 x 14.6,122,Mini-SIM,2.4,33.2,240 x 320,167,,950
+2010,X5 TD-SCDMA,Nokia,,Symbian,9.3,"[('256',)]",011,['Accelerometer'],113 x 49.8 x 14.7,120,Mini-SIM,2.4,31.7,240 x 320,167,,950
+2010,6303i classic,Nokia,,,,"[('55',)]",001,[''],108.8 x 46.2 x 11.7,96,Mini-SIM,2.2,29.8,240 x 320,182,80,1050
+2010,5132 XpressMusic,Nokia,,,,"[('30',)]",001,[''],107.5 x 46.7 x 14.8,88,Mini-SIM,2.0,24.7,240 x 320,200,70,1200
+2010,X6 16GB (2010),Nokia,434.0,Symbian,9.4,"[('16', '128')]",011,"['Accelerometer', 'proximity']",111 x 51 x 13.8,122,Mini-SIM,3.2,49.9,360 x 640,229,130,1320
+2024,Galaxy S24 Ultra,Samsung,8.0,Android,14,"[('256', '12'), ('512', '12'), ('1', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",162.3 x 79 x 8.6,232,Nano-SIM,6.8,88.5,1440 x 3120,505,1249.00,5000
+2024,Galaxy S24+,Samsung,8.0,Android,14,"[('256', '12'), ('512', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",158.5 x 75.9 x 7.7,196,Nano-SIM,6.7,91.6,1440 x 3120,513,999.00,4900
+2024,Galaxy S24,Samsung,8.0,Android,14,"[('128', '8'), ('256', '8'), ('256', '12'), ('512', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",147 x 70.6 x 7.6,167,Nano-SIM,6.2,90.9,1080 x 2340,416,799.00,4000
+2024,Galaxy Xcover7,Samsung,8,Android,14,"[('128', '6')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",169 x 80.1 x 10.2,240,Nano-SIM,6.6,77.5,1080 x 2408,400,,4050
+2023,Galaxy A25,Samsung,8,Android,14,"[('128', '6'), ('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",161 x 76.5 x 8.3,197,Nano-SIM,6.5,84.2,1080 x 2340,396,229.00,5000
+2023,Galaxy A15 5G,Samsung,8,Android,14,"[('128', '4'), ('128', '6'), ('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",160.1 x 76.8 x 8.4,200,Nano-SIM,6.5,84.3,1080 x 2340,396,,5000
+2023,Galaxy A15,Samsung,8,Android,14,"[('128', '4'), ('128', '6'), ('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'compass']",160.1 x 76.8 x 8.4,200,Nano-SIM,6.5,84.3,1080 x 2340,396,,5000
+2023,Galaxy Tab A9+,Samsung,8,Android,13,"[('64', '4'), ('128', '8')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",257.1 x 168.7 x 6.9,480,Nano-SIM,11.0,80.9,1200 x 1920,206,,7040
+2023,Galaxy Tab A9,Samsung,8,Android,13,"[('64', '4'), ('128', '8')]",111,"['Accelerometer', 'proximity', 'compass']",211 x 124.7 x 8,332,Nano-SIM,8.7,81.7,800 x 1340,179,180,5100
+2023,Galaxy S23 FE,Samsung,8,Android,13,"[('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",158 x 76.5 x 8.2,209,Nano-SIM,6.4,83.2,1080 x 2340,403,521.23,4500
+2023,Galaxy Tab S9 FE+,Samsung,8,Android,13,"[('128', '8'), ('256', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass', 'proximity']",285.4 x 185.4 x 6.5,627,Nano-SIM,12.4,84.3,1600 x 2560,243,,10090
+2023,Galaxy Tab S9 FE,Samsung,8,Android,13,"[('128', '6'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass', 'proximity']",254.3 x 165.8 x 6.5,523,Nano-SIM,10.9,81.7,1440 x 2304,249,,8000
+2023,Galaxy A05s,Samsung,8,Android,13,"[('64', '4'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'proximity']",168 x 77.8 x 8.8,194,Nano-SIM,6.7,82.9,1080 x 2400,393,129.00,5000
+2023,Galaxy A05,Samsung,8,Android,13,"[('64', '4'), ('128', '4'), ('128', '6')]",111,"['Accelerometer', 'proximity']",168.8 x 78.2 x 8.8,195,Nano-SIM,6.7,82.1,720 x 1600,262,,5000
+2023,Galaxy F34,Samsung,8,Android,13,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",161.7 x 77.2 x 8.8,208,Nano-SIM,6.5,83.1,1080 x 2340,396,,6000
+2023,Galaxy Z Fold5,Samsung,8,Android,13,"[('256', '12'), ('512', '12'), ('1', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",Unfolded: 154.9 x 129.9 x 6.1,253,Nano-SIM,7.6,91.1,1812 x 2176,373,1158.34,4400
+2023,Galaxy Z Flip5,Samsung,8,Android,13,"[('256', '8'), ('512', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",Unfolded: 165.1 x 71.9 x 6.9,187,Nano-SIM,6.7,85.9,1080 x 2640,425,627.99,3700
+2023,Galaxy Tab S9 Ultra,Samsung,8,Android,13,"[('256', '12'), ('512', '12'), ('1', '12'), ('1', '16')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",326.4 x 208.6 x 5.5,732,Nano-SIM,14.6,90.7,1848 x 2960,239,1200,11200
+2023,Galaxy Tab S9+,Samsung,8,Android,13,"[('256', '12'), ('512', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",285.4 x 185.4 x 5.7,586,Nano-SIM,12.4,84.3,1752 x 2800,266,1000,10090
+2023,Galaxy Tab S9,Samsung,8,Android,13,"[('128', '8'), ('256', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",254.3 x 165.8 x 5.9,498,Nano-SIM,11.0,83.2,1600 x 2560,274,750,8400
+2023,Galaxy Watch6 Classic,Samsung,2,Android,Wear,"[('16', '2')]",111,"['Accelerometer', 'proximity', 'gyro', 'compass', 'heart rate', 'barometer', 'thermometer']",46.5 x 46.5 x 10.9,59,,1.5,,480 x 480,453,,425
+2023,Galaxy Watch6,Samsung,2,Android,Wear,"[('16', '2')]",111,"['Accelerometer', 'gyro', 'compass', 'heart rate', 'barometer', 'thermometer']",42.8 x 44.4 x 9,33.3,,1.5,,480 x 480,453,289.00,425
+2023,Galaxy M34 5G,Samsung,8,Android,13,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",161.7 x 77.2 x 8.8,208,Nano-SIM,6.5,83.1,1080 x 2340,396,,6000
+2023,Galaxy F54,Samsung,8,Android,13,"[('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",164.9 x 77.3 x 8.4,199,Nano-SIM,6.7,85.0,1080 x 2400,393,,6000
+2023,Galaxy A24 4G,Samsung,8,Android,13,"[('128', '4'), ('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",162.1 x 77.6 x 8.3,195,Nano-SIM,6.5,82.4,1080 x 2340,396,155.00,5000
+2023,Galaxy F14,Samsung,8,Android,13,"[('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",166.8 x 77.2 x 9.4,206,Nano-SIM,6.6,81.5,1080 x 2408,400,,6000
+2023,Galaxy M54,Samsung,8,Android,13,"[('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",164.9 x 77.3 x 8.4,199,Nano-SIM,6.7,85.0,1080 x 2400,393,190,6000
+2023,Galaxy A54,Samsung,8,Android,13,"[('128', '4'), ('128', '6'), ('128', '8'), ('256', '6'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass', 'barometer']",158.2 x 76.7 x 8.2,202,Nano-SIM,6.4,82.9,1080 x 2340,403,236.50,5000
+2023,Galaxy A34,Samsung,8,Android,13,"[('128', '4'), ('128', '6'), ('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",161.3 x 78.1 x 8.2,199,Nano-SIM,6.6,84.9,1080 x 2340,390,179.00,5000
+2023,Galaxy M14,Samsung,8,Android,13,"[('64', '4'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",166.8 x 77.2 x 9.4,206,Nano-SIM,6.6,81.5,1080 x 2408,400,,6000
+2023,Galaxy S23 Ultra,Samsung,8,Android,13,"[('256', '8'), ('256', '12'), ('512', '12'), ('1', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",163.4 x 78.1 x 8.9,234,Nano-SIM,6.8,89.9,1440 x 3088,500,737.75,5000
+2023,Galaxy S23+,Samsung,8,Android,13,"[('256', '8'), ('512', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",157.8 x 76.2 x 7.6,196,Nano-SIM,6.6,87.6,1080 x 2340,393,650.00,4700
+2023,Galaxy S23,Samsung,8,Android,13,"[('128', '8'), ('256', '8'), ('512', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",146.3 x 70.9 x 7.6,168,Nano-SIM,6.1,86.8,1080 x 2340,425,484.00,3900
+2023,Galaxy A14,Samsung,8,Android,13,"[('64', '4'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'proximity', 'compass']",167.7 x 78 x 9.1,201,Nano-SIM,6.6,80.2,1080 x 2408,400,104.89,5000
+2023,Galaxy A14 5G,Samsung,8,Android,13,"[('64', '4'), ('128', '4'), ('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",167.7 x 78 x 9.1,202,Nano-SIM,6.6,80.2,1080 x 2408,400,128.49,5000
+2023,Galaxy F04,Samsung,8,Android,12,"[('64', '4')]",111,"['Accelerometer', 'proximity']",164.2 x 75.9 x 9.1,188,Nano-SIM,6.5,81.8,720 x 1600,270,,5000
+2022,Galaxy M04,Samsung,8,Android,12,"[('64', '4'), ('128', '4')]",111,"['Accelerometer', 'proximity']",164.2 x 75.9 x 9.1,188,Nano-SIM,6.5,81.8,720 x 1600,270,,5000
+2022,Galaxy Tab A7 10.4 (2022),Samsung,8,Android,12,"[('32', '3'), ('32', '4'), ('64', '3')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",247.6 x 157.4 x 7,477,Nano-SIM,10.4,79.0,1200 x 2000,224,250,7040
+2022,Galaxy A04e,Samsung,8,Android,12,"[('32', '3'), ('32', '4'), ('64', '2'), ('64', '3'), ('64', '4'), ('128', '4')]",111,"['Accelerometer', 'proximity']",164.2 x 75.9 x 9.1,188,Nano-SIM,6.5,81.8,720 x 1600,270,,5000
+2022,Galaxy Tab Active4 Pro,Samsung,8,Android,12,"[('64', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",242.9 x 170.2 x 10.2,674,Nano-SIM,10.1,71.5,1920 x 1200,224,830,7600
+2022,Galaxy A04s,Samsung,8,Android,12,"[('32', '3'), ('32', '4'), ('64', '4'), ('128', '4')]",111,"['Fingerprint', 'accelerometer']",164.7 x 76.7 x 9.1,195,Nano-SIM,6.5,80.7,720 x 1600,270,94.00,5000
+2022,Galaxy A04,Samsung,8,Android,12,"[('32', '3'), ('32', '4'), ('64', '4'), ('64', '6'), ('128', '4'), ('128', '8')]",111,"['Accelerometer', 'proximity']",164.4 x 76.3 x 9.1,192,Nano-SIM,6.5,81.3,720 x 1600,270,,5000
+2022,Galaxy Z Fold4,Samsung,8,Android,12L,"[('256', '12'), ('512', '12'), ('1', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",Unfolded: 155.1 x 130.1 x 6.3,263,Nano-SIM,7.6,90.9,1812 x 2176,373,600.00,4400
+2022,Galaxy Z Flip4,Samsung,8,Android,12,"[('128', '8'), ('256', '8'), ('512', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",Unfolded: 165.2 x 71.9 x 6.9,187,Nano-SIM,6.7,85.4,1080 x 2640,426,379.99,3700
+2022,Galaxy Watch5 Pro,Samsung,2,Android,Wear,"[('16', '1.5')]",111,"['Accelerometer', 'gyro', 'heart rate', 'barometer', 'thermometer']",45.4 x 45.4 x 10.5,46.5,,1.4,,450 x 450,321,,590
+2022,Galaxy Watch5,Samsung,2,Android,Wear,"[('16', '1.5')]",111,"['Accelerometer', 'gyro', 'heart rate', 'barometer', 'thermometer']",44.4 x 43.3 x 9.8,33.5,,1.4,,450 x 450,321,,410
+2022,Galaxy A23 5G,Samsung,8,Android,12,"[('64', '4'), ('64', '6'), ('128', '4'), ('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass', 'barometer']",165.4 x 76.9 x 8.4,197,Nano-SIM,6.6,82.5,1080 x 2408,400,149.99,5000
+2022,Galaxy M13 5G,Samsung,8,Android,12,"[('64', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",164.5 x 76.5 x 8.8,195,Nano-SIM,6.5,81.1,720 x 1600,270,,5000
+2022,Galaxy M13 (India),Samsung,8,Android,12,"[('64', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'compass']",165.4 x 76.9 x 9.3,207,Nano-SIM,6.6,82.5,1080 x 2408,400,,6000
+2022,Galaxy A13 (SM-A137),Samsung,8,Android,12,"[('32', '3'), ('32', '4'), ('64', '4'), ('128', '4')]",111,"['Fingerprint', 'accelerometer', 'compass']",165.1 x 76.4 x 8.8,195,Nano-SIM,6.6,83.2,1080 x 2408,400,152.00,5000
+2022,Galaxy Xcover6 Pro,Samsung,8,Android,12,"[('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",168.8 x 79.9 x 9.9,235,Nano-SIM,6.6,77.8,1080 x 2408,400,335.00,4050
+2022,Galaxy F13,Samsung,8,Android,12,"[('64', '4'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'compass']",165.4 x 76.9 x 9.3,207,Nano-SIM,6.6,82.5,1080 x 2408,400,,6000
+2022,Galaxy M13,Samsung,8,Android,12,"[('64', '4'), ('128', '4')]",111,"['Fingerprint', 'accelerometer', 'compass']",165.4 x 76.9 x 8.4,192,Nano-SIM,6.6,82.5,1080 x 2408,400,139.99,5000
+2022,Galaxy Tab S6 Lite (2022),Samsung,8,Android,12,"[('64', '4'), ('128', '4')]",111,"['Accelerometer', 'proximity', 'gyro']",244.5 x 154.3 x 7,465/467,Nano-SIM,10.4,81.6,1200 x 2000,224,400,7040
+2022,Galaxy M53,Samsung,8,Android,12,"[('128', '6'), ('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",164.7 x 77 x 7.4,176,Nano-SIM,6.7,85.3,1080 x 2408,394,349.24,5000
+2022,Galaxy S20 FE 2022,Samsung,8,Android,12,"[('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.8 x 74.5 x 8.4,190,Nano-SIM,6.5,85.7,1080 x 2400,405,520,4500
+2022,Galaxy A73 5G,Samsung,8,Android,12,"[('128', '6'), ('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",163.7 x 76.1 x 7.6,181,Nano-SIM,6.7,87.0,1080 x 2400,393,,5000
+2022,Galaxy A53 5G,Samsung,8,Android,12,"[('128', '4'), ('128', '6'), ('128', '8'), ('256', '6'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass', 'barometer']",159.6 x 74.8 x 8.1,189,Nano-SIM,6.5,85.4,1080 x 2400,405,190.97,5000
+2022,Galaxy A33 5G,Samsung,8,Android,12,"[('128', '4'), ('128', '6'), ('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.7 x 74 x 8.1,186,Nano-SIM,6.4,83.7,1080 x 2400,411,150.00,5000
+2022,Galaxy F23,Samsung,8,Android,12,"[('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",165.5 x 77 x 8.4,198,Nano-SIM,6.6,82.3,1080 x 2408,400,,5000
+2022,Galaxy M33,Samsung,8,Android,12,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro']",165.4 x 76.9 x 9.4,198,Nano-SIM,6.6,82.5,1080 x 2408,400,293.02,5000
+2022,Galaxy M23,Samsung,8,Android,12,"[('64', '4'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",165.5 x 77 x 8.4,198,Nano-SIM,6.6,82.3,1080 x 2408,400,209.68,5000
+2022,Galaxy A23,Samsung,8,Android,12,"[('64', '4'), ('64', '6'), ('128', '4'), ('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",165.4 x 76.9 x 8.4,195,Nano-SIM,6.6,82.5,1080 x 2408,400,184.90,5000
+2022,Galaxy A13,Samsung,8,Android,12,"[('32', '3'), ('32', '4'), ('64', '4'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'compass']",165.1 x 76.4 x 8.8,195,Nano-SIM,6.6,83.2,1080 x 2408,400,115.00,5000
+2022,Galaxy S22 Ultra 5G,Samsung,8,Android,12,"[('128', '8'), ('256', '12'), ('512', '12'), ('1', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",163.3 x 77.9 x 8.9,228,Nano-SIM,6.8,90.2,1440 x 3088,500,433.99,5000
+2022,Galaxy S22+ 5G,Samsung,8,Android,12,"[('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",157.4 x 75.8 x 7.6,195,Nano-SIM,6.6,88.3,1080 x 2340,393,339.99,4500
+2022,Galaxy S22 5G,Samsung,8,Android,12,"[('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",146 x 70.6 x 7.6,167,Nano-SIM,6.1,87.4,1080 x 2340,425,283.04,3700
+2022,Galaxy Tab S8 Ultra,Samsung,8,Android,12,"[('128', '8'), ('256', '8'), ('256', '12'), ('256', '16'), ('512', '12'), ('512', '16')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",326.4 x 208.6 x 5.5,726,Nano-SIM,14.6,90.0,1848 x 2960,240,1150,11200
+2022,Galaxy Tab S8+,Samsung,8,Android,12,"[('128', '8'), ('256', '8'), ('256', '12'), ('512', '16')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",285 x 185 x 5.7,567,Nano-SIM,12.4,84.6,1752 x 2800,266,950,10090
+2022,Galaxy Tab S8,Samsung,8,Android,12,"[('128', '8'), ('256', '8'), ('256', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",253.8 x 165.3 x 6.3,503,Nano-SIM,11.0,83.6,1600 x 2560,274,940,8000
+2022,Galaxy S21 FE 5G,Samsung,8,Android,12,"[('128', '6'), ('128', '8'), ('256', '6'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",155.7 x 74.5 x 7.9,177,Nano-SIM,6.4,86.7,1080 x 2340,403,224.25,4500
+2021,Galaxy Tab A8 10.5 (2021),Samsung,8,Android,11,"[('32', '2'), ('32', '3'), ('64', '4'), ('128', '3'), ('128', '4')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",246.8 x 161.9 x 6.9,508,Nano-SIM,10.5,80.0,1200 x 1920,216,230,7040
+2021,Galaxy A13 5G,Samsung,8,Android,11,"[('64', '4'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass', 'barometer']",164.5 x 76.5 x 8.8,195,Nano-SIM,6.5,81.1,720 x 1600,270,124.61,5000
+2021,Galaxy A03,Samsung,8,Android,11,"[('32', '2'), ('32', '3'), ('32', '4'), ('64', '4'), ('64', '3'), ('128', '4')]",111,"['Accelerometer', 'proximity']",164.2 x 75.9 x 9.1,196,Nano-SIM,6.5,81.8,720 x 1600,270,94.99,5000
+2021,Galaxy A03 Core,Samsung,8,Android,11,"[('32', '2')]",111,"['Accelerometer', 'proximity']",164.2 x 75.9 x 9.1,211,Nano-SIM,6.5,81.8,720 x 1600,270,78.30,5000
+2021,Galaxy F42 5G,Samsung,8,Android,11,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",167.2 x 76.4 x 9,203,Nano-SIM,6.6,82.1,1080 x 2408,400,240,5000
+2021,Galaxy M52 5G,Samsung,8,Android,11,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",164.2 x 76.4 x 7.4,173,Nano-SIM,6.7,86.4,1080 x 2400,393,324.99,5000
+2021,Galaxy M22,Samsung,8,Android,11,"[('64', '4'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'unspecified sensors']",159.9 x 74 x 8.4,186,Nano-SIM,6.4,83.6,720 x 1600,274,160,5000
+2021,Galaxy M32 5G,Samsung,8,Android,11,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",164.2 x 76.1 x 9.1,205,Nano-SIM,6.5,81.6,720 x 1600,270,220,5000
+2021,Galaxy A03s,Samsung,8,Android,11,"[('32', '2'), ('32', '3'), ('32', '4'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'proximity']",164.2 x 75.9 x 9.1,196,Nano-SIM,6.5,81.8,720 x 1600,270,99.49,5000
+2021,Galaxy A52s 5G,Samsung,8,Android,11,"[('128', '4'), ('128', '6'), ('128', '8'), ('256', '6'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.9 x 75.1 x 8.4,189,Nano-SIM,6.5,84.9,1080 x 2400,405,180.00,4500
+2021,Galaxy Z Fold3 5G,Samsung,8,Android,11,"[('256', '12'), ('512', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",Unfolded: 158.2 x 128.1 x 6.4,271,Nano-SIM,7.6,88.8,1768 x 2208,374,499.00,4400
+2021,Galaxy Z Flip3 5G,Samsung,8,Android,11,"[('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",Unfolded: 166 x 72.2 x 6.9,183,Nano-SIM,6.7,84.7,1080 x 2640,426,328.00,3300
+2021,Galaxy Watch4 Classic,Samsung,2,Android,Wear,"[('16', '1.5')]",111,"['Accelerometer', 'gyro', 'compass', 'barometer', 'heart rate', 'SpO2']",45.5 x 45.5 x 11,52,,1.4,,450 x 450,321,,361
+2021,Galaxy Watch4,Samsung,2,Android,Wear,"[('16', '1.5')]",111,"['Accelerometer', 'gyro', 'compass', 'barometer', 'heart rate', 'SpO2']",44.4 x 43.3 x 9.8,30.3,,1.4,,450 x 450,321,,361
+2021,Galaxy A12 (India),Samsung,8,Android,11,"[('64', '4'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer']",164 x 75.8 x 8.9,205,Nano-SIM,6.5,82.1,720 x 1600,270,160,5000
+2021,Galaxy A12 Nacho,Samsung,8,Android,11,"[('32', '3'), ('32', '4'), ('64', '4'), ('128', '4')]",111,"['Fingerprint', 'accelerometer']",164 x 75.8 x 8.9,205,Nano-SIM,6.5,82.1,720 x 1600,270,129.99,5000
+2021,Galaxy M21 2021,Samsung,8,Android,11,"[('64', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",159 x 75.1 x 9,192,Nano-SIM,6.4,84.2,1080 x 2340,403,130,6000
+2021,Galaxy F22,Samsung,8,Android,11,"[('64', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",160 x 74 x 9.4,203,Nano-SIM,6.4,83.5,720 x 1600,274,170,6000
+2021,Galaxy M32,Samsung,8,Android,11,"[('64', '4'), ('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.3 x 74 x 8.4,180,Nano-SIM,6.4,83.9,1080 x 2400,411,269.00,5000
+2021,Galaxy A22 5G,Samsung,8,Android,11,"[('64', '4'), ('128', '4'), ('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",167.2 x 76.4 x 9,203,Nano-SIM,6.6,82.3,1080 x 2400,399,122.00,5000
+2021,Galaxy A22,Samsung,8,Android,11,"[('64', '4'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.3 x 73.6 x 8.4,186,Nano-SIM,6.4,84.3,720 x 1600,274,359.00,5000
+2021,Galaxy Tab A7 Lite,Samsung,8,Android,11,"[('32', '2'), ('32', '3'), ('64', '4')]",111,"['Accelerometer', 'compass']",212.5 x 124.7 x 8,366,Nano-SIM,8.7,81.1,800 x 1340,179,,5100
+2021,Galaxy Tab S7 FE,Samsung,8,Android,11,"[('64', '4'), ('128', '6'), ('256', '8')]",111,"['Accelerometer', 'proximity', 'compass', 'gyro']",284.8 x 185 x 6.3,608,Nano-SIM,12.4,84.6,1600 x 2560,243,650,10090
+2021,Galaxy F52 5G,Samsung,8,Android,11,"[('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",164.6 x 76.3 x 8.7,199,Nano-SIM,6.6,83.6,1080 x 2408,400,260,4500
+2021,Galaxy M42 5G,Samsung,8,Android,11,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",164.4 x 75.9 x 8.6,190,Nano-SIM,6.6,84.3,720 x 1600,266,220,5000
+2021,Galaxy M12,Samsung,8,Android,11,"[('32', '3'), ('32', '4'), ('64', '4'), ('128', '4')]",111,"['Fingerprint', 'accelerometer']",164 x 75.9 x 9.7,212,Nano-SIM,6.5,81.9,720 x 1600,270,129.99,5000
+2021,Galaxy Quantum 2,Samsung,8,Android,11,"[('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",161.9 x 73.8 x 8.1,176,Nano-SIM,6.7,90.7,1440 x 3200,524,520,4500
+2021,Galaxy F12,Samsung,8,Android,11,"[('64', '4'), ('128', '4')]",111,"['Fingerprint', 'accelerometer']",164 x 75.9 x 9.7,221,Nano-SIM,6.5,81.9,720 x 1600,270,130,6000
+2021,Galaxy F02s,Samsung,8,Android,10,"[('32', '3'), ('64', '4')]",111,"['Accelerometer', 'proximity']",164.2 x 75.9 x 9.1,196,Nano-SIM,6.5,81.8,720 x 1600,270,100,5000
+2021,Galaxy A72,Samsung,8,Android,11,"[('128', '6'), ('128', '8'), ('256', '6'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",165 x 77.4 x 8.4,203,Nano-SIM,6.7,84.4,1080 x 2400,394,388.00,5000
+2021,Galaxy A52 5G,Samsung,8,Android,11,"[('128', '6'), ('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.9 x 75.1 x 8.4,189,Nano-SIM,6.5,84.1,1080 x 2400,407,317.20,4500
+2021,Galaxy A52,Samsung,8,Android,11,"[('128', '4'), ('128', '6'), ('128', '8'), ('256', '6'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.9 x 75.1 x 8.4,189,Nano-SIM,6.5,84.1,1080 x 2400,407,170.00,4500
+2021,Galaxy Xcover 5,Samsung,8,Android,11,"[('64', '4')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",147.1 x 71.6 x 9.2,172,Nano-SIM,5.3,67.7,720 x 1480,311,171.50,3000
+2021,Galaxy A32,Samsung,8,Android,11,"[('64', '4'), ('128', '4'), ('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",158.9 x 73.6 x 8.4,184,Nano-SIM,6.4,84.6,1080 x 2400,411,179.99,5000
+2021,Galaxy M62,Samsung,8,Android,11,"[('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",163.9 x 76.3 x 9.5,218,Nano-SIM,6.7,86.7,1080 x 2400,393,,7000
+2021,Galaxy F62,Samsung,8,Android,11,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",163.9 x 76.3 x 9.5,218,Nano-SIM,6.7,86.7,1080 x 2400,393,270,7000
+2021,Galaxy M12 (India),Samsung,8,Android,11,"[('64', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer']",164 x 75.9 x 9.7,221,Nano-SIM,6.5,81.9,720 x 1600,270,130,6000
+2021,Galaxy S21 Ultra 5G,Samsung,8,Android,11,"[('128', '12'), ('256', '12'), ('256', '16'), ('512', '12'), ('512', '16')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",165.1 x 75.6 x 8.9,227,Nano-SIM,6.8,89.8,1440 x 3200,515,320.00,5000
+2021,Galaxy S21+ 5G,Samsung,8,Android,11,"[('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",161.5 x 75.6 x 7.8,200,Nano-SIM,6.7,88.3,1080 x 2400,394,252.60,4800
+2021,Galaxy S21 5G,Samsung,8,Android,11,"[('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",151.7 x 71.2 x 7.9,169,Nano-SIM,6.2,87.2,1080 x 2400,421,216.50,4000
+2021,Galaxy A32 5G,Samsung,8,Android,11,"[('64', '4'), ('128', '4'), ('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",164.2 x 76.1 x 9.1,205,Nano-SIM,6.5,81.6,720 x 1600,270,119.99,5000
+2021,Galaxy M02s,Samsung,8,Android,10,"[('32', '3'), ('64', '4')]",111,"['Accelerometer', 'proximity']",164.2 x 75.9 x 9.1,196,Nano-SIM,6.5,81.8,720 x 1600,270,100,5000
+2020,Galaxy A12,Samsung,8,Android,10,"[('32', '2'), ('32', '3'), ('64', '4'), ('128', '3'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer']",164 x 75.8 x 8.9,205,Nano-SIM,6.5,82.1,720 x 1600,270,105.00,5000
+2021,Galaxy M02,Samsung,4,Android,10,"[('32', '2'), ('32', '3')]",111,['Accelerometer'],164 x 75.9 x 9.1,206,Nano-SIM,6.5,81.9,720 x 1600,270,80,5000
+2021,Galaxy A02,Samsung,4,Android,10,"[('32', '2'), ('32', '3'), ('32', '4'), ('64', '3')]",111,['Accelerometer'],164 x 75.9 x 9.1,206,Nano-SIM,6.5,81.9,720 x 1600,270,89.99,5000
+2020,Galaxy A02s,Samsung,8,Android,10,"[('16', '1'), ('32', '2'), ('32', '3'), ('32', '4'), ('64', '3'), ('64', '4')]",111,"['Accelerometer', 'proximity']",164.2 x 75.9 x 9.1,196,Nano-SIM,6.5,81.8,720 x 1600,270,90.00,5000
+2020,Galaxy M21s,Samsung,8,Android,10,"[('64', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",159.2 x 75.1 x 8.9,191,Nano-SIM,6.4,84.1,1080 x 2340,403,230,6000
+2020,Galaxy M31 Prime,Samsung,8,Android,10,"[('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.2 x 75.1 x 8.9,191,Nano-SIM,6.4,84.1,1080 x 2340,403,190,6000
+2020,Galaxy F41,Samsung,8,Android,10,"[('64', '6'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.2 x 75.1 x 8.9,191,Nano-SIM,6.4,84.1,1080 x 2340,403,200,6000
+2020,Galaxy Tab Active3,Samsung,8,Android,10,"[('64', '4'), ('128', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",213.8 x 126.8 x 9.9,426,Nano-SIM,8.0,68.5,1200 x 1920,283,600,5050
+2020,Galaxy S20 FE 5G,Samsung,8,Android,10,"[('128', '6'), ('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.8 x 74.5 x 8.4,190,Nano-SIM,6.5,84.8,1080 x 2400,407,179.98,4500
+2020,Galaxy S20 FE,Samsung,8,Android,10,"[('128', '6'), ('128', '8'), ('256', '6'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.8 x 74.5 x 8.4,190,Nano-SIM,6.5,84.8,1080 x 2400,407,390,4500
+2020,Galaxy A42 5G,Samsung,8,Android,10,"[('128', '4'), ('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",164.4 x 75.9 x 8.6,193,Nano-SIM,6.6,84.3,720 x 1600,266,150.84,5000
+2020,Galaxy Tab A7 10.4 (2020),Samsung,8,Android,10,"[('32', '3'), ('32', '4'), ('64', '3')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",247.6 x 157.4 x 7,476,Nano-SIM,10.4,79.0,1200 x 2000,224,240,7040
+2020,Galaxy M51,Samsung,8,Android,10,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",163.9 x 76.3 x 9.5,213,Nano-SIM,6.7,86.7,1080 x 2400,393,470,7000
+2020,Galaxy A51 5G UW,Samsung,8,Android,10,"[('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",158.8 x 73.4 x 8.6,188.8,Nano-SIM,6.5,87.5,1080 x 2400,405,470,4500
+2020,Galaxy Z Fold2 5G,Samsung,8,Android,10,"[('256', '12'), ('512', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",Unfolded: 159.2 x 128.2 x 6.9,282,Nano-SIM,7.6,88.6,1768 x 2208,373,960,4500
+2020,Galaxy Note20 Ultra 5G,Samsung,8,Android,10,"[('128', '12'), ('256', '8'), ('256', '12'), ('512', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",164.8 x 77.2 x 8.1,208,Nano-SIM,6.9,91.7,1440 x 3088,496,400.00,4500
+2020,Galaxy Note20 Ultra,Samsung,8,Android,10,"[('256', '8'), ('256', '12'), ('512', '8'), ('512', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",164.8 x 77.2 x 8.1,208,Nano-SIM,6.9,91.7,1440 x 3088,496,1250,4500
+2020,Galaxy Note20 5G,Samsung,8,Android,10,"[('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",161.6 x 75.2 x 8.3,192,Nano-SIM,6.7,89.2,1080 x 2400,393,239.99,4300
+2020,Galaxy Note20,Samsung,8,Android,10,"[('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",161.6 x 75.2 x 8.3,192,Nano-SIM,6.7,89.2,1080 x 2400,393,240.00,4300
+2020,Galaxy Watch3,Samsung,2,Tizen,OS,"[('4', '1'), ('8', '1')]",111,"['Accelerometer', 'gyro', 'heart rate', 'barometer']",46.2 x 45 x 11.1,"53.8 (45mm), 48.2",,1.4,,360 x 360,364,,340
+2020,Galaxy Tab S7+,Samsung,8,Android,10,"[('128', '6'), ('256', '8'), ('512', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",285 x 185 x 5.7,575,Nano-SIM,12.4,84.6,1752 x 2800,266,900,10090
+2020,Galaxy Tab S7,Samsung,8,Android,10,"[('128', '6'), ('256', '8'), ('512', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",253.8 x 165.3 x 6.3,498,Nano-SIM,11.0,83.6,1600 x 2560,274,700,8000
+2020,Galaxy Z Flip 5G,Samsung,8,Android,10,"[('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",Unfolded: 167.3 x 73.6 x 7.2,183,Nano-SIM,6.7,82.5,1080 x 2636,425,800,3300
+2020,Galaxy M31s,Samsung,8,Android,10,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.3 x 74.4 x 9.3,203,Nano-SIM,6.5,86.1,1080 x 2400,405,300,6000
+2020,Galaxy M01s,Samsung,8,Android,9.0,"[('32', '3')]",111,"['Fingerprint', 'accelerometer', 'proximity']",156.9 x 75.8 x 7.8,168,Nano-SIM,6.2,80.7,720 x 1520,271,110,4000
+2020,Galaxy M01 Core,Samsung,4,Android,10,"[('16', '1'), ('32', '2')]",111,['Accelerometer'],141.7 x 67.5 x 8.6,150,Nano-SIM,5.3,74.5,720 x 1480,311,60,3000
+2020,Galaxy A01 Core,Samsung,4,Android,10,"[('16', '1'), ('16', '2'), ('32', '2')]",111,['Accelerometer'],141.7 x 67.5 x 8.6,150,Nano-SIM,5.3,74.5,720 x 1480,311,150,3000
+2020,Galaxy A71 5G UW,Samsung,8,Android,10,"[('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",162.8 x 75.7 x 8.4,188,Nano-SIM,6.7,87.9,1080 x 2400,393,,4500
+2020,Galaxy M01,Samsung,8,Android,10,"[('32', '3')]",111,"['Accelerometer', 'proximity']",147.5 x 70.9 x 9.8,168,Nano-SIM,5.7,78.1,720 x 1520,294,110,4000
+2020,Galaxy A21s,Samsung,8,Android,10,"[('32', '2'), ('32', '3'), ('32', '4'), ('64', '3'), ('64', '4'), ('64', '6'), ('128', '3'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",163.7 x 75.3 x 8.9,192,Nano-SIM,6.5,82.8,720 x 1600,270,220,5000
+2020,Galaxy J2 Core (2020),Samsung,4,Android,8.1,"[('16', '1')]",111,"['Accelerometer', 'proximity']",143.4 x 72.1 x 8.9,154,Micro-SIM,5.0,66.7,540 x 960,220,130,2600
+2020,Galaxy A Quantum,Samsung,8,Android,10,"[('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",162.5 x 75.5 x 8.1,185,Nano-SIM,6.7,88.3,1080 x 2400,393,500,4500
+2020,Galaxy A71 5G,Samsung,8,Android,10,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",162.5 x 75.5 x 8.1,185,Nano-SIM,6.7,88.3,1080 x 2400,393,344.00,4500
+2020,Galaxy A51 5G,Samsung,8,Android,10,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",158.9 x 73.6 x 8.7,187,Nano-SIM,6.5,87.2,1080 x 2400,405,138.90,4500
+2020,Galaxy A21,Samsung,8,Android,10,"[('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",167.8 x 76.7 x 8.1,193,Nano-SIM,6.5,79.3,720 x 1600,270,,4000
+2020,Galaxy Tab A 8.4 (2020),Samsung,8,Android,10,"[('32', '3')]",111,['Accelerometer'],202 x 125.2 x 7.1,309,Nano-SIM,8.4,80.9,1200 x 1920,270,240,5000
+2020,Galaxy Tab S6 Lite,Samsung,8,Android,10,"[('64', '4'), ('128', '4')]",111,"['Accelerometer', 'proximity', 'gyro']",244.5 x 154.3 x 7,467,Nano-SIM,10.4,81.6,1200 x 2000,224,380,7040
+2020,Galaxy M11,Samsung,8,Android,10,"[('32', '3'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'proximity']",161.4 x 76.3 x 9,197,Nano-SIM,6.4,81.6,720 x 1560,268,194.99,5000
+2020,Galaxy A31,Samsung,8,Android,10,"[('64', '4'), ('128', '4'), ('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.3 x 73.1 x 8.6,185,Nano-SIM,6.4,84.9,1080 x 2400,411,139.99,5000
+2020,Galaxy A41,Samsung,8,Android,10,"[('64', '4'), ('64', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",149.9 x 69.8 x 7.9,152,Nano-SIM,6.1,85.9,1080 x 2400,431,290,3500
+2020,Galaxy M21,Samsung,8,Android,10,"[('64', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",159 x 75.1 x 8.9,188,Nano-SIM,6.4,84.2,1080 x 2340,403,190,6000
+2020,Galaxy A11,Samsung,8,Android,10,"[('32', '2'), ('32', '3'), ('64', '3'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'proximity']",161.4 x 76.3 x 8,177,Nano-SIM,6.4,81.6,720 x 1560,268,160,4000
+2020,Galaxy M31,Samsung,8,Android,10,"[('64', '6'), ('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",159.2 x 75.1 x 8.9,191,Nano-SIM,6.4,84.1,1080 x 2340,403,310,6000
+2020,Galaxy S20 Ultra 5G,Samsung,8,Android,10,"[('128', '12'), ('256', '12'), ('512', '16')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",166.9 x 76 x 8.8,222,Nano-SIM,6.9,89.9,1440 x 3200,511,259.99,5000
+2020,Galaxy S20 Ultra,Samsung,8,Android,10,"[('128', '12'), ('512', '16')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",166.9 x 76 x 8.8,220,Nano-SIM,6.9,89.9,1440 x 3200,511,690,5000
+2020,Galaxy S20+ 5G,Samsung,8,Android,10,"[('128', '8'), ('128', '12'), ('256', '12'), ('512', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",161.9 x 73.7 x 7.8,188,Nano-SIM,6.7,90.5,1440 x 3200,525,249.00,4500
+2020,Galaxy S20+,Samsung,8,Android,10,"[('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",161.9 x 73.7 x 7.8,186,Nano-SIM,6.7,90.5,1440 x 3200,525,219.00,4500
+2020,Galaxy S20 5G UW,Samsung,8,Android,10,"[('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",151.7 x 69.1 x 8.1,168.1,Nano-SIM,6.2,88.5,1440 x 3200,566,880,4000
+2020,Galaxy S20 5G,Samsung,8,Android,10,"[('128', '8'), ('128', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",151.7 x 69.1 x 7.9,163,Nano-SIM,6.2,89.5,1440 x 3200,563,204.96,4000
+2020,Galaxy S20,Samsung,8,Android,10,"[('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",151.7 x 69.1 x 7.9,163,Nano-SIM,6.2,89.5,1440 x 3200,563,199.99,4000
+2020,Galaxy Z Flip,Samsung,8,Android,10,"[('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",Unfolded: 167.3 x 73.6 x 7.2,183,Nano-SIM,6.7,82.5,1080 x 2636,425,770,3300
+2020,Galaxy Tab S6 5G,Samsung,8,Android,10,"[('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",244.5 x 159.5 x 5.7,420,Nano-SIM,10.5,82.5,1600 x 2560,287,800,7040
+2020,Galaxy Xcover Pro,Samsung,8,Android,10,"[('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",159.9 x 76.7 x 10,218,Nano-SIM,6.3,79.4,1080 x 2340,409,139.99,4050
+2020,Galaxy Note10 Lite,Samsung,8,Android,10,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",163.7 x 76.1 x 8.7,199,Nano-SIM,6.7,86.6,1080 x 2400,394,550,4500
+2020,Galaxy S10 Lite,Samsung,8,Android,10,"[('128', '6'), ('128', '8'), ('512', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",162.5 x 75.6 x 8.1,186,Nano-SIM,6.7,87.8,1080 x 2400,394,380,4500
+2019,Galaxy A01,Samsung,8,Android,10,"[('16', '2'), ('32', '2')]",111,"['Accelerometer', 'proximity']",146.2 x 70.9 x 8.3,149,Nano-SIM,5.7,78.8,720 x 1520,294,200,3000
+2019,Galaxy A71,Samsung,8,Android,10,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",163.6 x 76 x 7.7,179,Nano-SIM,6.7,87.2,1080 x 2400,393,115.00,4500
+2019,Galaxy A51,Samsung,8,Android,10,"[('64', '4'), ('128', '4'), ('128', '6'), ('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",158.5 x 73.6 x 7.9,172,Nano-SIM,6.5,87.4,1080 x 2400,405,149.00,4000
+2019,Galaxy Xcover FieldPro,Samsung,8,Android,8.0,"[('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",158.5 x 80.7 x 14.2,256,Micro-SIM,5.1,56.1,1440 x 2560,576,1020,4500
+2019,Galaxy A70s,Samsung,8,Android,9.0,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",164.3 x 76.7 x 7.9,187,Nano-SIM,6.7,86.0,1080 x 2400,393,380,4500
+2019,Galaxy A20s,Samsung,8,Android,9.0,"[('32', '2'), ('32', '3'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",163.3 x 77.5 x 8,183,Nano-SIM,6.5,81.9,720 x 1560,264,250,4000
+2019,Galaxy M30s,Samsung,8,Android,9.0,"[('64', '4'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",159 x 75.1 x 8.9,188,Nano-SIM,6.4,84.2,1080 x 2340,403,260,6000
+2019,Galaxy M10s,Samsung,8,Android,9.0,"[('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",158.4 x 74.7 x 7.8,169,Nano-SIM,6.4,85.0,720 x 1560,268,110,4000
+2019,Galaxy Fold 5G,Samsung,8,Android,9.0,"[('512', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",Unfolded: 160.9 x 117.9 x 6.9,276,Nano-SIM,7.3,85.7,1536 x 2152,362,1400,4235
+2019,Galaxy Fold,Samsung,8,Android,9.0,"[('512', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",Unfolded: 160.9 x 117.9 x 6.9,276,Nano-SIM,7.3,85.7,1536 x 2152,362,1750,4380
+2019,Galaxy Tab Active Pro,Samsung,8,Android,9.0,"[('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",243.5 x 170.2 x 9.9,653,Nano-SIM,10.1,71.4,1920 x 1200,224,600,7600
+2019,Galaxy A90 5G,Samsung,8,Android,9.0,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",164.8 x 76.4 x 8.4,206,Nano-SIM,6.7,86.1,1080 x 2400,393,400,4500
+2019,Galaxy A30s,Samsung,8,Android,9.0,"[('32', '3'), ('64', '4'), ('128', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",158.5 x 74.7 x 7.8,169,Nano-SIM,6.4,84.9,720 x 1560,268,260,4000
+2019,Galaxy A50s,Samsung,8,Android,9.0,"[('64', '4'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",158.5 x 74.5 x 7.7,169,Nano-SIM,6.4,85.1,1080 x 2340,403,290,4000
+2019,Galaxy Note10+ 5G,Samsung,8,Android,9.0,"[('256', '12'), ('512', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",162.3 x 77.2 x 7.9,198,Nano-SIM,6.8,91.0,1440 x 3040,498,700,4300
+2019,Galaxy Note10+,Samsung,8,Android,9.0,"[('256', '12'), ('512', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",162.3 x 77.2 x 7.9,196,Nano-SIM,6.8,91.0,1440 x 3040,498,438,4300
+2019,Galaxy Note10 5G,Samsung,8,Android,9.0,"[('256', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",151 x 71.8 x 7.9,168,Nano-SIM,6.3,90.9,1080 x 2280,401,1100,3500
+2019,Galaxy Note10,Samsung,8,Android,9.0,"[('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",151 x 71.8 x 7.9,168,Nano-SIM,6.3,90.9,1080 x 2280,401,590,3500
+2019,Galaxy Watch Active2,Samsung,2,Tizen,OS,"[('4', '768'), ('4', '1.5')]",111,"['Accelerometer', 'gyro', 'heart rate', 'barometer', 'VO2max']",44 x 44 x 10.9,42,,1.4,,360 x 360,364,80,340
+2019,Galaxy Watch Active2 Aluminum,Samsung,2,Tizen,OS,"[('4', '768'), ('4', '1.5')]",111,"['Accelerometer', 'gyro', 'heart rate', 'barometer']",44 x 44 x 10.9,30,,1.4,,360 x 360,364,300,340
+2019,Galaxy A10s,Samsung,8,Android,9.0,"[('32', '2'), ('32', '3')]",111,"['Fingerprint', 'accelerometer', 'proximity']",156.9 x 75.8 x 7.8,168,Nano-SIM,6.2,80.7,720 x 1520,271,180,4000
+2019,Galaxy A10e,Samsung,8,Android,9.0,"[('32', '2'), ('32', '3')]",111,"['Accelerometer', 'proximity']",147.3 x 69.6 x 8.4,141,Nano-SIM,5.83,81.4,720 x 1560,295,80,3000
+2019,Galaxy Tab S6,Samsung,8,Android,9.0,"[('64', '4'), ('128', '6'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",244.5 x 159.5 x 5.7,420,Nano-SIM,10.5,82.5,1600 x 2560,287,600,7040
+2019,Galaxy Tab A 8.0 (2019),Samsung,4,Android,9.0,"[('32', '2'), ('32', '3'), ('64', '2')]",111,['Accelerometer'],210 x 124.4 x 8,"345g (Wi-Fi), 347g (LTE) (12.24 oz)",Nano-SIM,8.0,71.0,800 x 1280,189,130,5100
+2019,Galaxy Xcover 4s,Samsung,8,Android,9.0,"[('32', '3')]",111,"['Accelerometer', 'proximity', 'compass']",146.2 x 73.3 x 9.7,172,Micro-SIM,5.0,64.3,720 x 1280,294,260,2800
+2019,Galaxy A2 Core,Samsung,8,Android,8.0,"[('8', '1'), ('16', '1')]",111,"['Accelerometer', 'proximity']",141.6 x 71 x 9.1,142,Nano-SIM,5.0,68.6,540 x 960,220,120,2600
+2019,Galaxy Watch Active,Samsung,2,Tizen,OS,"[('4', '768')]",001,"['Accelerometer', 'gyro', 'heart rate', 'barometer']",39.5 x 39.5 x 10.5,25,,1.1,,360 x 360,302,210,230
+2019,Galaxy View2,Samsung,8,Android,8.1,"[('64', '3')]",111,['Accelerometer'],417.1 x 263.4 x 17.3,2.23 kg (4.92 lb),Nano-SIM,17.3,75.1,1080 x 1920,127,660,12000
+2019,Galaxy S10 5G,Samsung,8,Android,9.0,"[('256', '8'), ('512', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",162.6 x 77.1 x 7.9,198,Nano-SIM,6.7,89.4,1440 x 3040,502,380,4500
+2019,Galaxy S10+,Samsung,8,Android,9.0,"[('128', '6'), ('128', '8'), ('512', '8'), ('1', '12')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",157.6 x 74.1 x 7.8,175,Nano-SIM,6.4,88.9,1440 x 3040,522,286,4100
+2019,Galaxy S10,Samsung,8,Android,9.0,"[('128', '6'), ('128', '8'), ('512', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",149.9 x 70.4 x 7.8,157,Nano-SIM,6.1,88.3,1440 x 3040,550,249,3400
+2019,Galaxy S10e,Samsung,8,Android,9.0,"[('128', '6'), ('128', '8'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",142.2 x 69.9 x 7.9,150,Nano-SIM,5.8,83.3,1080 x 2280,438,236,3100
+2019,Galaxy M40,Samsung,8,Android,9.0,"[('64', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",155.3 x 73.9 x 7.9,168,Nano-SIM,6.3,84.9,1080 x 2340,409,200,3500
+2019,Galaxy M30,Samsung,8,Android,8.1,"[('32', '3'), ('32', '4'), ('64', '4'), ('64', '6'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",159 x 75.1 x 8.5,174,Nano-SIM,6.4,84.2,1080 x 2340,403,260,5000
+2019,Galaxy M20,Samsung,8,Android,8.1,"[('32', '3'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",156.4 x 74.5 x 8.8,186,Nano-SIM,6.3,83.6,1080 x 2340,409,400,5000
+2019,Galaxy M10,Samsung,8,Android,9.0,"[('16', '2'), ('32', '3')]",111,"['Accelerometer', 'proximity']",155.6 x 75.6 x 7.7,163,Nano-SIM,6.22,82.1,720 x 1520,270,240,3400
+2019,Galaxy A80,Samsung,8,Android,9.0,"[('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",165.2 x 76.5 x 9.3,220,Nano-SIM,6.7,85.8,1080 x 2400,393,380,3700
+2019,Galaxy A70,Samsung,8,Android,9.0,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",164.3 x 76.7 x 7.9,183,Nano-SIM,6.7,86.0,1080 x 2400,393,90,4500
+2019,Galaxy A60,Samsung,8,Android,9.0,"[('64', '6'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",155.3 x 73.9 x 7.9,168,Nano-SIM,6.3,84.9,1080 x 2340,409,290,3500
+2019,Galaxy A50,Samsung,8,Android,9.0,"[('64', '4'), ('64', '6'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",158.5 x 74.7 x 7.7,166,Nano-SIM,6.4,84.9,1080 x 2340,403,270,4000
+2019,Galaxy A40,Samsung,8,Android,9.0,"[('64', '4'), ('128', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",144.4 x 69.2 x 7.9,140,Nano-SIM,5.9,85.5,1080 x 2340,437,260,3100
+2019,Galaxy A30,Samsung,8,Android,9.0,"[('32', '3'), ('64', '3'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",158.5 x 74.7 x 7.7,165,Nano-SIM,6.4,84.9,1080 x 2340,403,110,4000
+2019,Galaxy A20e,Samsung,8,Android,9.0,"[('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",147.4 x 69.7 x 8.4,141,Nano-SIM,5.8,80.4,720 x 1560,296,200,3000
+2019,Galaxy A20,Samsung,8,Android,9.0,"[('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",158.4 x 74.7 x 7.8,169,Nano-SIM,6.4,85.0,720 x 1560,268,79.99,4000
+2019,Galaxy A10,Samsung,8,Android,9.0,"[('32', '2'), ('32', '4')]",111,"['Accelerometer', 'proximity']",155.6 x 75.6 x 7.9,168,Nano-SIM,6.2,81.6,720 x 1520,271,160,3400
+2019,Galaxy Tab S5e,Samsung,8,Android,9.0,"[('64', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",245 x 160 x 5.5,400,Nano-SIM,10.5,81.6,1600 x 2560,288,410,7040
+2019,Galaxy Tab A 10.1 (2019),Samsung,8,Android,9.0,"[('16', '2'), ('32', '2'), ('32', '3'), ('64', '3'), ('128', '3')]",111,"['Accelerometer', 'gyro', 'compass']",245.2 x 149.4 x 7.5,469,Nano-SIM,10.1,80.7,1200 x 1920,224,220,6150
+2019,Galaxy Tab A 8.0 & S Pen (2019),Samsung,8,Android,9.0,"[('32', '3')]",111,"['Accelerometer', 'proximity']",201.5 x 122.4 x 8.9,325,Nano-SIM,8.0,75.2,1200 x 1920,283,,4200
+2018,Galaxy Tab Advanced2,Samsung,8,Android,8.0,"[('32', '3')]",001,['Accelerometer'],250.4 x 166.2 x 8.5,525,,10.1,71.1,1200 x 1920,224,200,7300
+2018,Galaxy Tab A 8.0 (2018),Samsung,4,Android,8.1,"[('32', '2')]",111,['Accelerometer'],206.6 x 126.7 x 8.9,358,Nano-SIM,8.0,70.9,800 x 1280,189,200,5000
+2018,Galaxy Tab S4 10.5,Samsung,8,Android,8.1,"[('64', '4'), ('256', '4'), ('256', '6')]",111,"['Iris scanner', 'accelerometer', 'gyro', 'proximity', 'compass']",249.3 x 164.3 x 7.1,"482g (Wi-Fi), 483g (LTE) (1.06 lb)",Nano-SIM,10.5,78.6,1600 x 2560,287,520,7300
+2018,Galaxy Tab A 10.5,Samsung,8,Android,8.1,"[('32', '3')]",111,"['Accelerometer', 'gyro', 'compass']",260 x 161.1 x 8,"529g (Wi-Fi), 534g (LTE) (1.17 lb)",Nano-SIM,10.5,76.3,1200 x 1920,216,250,7300
+2018,Galaxy A8s,Samsung,8,Android,9.0,"[('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",158.4 x 74.9 x 7.4,173,Nano-SIM,6.4,84.7,1080 x 2340,403,400,3400
+2018,Galaxy A6s,Samsung,8,Android,8.0,"[('64', '6'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",156.3 x 76.5 x 8.4,183,Nano-SIM,6.0,77.7,1080 x 2160,402,300,3300
+2018,Galaxy A9 (2018),Samsung,8,Android,8.0,"[('64', '6'), ('64', '8'), ('128', '6'), ('128', '8')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",162.5 x 77 x 7.8,183,Nano-SIM,6.3,80.1,1080 x 2220,393,550,3800
+2018,Galaxy A7 (2018),Samsung,8,Android,8.0,"[('64', '4'), ('128', '4'), ('128', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",159.8 x 76.8 x 7.5,168,Nano-SIM,6.0,74.4,1080 x 2220,411,310,3300
+2018,Galaxy Note9,Samsung,8,Android,8.1,"[('128', '6'), ('128', '8'), ('512', '8')]",111,"['Iris scanner', 'fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",161.9 x 76.4 x 8.8,201,Nano-SIM,6.4,83.4,1440 x 2960,516,430,4000
+2018,Galaxy Watch,Samsung,2,Tizen,OS,"[('4', '768'), ('4', '1.5')]",111,"['Accelerometer', 'gyro', 'heart rate', 'barometer']",49 x 46 x 13,63,,1.3,,360 x 360,278,220,472
+2018,Galaxy J6+,Samsung,4,Android,8.1,"[('32', '3'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",161.4 x 76.9 x 7.9,178,Nano-SIM,6.0,73.6,720 x 1480,274,200,3300
+2018,Galaxy J4 Core,Samsung,4,Android,8.1,"[('16', '1')]",111,"['Accelerometer', 'proximity']",160.6 x 76.1 x 7.9,177,Nano-SIM,6.0,74.8,720 x 1480,274,150,3300
+2018,Galaxy J4+,Samsung,4,Android,8.1,"[('16', '2'), ('32', '2'), ('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass - North AmericaAccelerometer', 'proximity - other markets']",161.4 x 76.9 x 7.9,178,Nano-SIM,6.0,73.6,720 x 1480,274,220,3300
+2018,Galaxy J2 Core,Samsung,4,Android,8.1,"[('8', '1'), ('16', '1')]",111,"['Accelerometer', 'proximity']",143.4 x 72.1 x 8.9,154,Micro-SIM,5.0,66.7,540 x 960,220,120,2600
+2018,Galaxy On6,Samsung,8,Android,8.0,"[('32', '3'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'proximity']",149.3 x 70.2 x 8.2,154,Nano-SIM,5.6,75.9,720 x 1480,294,100,3000
+2018,Galaxy J7 (2018),Samsung,8,Android,8.0,"[('16', '2'), ('32', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",153.2 x 76.2 x 8.6,181,Nano-SIM,5.5,71.4,720 x 1280,267,200,3300
+2018,Galaxy J3 (2018),Samsung,4,Android,8.0,"[('16', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",142.7 x 70.1 x 8.9,152,Nano-SIM,5.0,68.9,720 x 1280,294,150,2600
+2018,Galaxy A8 Star (A9 Star),Samsung,8,Android,8.0,"[('64', '4'), ('64', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",162.4 x 77 x 7.6,191,Nano-SIM,6.3,80.6,1080 x 2220,392,350,3700
+2018,Galaxy S Light Luxury,Samsung,8,Android,8.0,"[('64', '4')]",111,"['Iris scanner', 'fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",148.9 x 68.1 x 8,150,Nano-SIM,5.8,84.2,1080 x 2220,426,400,3000
+2018,Galaxy J8,Samsung,8,Android,8.0,"[('32', '3'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'proximity']",159.2 x 75.7 x 8.2,177,Nano-SIM,6.0,75.8,720 x 1480,274,310,3500
+2018,Galaxy J6,Samsung,8,Android,8.0,"[('32', '2'), ('32', '3'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'proximity']",149.3 x 70.2 x 8.2,154,Nano-SIM,5.6,76.5,720 x 1480,293,180,3000
+2018,Galaxy J4,Samsung,4,Android,8.0,"[('16', '2'), ('32', '2'), ('32', '3')]",111,"['Accelerometer', 'proximity']",151.7 x 77.2 x 8.1,175,Micro-SIM,5.5,71.2,720 x 1280,267,140,3000
+2018,Galaxy A6+ (2018),Samsung,8,Android,8.0,"[('32', '3'), ('32', '4'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",160.2 x 75.7 x 7.9,186,Nano-SIM,6.0,75.3,1080 x 2220,411,230,3500
+2018,Galaxy A6 (2018),Samsung,8,Android,8.0,"[('32', '3'), ('32', '4'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",149.9 x 70.8 x 7.7,162,Nano-SIM,5.6,75.0,720 x 1480,294,220,3000
+2018,Galaxy J7 Duo,Samsung,8,Android,8.0,"[('32', '3'), ('32', '4')]",111,"['Fingerprint', 'accelerometer', 'proximity']",153.5 x 77.2 x 8.2,174,Micro-SIM,5.5,70.4,720 x 1280,267,240,3000
+2018,Galaxy J7 Prime 2,Samsung,8,Android,7.0,"[('32', '3')]",111,"['Fingerprint', 'accelerometer', 'proximity']",151.7 x 75 x 8,170,Nano-SIM,5.5,73.3,1080 x 1920,401,170,3300
+2018,Galaxy S9+,Samsung,8,Android,8.0,"[('64', '4'), ('64', '6'), ('128', '6'), ('256', '6')]",111,"['Iris scanner', 'fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",158.1 x 73.8 x 8.5,189,Nano-SIM,6.2,84.2,1440 x 2960,529,350,3500
+2018,Galaxy S9,Samsung,8,Android,8.0,"[('64', '4'), ('128', '4'), ('256', '4')]",111,"['Iris scanner', 'fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",147.7 x 68.7 x 8.5,163,Nano-SIM,5.8,83.6,1440 x 2960,570,249,3000
+2018,Galaxy J2 Pro (2018),Samsung,4,Android,7.1,"[('16', '1.5'), ('16', '2')]",111,"['Accelerometer', 'proximity']",143.8 x 72.3 x 8.4,153,Micro-SIM,5.0,66.3,540 x 960,220,120,2600
+2017,Galaxy A8+ (2018),Samsung,8,Android,7.1.1,"[('32', '4'), ('64', '4'), ('64', '6')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",159.9 x 75.7 x 8.3,191,Nano-SIM,6.0,75.5,1080 x 2220,411,300,3500
+2017,Galaxy A8 (2018),Samsung,8,Android,7.1.1,"[('32', '4'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",149.2 x 70.6 x 8.4,172,Nano-SIM,5.6,75.6,1080 x 2220,441,250,3000
+2017,Galaxy J2 (2017),Samsung,4,Android,7.0,"[('8', '1')]",111,"['Accelerometer', 'proximity']",136.5 x 69 x 8.4,130,Micro-SIM,4.7,64.7,540 x 960,234,120,2000
+2017,Galaxy Tab Active 2,Samsung,8,Android,7.1.1,"[('16', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",127.6 x 214.7 x 9.9,415,Nano-SIM,8.0,67.7,800 x 1280,189,390,4450
+2017,Galaxy Tab A 8.0 (2017),Samsung,4,Android,7.1,"[('16', '2'), ('32', '2')]",111,['Accelerometer'],212.1 x 124.1 x 8.9,364,Nano-SIM,8.0,70.5,800 x 1280,189,200,5000
+2017,Galaxy C7 (2017),Samsung,8,Android,7.1,"[('32', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",152.4 x 74.7 x 7.9,180,Nano-SIM,5.5,73.3,1080 x 1920,401,230,3000
+2017,Gear Sport,Samsung,2,Tizen,OS,"[('4', '768')]",001,"['Accelerometer', 'gyro', 'heart rate', 'barometer']",44.6 x 42.9 x 11.6,67g (w/ strap); 50g (w/о strap) (1.76 oz),,1.2,,360 x 360,424,200,300
+2017,Galaxy Note8,Samsung,8,Android,7.1.1,"[('64', '6'), ('128', '6'), ('256', '6')]",111,"['Iris scanner', 'fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",162.5 x 74.8 x 8.6,195,Nano-SIM,6.3,83.2,1440 x 2960,521,500,3300
+2017,Galaxy S8 Active,Samsung,8,Android,7.0,"[('64', '4')]",111,"['Iris scanner', 'fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate']",151.9 x 74.9 x 9.9,208.1,Nano-SIM,5.8,75.0,1440 x 2960,568,550,4000
+2017,Galaxy J7 V,Samsung,8,Android,7.0.1,"[('16', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",151.4 x 76.2 x 8.6,167.3,Nano-SIM,5.5,72.3,720 x 1280,267,210,3300
+2017,Galaxy Note FE,Samsung,8,Android,7.1.1,"[('64', '4')]",111,"['Iris scanner', 'fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",153.5 x 73.9 x 7.9,167,Nano-SIM,5.7,79.0,1440 x 2560,515,500,3200
+2017,Galaxy J7 Max,Samsung,8,Android,7.0,"[('32', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",156.7 x 78.8 x 8.1,179,Nano-SIM,5.7,72.5,1080 x 1920,386,170,3300
+2017,Galaxy J7 (2017),Samsung,8,Android,7.0,"[('16', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",152.5 x 74.8 x 8,181,Nano-SIM,5.5,73.1,1080 x 1920,401,200,3600
+2017,Galaxy J7 Pro,Samsung,8,Android,7.0,"[('16', '3'), ('32', '3'), ('64', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",152.5 x 74.8 x 8,181,Nano-SIM,5.5,73.1,1080 x 1920,401,200,3600
+2017,Galaxy J5 (2017),Samsung,8,Android,7.0,"[('16', '2'), ('32', '2'), ('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",146.2 x 71.3 x 8,160,Nano-SIM,5.2,71.5,720 x 1280,282,130,3000
+2017,Galaxy J3 (2017),Samsung,4,Android,7.0,"[('16', '2')]",111,"['Accelerometer', 'proximity']",143.2 x 70.3 x 8.2,142,Nano-SIM,5.0,68.5,720 x 1280,294,110,2400
+2017,Galaxy Folder2,Samsung,4,Android,6.0,"[('16', '2'), ('32', '2'), ('32', '3')]",111,"['Accelerometer', 'proximity']",122 x 60.2 x 16.1,165,Nano-SIM,3.8,56.0,480 x 800,246,200,1950
+2017,Z4,Samsung,4,Tizen,3.0,"[('8', '1')]",111,"['Accelerometer', 'proximity']",132.9 x 69.2 x 10.3,143,Micro-SIM,4.5,62.7,480 x 800,207,80,2050
+2017,Galaxy S8,Samsung,8,Android,7.0,"[('64', '4')]",111,"['Iris scanner', 'fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",148.9 x 68.1 x 8,155,Nano-SIM,5.8,83.6,1440 x 2960,570,230,3000
+2017,Galaxy S8+,Samsung,8,Android,7.0,"[('64', '4'), ('128', '6')]",111,"['Iris scanner', 'fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",159.5 x 73.4 x 8.1,173,Nano-SIM,6.2,84.0,1440 x 2960,529,430,3500
+2017,Gear S3 classic LTE,Samsung,2,Tizen,OS,"[('4', '768')]",111,"['Accelerometer', 'gyro', 'heart rate', 'barometer']",49 x 46 x 12.9,57,,1.3,,360 x 360,392,330,380
+2017,Galaxy C5 Pro,Samsung,8,Android,7.0,"[('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",145.7 x 71.4 x 7,145,Nano-SIM,5.2,71.7,1080 x 1920,424,220,2600
+2017,Galaxy Xcover 4,Samsung,4,Android,7.0,"[('16', '2')]",111,"['Accelerometer', 'proximity', 'compass']",146.2 x 73.3 x 9.7,172,Micro-SIM,5.0,64.3,720 x 1280,294,240,2800
+2017,Galaxy Tab S3 9.7,Samsung,4,Android,7.0,"[('32', '4'), ('128', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",237.3 x 169 x 6,429,Nano-SIM,9.7,72.7,1536 x 2048,264,380,6000
+2016,Galaxy J1 mini prime,Samsung,4,Android,5.1,"[('8', '1')]",111,['Accelerometer'],121.6 x 63.1 x 10.8,126,Micro-SIM,4.0,59.4,480 x 800,233,110,1500
+2017,Galaxy J3 Emerge,Samsung,8,Android,6.0.1,"[('16', '1.5')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",140.9 x 70.1 x 8.7,147,Nano-SIM,5.0,69.8,720 x 1280,294,200,2600
+2017,Galaxy C7 Pro,Samsung,8,Android,6.0.1,"[('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",156.5 x 77.2 x 7,172,Nano-SIM,5.7,74.1,1080 x 1920,386,300,3300
+2017,Galaxy A7 (2017),Samsung,8,Android,6.0.1,"[('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",156.8 x 77.6 x 7.9,186,Nano-SIM,5.7,73.6,1080 x 1920,386,280,3600
+2017,Galaxy A5 (2017),Samsung,8,Android,6.0.1,"[('32', '3'), ('64', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",146.1 x 71.4 x 7.9,157,Nano-SIM,5.2,71.5,1080 x 1920,424,190,3000
+2017,Galaxy A3 (2017),Samsung,8,Android,6.0.1,"[('16', '2')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",135.4 x 66.2 x 7.9,138,Nano-SIM,4.7,67.9,720 x 1280,312,220,2350
+2016,Galaxy Grand Prime Plus,Samsung,4,Android,6.0,"[('8', '1.5'), ('16', '1.5')]",111,"['Accelerometer', 'proximity']",144.8 x 72.1 x 8.9,160,Micro-SIM,5.0,66.0,540 x 960,220,140,2600
+2016,Galaxy J2 Prime,Samsung,4,Android,6.0,"[('8', '1.5'), ('16', '1.5')]",111,"['Accelerometer', 'proximity']",144.8 x 72.1 x 8.9,160,Micro-SIM,5.0,66.0,540 x 960,220,130,2600
+2016,Galaxy C9 Pro,Samsung,8,Android,6.0.1,"[('64', '6')]",111,"['Fingerprint', 'accelerometer', 'proximity', 'compass']",162.9 x 80.7 x 6.9,189,Nano-SIM,6.0,75.5,1080 x 1920,367,380,4000
+2016,Galaxy A8 (2016),Samsung,8,Android,6.0.1,"[('32', '3')]",111,"['Fingerprint', 'accelerometer', 'proximity', 'compass']",156.6 x 76.8 x 7.2,182,Nano-SIM,5.7,74.5,1080 x 1920,386,300,3300
+2016,Galaxy On8,Samsung,8,Android,6.0.1,"[('16', '3')]",111,"['Accelerometer', 'proximity']",151.7 x 76 x 7.8,169,Micro-SIM,5.5,72.3,1080 x 1920,401,200,3300
+2016,Galaxy On7 (2016),Samsung,8,Android,6.0.1,"[('32', '3')]",111,"['Fingerprint', 'accelerometer', 'proximity']",151.7 x 75 x 8,167,,5.5,73.3,1080 x 1920,401,200,3300
+2016,Gear S3 classic,Samsung,2,Tizen,OS,"[('4', '768')]",001,"['Accelerometer', 'gyro', 'heart rate', 'barometer']",49 x 46 x 12.9,59,,1.3,,360 x 360,278,260,380
+2016,Gear S3 frontier,Samsung,2,Tizen,OS,"[('4', '768')]",001,"['Accelerometer', 'gyro', 'heart rate', 'barometer']",49 x 46 x 12.9,63,,1.3,,360 x 360,278,210,380
+2016,Gear S3 frontier LTE,Samsung,2,Tizen,OS,"[('4', '768')]",111,"['Accelerometer', 'gyro', 'heart rate', 'barometer']",49 x 46 x 12.9,63,,1.3,,360 x 360,278,300,380
+2016,Galaxy J5 Prime,Samsung,4,Android,6.0.1,"[('16', '2'), ('32', '2')]",111,"['Fingerprint', 'accelerometer', 'proximity']",142.8 x 69.5 x 8.1,143,Nano-SIM,5.0,69.4,720 x 1280,294,120,2400
+2016,Galaxy J7 Prime,Samsung,8,Android,6.0.1,"[('16', '3'), ('32', '3'), ('64', '3')]",111,"['Fingerprint', 'accelerometer', 'proximity']",151.7 x 75 x 8,167,Nano-SIM,5.5,73.3,1080 x 1920,401,210,3300
+2016,Z2,Samsung,4,Tizen,2.4,"[('8', '1')]",111,['Accelerometer'],121.5 x 63 x 10.8,127,Micro-SIM,4.0,59.5,480 x 800,233,80,1500
+2016,Galaxy Note7 (USA),Samsung,4,Android,6.0.1,"[('64', '4')]",111,"['Iris scanner', 'fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",153.5 x 73.9 x 7.9,169,Nano-SIM,5.7,79.0,1440 x 2560,515,760,3500
+2016,Galaxy Note7,Samsung,8,Android,6.0.1,"[('64', '4')]",111,"['Iris scanner', 'fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",153.5 x 73.9 x 7.9,169,Nano-SIM,5.7,78.0,1440 x 2560,518,850,3500
+2016,Galaxy On7 Pro,Samsung,4,Android,6.0.1,"[('16', '2')]",111,"['Accelerometer', 'proximity']",152 x 78 x 8,172,Micro-SIM,5.5,70.3,720 x 1280,267,150,3000
+2016,Galaxy On5 Pro,Samsung,4,Android,6.0,"[('16', '2')]",111,"['Accelerometer', 'proximity']",142.3 x 72.1 x 8.5,149,Micro-SIM,5.0,67.2,720 x 1280,294,120,2600
+2016,Galaxy Tab J,Samsung,4,Android,5.1,"[('8', '1.5')]",111,['Accelerometer'],186.9 x 108.8 x 8.7,289,Micro-SIM,7.0,69.9,800 x 1280,216,,4000
+2016,Galaxy J Max,Samsung,4,Android,5.1,"[('8', '1.5')]",111,['Accelerometer'],186.9 x 108.8 x 8.7,289,Nano-SIM,7.0,69.9,800 x 1280,216,150,4000
+2016,Galaxy J2 Pro (2016),Samsung,4,Android,6.0.1,"[('16', '2')]",111,"['Accelerometer', 'proximity']",142.4 x 71.1 x 8,138,Micro-SIM,5.0,68.1,720 x 1280,294,140,2600
+2016,Galaxy J2 (2016),Samsung,4,Android,6.0.1,"[('8', '1.5')]",111,"['Accelerometer', 'proximity']",142.4 x 71.1 x 8,138,Micro-SIM,5.0,68.1,720 x 1280,294,120,2600
+2016,Z3 Corporate,Samsung,4,Tizen,2.4,"[('8', '1')]",111,"['Accelerometer', 'proximity']",141.5 x 69.9 x 7.9,-,Micro-SIM,5.0,69.7,720 x 1280,294,200,2600
+2016,Galaxy Xcover 3 G389F,Samsung,4,Android,6.0,"[('8', '1.5')]",111,"['Accelerometer', 'proximity', 'compass']",132.9 x 70.1 x 10,154,Micro-SIM,4.5,61.9,480 x 800,207,200,2200
+2016,Galaxy S7 active,Samsung,4,Android,6.0,"[('32', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",148.8 x 74.9 x 9.9,184.8,Nano-SIM,5.1,64.3,1440 x 2560,576,360,4000
+2016,Galaxy J3 Pro,Samsung,4,Android,5.1,"[('16', '2')]",111,"['Accelerometer', 'proximity']",142.2 x 71.3 x 8,139,Micro-SIM,5.0,68.0,720 x 1280,294,130,2600
+2016,Galaxy C7,Samsung,8,Android,6.0.1,"[('32', '4'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'proximity', 'compass']",156.6 x 77.2 x 6.8,169,Nano-SIM,5.7,74.1,1080 x 1920,386,250,3300
+2016,Galaxy C5,Samsung,8,Android,6.0.1,"[('32', '4'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'proximity', 'compass']",145.9 x 72 x 6.7,143,Nano-SIM,5.2,71.0,1080 x 1920,424,220,2600
+2016,Galaxy A9 Pro (2016),Samsung,8,Android,6.0.1,"[('32', '4')]",111,"['Fingerprint', 'accelerometer', 'proximity', 'compass']",161.7 x 80.9 x 7.9,210,Nano-SIM,6.0,75.9,1080 x 1920,367,300,5000
+2016,Galaxy J7 (2016),Samsung,8,Android,6.0.1,"[('16', '2')]",111,"['Accelerometer', 'proximity']",151.7 x 76 x 7.8,170,Micro-SIM,5.5,72.3,720 x 1280,267,230,3300
+2016,Galaxy J5 (2016),Samsung,4,Android,6.0.1,"[('16', '2')]",111,"['Accelerometer', 'proximity']",145.8 x 72.3 x 8.1,159,Micro-SIM,5.2,70.7,720 x 1280,282,190,3100
+2016,Galaxy Tab A 10.1 (2016),Samsung,8,Android,6.0,"[('16', '2'), ('16', '3'), ('32', '3')]",111,['Accelerometer'],254.2 x 155.3 x 8.2,525,Nano-SIM,10.1,74.9,1200 x 1920,224,220,7300
+2016,Galaxy Tab A 7.0 (2016),Samsung,4,Android,5.1.1,"[('8', '1.5')]",111,['Accelerometer'],186.9 x 108.8 x 8.7,283,Micro-SIM,7.0,69.9,800 x 1280,216,130,4000
+2016,Galaxy S7,Samsung,8,Android,6.0,"[('32', '4'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",142.4 x 69.6 x 7.9,152,Nano-SIM,5.1,72.1,1440 x 2560,577,190,3000
+2016,Galaxy S7 edge,Samsung,4,Android,6.0,"[('32', '4'), ('64', '4'), ('128', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",150.9 x 72.6 x 7.7,157,Nano-SIM,5.5,76.1,1440 x 2560,534,330,3600
+2016,Galaxy S7 edge (USA),Samsung,4,Android,6.0,"[('32', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",150.9 x 72.6 x 7.7,157,Nano-SIM,5.5,76.1,1440 x 2560,534,350,3600
+2016,Galaxy S7 (USA),Samsung,4,Android,6.0,"[('32', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",142.4 x 69.6 x 7.9,152,Nano-SIM,5.1,72.3,1440 x 2560,576,320,3000
+2016,Galaxy J1 Nxt,Samsung,4,Android,5.1,"[('8', '768'), ('8', '1')]",011,['Accelerometer'],126.6 x 63.1 x 10.8,123,Micro-SIM,4.0,57.0,480 x 800,233,90,1500
+2016,Gear S2 classic 3G,Samsung,2,Tizen,OS,"[('4', '512')]",011,"['Accelerometer', 'gyro', 'heart rate', 'barometer']",44 x 46.9 x 13.4,54,,1.2,,360 x 360,424,250,300
+2016,Galaxy Tab E 8.0,Samsung,4,Android,5.1.1,"[('16', '1.5')]",111,['Accelerometer'],212.1 x 126.1 x 8.9,360,Nano-SIM,8.0,69.4,800 x 1280,189,180,5000
+2016,Galaxy J1 (2016),Samsung,4,Android,5.1.1,"[('8', '1')]",111,"['Accelerometer', 'proximity']",132.6 x 69.3 x 8.9,131,Micro-SIM,4.5,62.7,480 x 800,207,130,2050
+2015,Galaxy A9 (2016),Samsung,8,Android,5.1.1,"[('32', '3')]",111,"['Fingerprint', 'accelerometer', 'proximity', 'compass']",161.7 x 80.9 x 7.4,200,Nano-SIM,6.0,75.9,1080 x 1920,367,200,4000
+2015,Galaxy A7 (2016),Samsung,8,Android,5.1.1,"[('16', '3')]",111,"['Fingerprint', 'accelerometer', 'proximity', 'compass']",151.5 x 74.1 x 7.3,172,Nano-SIM,5.5,74.3,1080 x 1920,401,190,3300
+2015,Galaxy A5 (2016),Samsung,8,Android,5.1.1,"[('16', '2')]",111,"['Fingerprint', 'accelerometer', 'proximity', 'compass']",144.8 x 71 x 7.3,155,Nano-SIM,5.2,72.5,1080 x 1920,424,160,2900
+2015,Galaxy A3 (2016),Samsung,4,Android,5.1.1,"[('16', '1.5')]",111,"['Accelerometer', 'proximity', 'compass']",134.5 x 65.2 x 7.3,132,Nano-SIM,4.7,69.4,720 x 1280,312,130,2300
+2016,Galaxy Express Prime,Samsung,4,Android,6.0,"[('16', '1.5')]",111,"['Accelerometer', 'proximity']",142.2 x 71.1 x 7.9,138.9,Micro-SIM,5.0,68.2,720 x 1280,294,110,2600
+2016,Galaxy J3 (2016),Samsung,4,Android,5.1.1,"[('8', '1.5'), ('16', '2')]",111,"['Accelerometer', 'proximity']",142.3 x 71 x 7.9,138,Micro-SIM,5.0,68.2,720 x 1280,294,120,2600
+2015,Galaxy View,Samsung,8,Android,5.1.1,"[('32', '2'), ('64', '2')]",111,['Accelerometer'],451.8 x 275.8 x 11.9,2.65 kg (5.84 lb),Nano-SIM,18.4,74.9,1080 x 1920,120,500,5700
+2015,Galaxy On7,Samsung,4,Android,5.1,"[('8', '1.5')]",111,"['Accelerometer', 'proximity']",151.8 x 77.5 x 8.2,172,Micro-SIM,5.5,70.9,720 x 1280,267,180,3000
+2015,Galaxy On5,Samsung,4,Android,5.1,"[('8', '1.5')]",111,"['Accelerometer', 'proximity']",142.3 x 72.1 x 8.5,149,Micro-SIM,5.0,70.0,720 x 1280,288,140,2600
+2015,Z3,Samsung,4,Tizen,2.3,"[('8', '1')]",011,"['Accelerometer', 'proximity']",141.6 x 70 x 7.9,137,Micro-SIM,5.0,69.5,720 x 1280,294,110,2600
+2015,Galaxy J1 Ace,Samsung,4,Android,4.4.4,"[('4', '512'), ('4', '768'), ('J110G)',), ('8', '1'), ('J111F)',)]",111,"['Accelerometer', 'proximity']",130.1 x 67.6 x 9.5,131,Micro-SIM,4.3,59.8,480 x 800,217,140,1900
+2015,Gear S2 classic,Samsung,2,Tizen,OS,"[('4', '512')]",001,"['Accelerometer', 'gyro', 'heart rate', 'barometer']",43.6 x 39.9 x 11.4,42,,1.2,,360 x 360,302,200,250
+2015,Gear S2,Samsung,2,Tizen,OS,"[('4', '512')]",001,"['Accelerometer', 'gyro', 'heart rate', 'barometer']",49.8 x 42.3 x 11.4,47,,1.2,,360 x 360,302,170,250
+2015,Gear S2 3G,Samsung,2,Tizen,OS,"[('4', '512')]",011,"['Accelerometer', 'gyro', 'heart rate', 'barometer']",51.8 x 44 x 13.4,51,,1.2,,360 x 360,302,250,300
+2015,Galaxy Note5 (USA),Samsung,8,Android,5.1.1,"[('32', '4'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",153.2 x 76.1 x 7.6,171,Nano-SIM,5.7,76.8,1440 x 2560,515,450,3000
+2015,Galaxy Note5,Samsung,8,Android,5.1.1,"[('32', '4'), ('64', '4'), ('128', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",153.2 x 76.1 x 7.6,171,Nano-SIM,5.7,75.9,1440 x 2560,518,450,3000
+2015,Galaxy Note5 Duos,Samsung,8,Android,5.1.1,"[('32', '4'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",153.2 x 76.1 x 7.6,171,Nano-SIM,5.7,76.8,1440 x 2560,515,450,3000
+2015,Galaxy S6 edge+ (USA),Samsung,8,Android,5.1.1,"[('32', '4'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",154.4 x 75.8 x 6.9,153,Nano-SIM,5.7,76.5,1440 x 2560,515,500,3000
+2015,Galaxy S6 edge+,Samsung,8,Android,5.1.1,"[('32', '4'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",154.4 x 75.8 x 6.9,153,Nano-SIM,5.7,75.6,1440 x 2560,518,450,3000
+2015,Galaxy S6 edge+ Duos,Samsung,8,Android,5.1.1,"[('32', '4'), ('64', '4')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",154.4 x 75.8 x 6.9,153,Nano-SIM,5.7,76.5,1440 x 2560,515,450,3000
+2015,Galaxy S5 Neo,Samsung,8,Android,5.1.1,"[('16', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'heart rate']",142 x 72.5 x 8.1,145,Micro-SIM,5.1,69.6,1080 x 1920,432,300,2800
+2015,Galaxy S4 mini I9195I,Samsung,4,Android,4.4.4,"[('8', '1.5')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",124.6 x 61.3 x 8.9,107,Micro-SIM,4.3,66.7,540 x 960,256,190,1900
+2015,Galaxy Folder,Samsung,4,Android,5.1,"[('8', '1.5')]",111,"['Accelerometer', 'proximity']",122 x 60.2 x 15.3,155,Micro-SIM,3.8,56.0,480 x 800,246,250,1800
+2015,Galaxy Tab S2 9.7,Samsung,8,Android,5.0.2,"[('32', '3'), ('64', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",237.3 x 169 x 5.6,389g (Wi-Fi) / 392g (LTE) (13.72 oz),Nano-SIM,9.7,72.7,1536 x 2048,264,270,5870
+2015,Galaxy Tab S2 8.0,Samsung,8,Android,5.0.2,"[('32', '3'), ('64', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",198.6 x 134.8 x 5.6,265,Nano-SIM,8.0,74.0,1536 x 2048,320,290,4000
+2015,Galaxy A8 Duos,Samsung,8,Android,5.1,"[('32', '2')]",111,"['Fingerprint', 'accelerometer', 'proximity', 'compass']",158 x 76.8 x 5.9,151,Nano-SIM,5.7,73.8,1080 x 1920,386,280,3050
+2015,Galaxy A8,Samsung,8,Android,5.1.1,"[('32', '2')]",111,"['Fingerprint', 'accelerometer', 'proximity', 'compass']",158 x 76.8 x 5.9,151,Nano-SIM,5.7,73.8,1080 x 1920,386,250,3050
+2015,Galaxy V Plus,Samsung,2,Android,4.4.2,"[('4', '512')]",011,['Accelerometer'],121.4 x 62.9 x 10.7,123,Micro-SIM,4.0,59.6,480 x 800,233,70,1500
+2017,Galaxy J7 Nxt,Samsung,8,Android,7.0,"[('16', '2'), ('32', '3')]",111,"['Accelerometer', 'proximity']",152.4 x 78.6 x 7.6,170,Micro-SIM,5.5,69.6,720 x 1280,267,180,3000
+2015,Galaxy J7,Samsung,8,Android,5.1,"[('16', '1.5')]",111,"['Accelerometer', 'proximity']",152.2 x 78.7 x 7.5,171,Micro-SIM,5.5,69.6,720 x 1280,267,200,3000
+2015,Galaxy J5,Samsung,4,Android,5.1,"[('8', '1.5'), ('16', '1.5')]",111,"['Accelerometer', 'proximity']",142.1 x 71.8 x 7.9,146,Micro-SIM,5.0,67.5,720 x 1280,294,160,2600
+2015,Galaxy Tab 4 10.1 (2015),Samsung,4,Android,4.4.4,"[('16', '1.5')]",001,['Accelerometer'],243.4 x 176.4 x 7.9,487,,10.1,68.9,1280 x 800,149,280,6800
+2015,Galaxy Tab E 9.6,Samsung,4,Android,4.4,"[('8', '1.5'), ('16', '1.5')]",011,['Accelerometer'],241.9 x 149.5 x 8.5,490,Micro-SIM,9.6,73.9,800 x 1280,157,200,5000
+2015,Guru Plus ,Samsung,208.0,,,"[('4', 'RA')]",001,[''],108 x 45 x 13.2,66,Mini-SIM,1.5,14.9,128 x 128,121,20,800
+2015,Metro 360,Samsung,312.0,,,"[('64', 'RA')]",001,[''],117.3 x 49.5 x 11.4,83,Mini-SIM,2.4,30.7,240 x 320,167,50,1000
+2015,Xcover 550,Samsung,2,,,"[('256', '128')]",011,[''],129 x 56.2 x 14,124,Mini-SIM,2.4,24.6,240 x 320,167,110,1500
+2015,Galaxy S6 active,Samsung,8,Android,5.0.2,"[('32', '3'), ('64', '3')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate']",146.8 x 73.4 x 8.6,170,Nano-SIM,5.1,66.5,1440 x 2560,576,350,3500
+2015,Galaxy Tab 3 V,Samsung,4,Android,4.4,"[('8', '1')]",011,['Accelerometer'],193.4 x 116.4 x 9.7,322,Micro-SIM,7.0,61.3,600 x 1024,170,130,3600
+2015,Galaxy Tab A 9.7 & S Pen,Samsung,4,Android,5.0,"[('16', '2')]",111,"['Accelerometer', 'compass']",242.5 x 166.8 x 7.5,490,Micro-SIM,9.7,72.0,768 x 1024,132,340,6000
+2015,Galaxy Tab A 9.7,Samsung,4,Android,5.0,"[('16', '1.5'), ('16', '2'), ('32', '2')]",111,['Accelerometer'],242.5 x 166.8 x 7.5,450,Micro-SIM,9.7,72.0,768 x 1024,132,250,6000
+2015,Galaxy Tab A 8.0 & S Pen (2015),Samsung,4,Android,5.0,"[('16', '2')]",111,['Accelerometer'],208.4 x 137.9 x 7.5,338,Micro-SIM,8.0,69.0,768 x 1024,160,220,4200
+2015,Galaxy Tab A 8.0 (2015),Samsung,4,Android,5.0,"[('16', '1.5'), ('32', '2')]",111,['Accelerometer'],208.3 x 137.9 x 7.4,313,Micro-SIM,8.0,69.0,768 x 1024,160,210,4200
+2015,Galaxy S6 edge (USA),Samsung,8,Android,5.0.2,"[('32', '3'), ('64', '3'), ('128', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",142 x 70.1 x 7.1,132,Nano-SIM,5.1,72.0,1440 x 2560,576,450,2600
+2015,Galaxy S6 (USA),Samsung,8,Android,5.0.2,"[('32', '3'), ('64', '3'), ('128', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",143.5 x 70.6 x 6.9,140,Nano-SIM,5.1,70.8,1440 x 2560,576,410,2550
+2015,Galaxy S6 edge,Samsung,8,Android,5.0.2,"[('32', '3'), ('64', '3'), ('128', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",142.1 x 70.1 x 7,132,Nano-SIM,5.1,71.7,1440 x 2560,577,280,2600
+2015,Galaxy S6 Duos,Samsung,8,Android,5.0.2,"[('32', '3'), ('64', '3'), ('128', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",143.4 x 70.5 x 6.8,138,Nano-SIM,5.1,70.9,1440 x 2560,576,400,2550
+2015,Galaxy S6,Samsung,8,Android,5.0.2,"[('32', '3'), ('64', '3'), ('128', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate', 'SpO2']",143.4 x 70.5 x 6.8,138,Nano-SIM,5.1,70.7,1440 x 2560,577,240,2550
+2015,Galaxy J1 4G,Samsung,4,Android,4.4.4,"[('4', '768')]",111,"['Accelerometer', 'proximity']",129 x 68.2 x 8.9,122,Micro-SIM,4.3,59.8,480 x 800,217,120,1850
+2015,Galaxy J2,Samsung,4,Android,5.1.1,"[('8', '1')]",111,"['Accelerometer', 'proximity']",136.5 x 69 x 8.4,129,Micro-SIM,4.7,64.7,540 x 960,234,150,2000
+2015,Galaxy J1,Samsung,2,Android,4.4.4,"[('4', '512')]",011,"['Accelerometer', 'proximity']",129 x 68.2 x 8.9,122,Micro-SIM,4.3,59.8,480 x 800,217,110,1850
+2015,Galaxy Tab 3 Lite 7.0 VE,Samsung,4,Android,4.4.4,"[('8', '1')]",001,['Accelerometer'],193.4 x 116.4 x 9.7,310,,7.0,61.3,600 x 1024,170,120,3600
+2015,Z1,Samsung,2,Tizen,2.3,"[('4', '768')]",011,['Accelerometer'],120.4 x 63.2 x 9.7,112,,4.0,59.8,480 x 800,233,80,1500
+2015,Galaxy A7 Duos,Samsung,8,Android,4.4.4,"[('16', '2')]",111,"['Accelerometer', 'proximity', 'compass']",151 x 76.2 x 6.3,141,Nano-SIM,5.5,72.5,1080 x 1920,401,300,2600
+2015,Galaxy A7,Samsung,8,Android,4.4.4,"[('16', '2')]",111,"['Accelerometer', 'proximity', 'compass']",151 x 76.2 x 6.3,141,Nano-SIM,5.5,72.5,1080 x 1920,401,300,2600
+2015,Galaxy Grand Max,Samsung,4,Android,4.4.4,"[('16', '1.5')]",111,"['Accelerometer', 'proximity', 'compass']",146 x 74.8 x 7.9,161,Micro-SIM,5.25,68.6,720 x 1280,282,260,2500
+2015,Galaxy E7,Samsung,4,Android,4.4.4,"[('16', '2')]",111,"['Accelerometer', 'proximity']",151.3 x 77.2 x 7.3,141,Nano-SIM,5.5,71.4,720 x 1280,267,230,2950
+2015,Galaxy E5,Samsung,4,Android,4.4.4,"[('16', '1.5')]",011,"['Accelerometer', 'proximity']",141.6 x 70.2 x 7.3,140,Nano-SIM,5.0,69.3,720 x 1280,294,200,2400
+2014,Galaxy Core Prime,Samsung,4,Android,4.4.4,"[('8', '1')]",111,"['Accelerometer', 'proximity']",130.8 x 67.9 x 8.8,130,Micro-SIM,4.5,64.9,480 x 800,207,150,2000
+2014,Galaxy A5 Duos,Samsung,4,Android,4.4.4,"[('16', '2')]",111,"['Accelerometer', 'proximity', 'compass']",139.3 x 69.7 x 6.7,123,Nano-SIM,5.0,71.0,720 x 1280,294,290,2300
+2014,Galaxy A5,Samsung,4,Android,4.4.4,"[('16', '2')]",111,"['Accelerometer', 'proximity', 'compass']",139.3 x 69.7 x 6.7,123,Nano-SIM,5.0,71.0,720 x 1280,294,360,2300
+2014,Galaxy A3 Duos,Samsung,4,Android,4.4.4,"[('16', '1')]",111,"['Accelerometer', 'proximity', 'compass']",130.1 x 65.5 x 6.9,110.3,Nano-SIM,4.5,65.5,540 x 960,245,230,1900
+2014,Galaxy A3,Samsung,4,Android,4.4.4,"[('16', '1'), ('16', '1.5')]",111,"['Accelerometer', 'proximity', 'compass']",130.1 x 65.5 x 6.9,110.3,Nano-SIM,4.5,65.5,540 x 960,245,190,1900
+2014,Galaxy S5 Plus,Samsung,4,Android,4.4.2,"[('16', '2'), ('32', '2')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'gesture', 'heart rate']",142 x 72.5 x 8.1,145,Micro-SIM,5.1,69.6,1080 x 1920,432,380,2800
+2014,Galaxy Pocket 2,Samsung,1.0,Android,4.4.2,"[('4', '512')]",011,[''],109.9 x 60.8 x 11.7,107,Micro-SIM,3.3,50.5,240 x 320,121,100,1200
+2014,Galaxy V,Samsung,1.2,Android,4.4.2,"[('4', '512')]",011,['Accelerometer'],121.4 x 62.9 x 10.7,123,Micro-SIM,4.0,59.6,480 x 800,233,80,1500
+2014,Galaxy Grand Prime Duos TV,Samsung,4,Android,4.4.2,"[('8', '1')]",011,"['Accelerometer', 'proximity', 'compass']",144.7 x 72.4 x 8.6,152,Micro-SIM,5.0,65.8,540 x 960,220,150,2600
+2014,Galaxy Grand Prime,Samsung,4,Android,4.4.4,"[('8', '1')]",111,"['Accelerometer', 'proximity', 'compass']",144.8 x 72.1 x 8.6,156,Micro-SIM,5.0,66.0,540 x 960,220,140,2600
+2014,Galaxy Ace Style LTE G357,Samsung,4,Android,4.4.4,"[('8', '1')]",111,"['Accelerometer', 'proximity']",128.9 x 65.8 x 9.1,126,Micro-SIM,4.3,62.0,480 x 800,217,200,1900
+2014,Galaxy Note Edge,Samsung,4,Android,4.4.4,"[('32', '3'), ('64', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'UV', 'heart rate', 'SpO2']",151.3 x 82.4 x 8.3,174,Micro-SIM,5.6,77.2,1600 x 2560,524,300,3000
+2014,Galaxy Note 4 Duos,Samsung,4,Android,4.4.4,"[('16', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'gesture', 'UV', 'heart rate', 'SpO2']",153.5 x 78.6 x 8.5,175,Micro-SIM,5.7,74.2,1440 x 2560,515,300,3000
+2014,Galaxy Note 4 (USA),Samsung,4,Android,4.4.4,"[('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'gesture', 'UV', 'heart rate', 'SpO2']",153.5 x 78.6 x 8.5,176,Micro-SIM,5.7,73.4,1440 x 2560,518,250,3220
+2014,Galaxy Note 4,Samsung,4,Android,4.4.4,"[('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'gesture', 'UV', 'heart rate', 'SpO2']",153.5 x 78.6 x 8.5,176,Micro-SIM,5.7,73.4,1440 x 2560,518,350,3220
+2014,Galaxy Tab Active LTE,Samsung,4,Android,4.4.2,"[('16', '1.5')]",111,"['Accelerometer', 'gyro', 'compass']",213.1 x 126.2 x 9.7,393,Micro-SIM,8.0,69.0,800 x 1280,189,350,4450
+2014,Galaxy Tab Active,Samsung,4,Android,4.4.2,"[('16', '1.5')]",001,"['Accelerometer', 'gyro', 'compass']",213.1 x 126.2 x 9.7,393,,8.0,69.0,800 x 1280,189,300,4450
+2014,Galaxy Mega 2,Samsung,4,Android,4.4.3,"[('16', '1.5')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",163.6 x 84.9 x 8.6,194,Micro-SIM,6.0,71.5,720 x 1280,245,340,2800
+2014,Gear S,Samsung,2,Tizen,OS,"[('4', '512')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass', 'heart rate', 'barometer', 'UV light']",58.1 x 39.9 x 12.5,67,Nano-SIM,2.0,,360 x 480,300,300,300
+2014,Gear 2 Neo,Samsung,2,Tizen,OS,"[('4', '512')]",001,"['Accelerometer', 'gyro', 'heart rate']",58.7 x 37.9 x 9.9,55,,1.63,,320 x 320,278,170,300
+2014,Gear Live,Samsung,4,Android,Wear,"[('4', '512')]",001,"['Accelerometer', 'gyro', 'heart rate', 'compass']",56.4 x 37.9 x 8.9,59,,1.63,,320 x 320,278,,300
+2014,Gear 2,Samsung,2,Tizen,OS,"[('4', '512')]",001,"['Accelerometer', 'gyro', 'heart rate']",58.4 x 36.9 x 10,68,,1.63,,320 x 320,278,230,300
+2013,Galaxy Gear,Samsung,800.0,Tizen,OS,"[('4', '512')]",001,"['Accelerometer', 'gyro']",56.6 x 36.8 x 11.1,73.8,,1.63,,320 x 320,278,270,315
+2014,Galaxy S5 LTE-A G901F,Samsung,4,Android,4.4.2,"[('16', '2'), ('32', '2')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'gesture', 'heart rate']",142 x 72.5 x 8.1,145,Micro-SIM,5.1,69.6,1080 x 1920,432,390,2800
+2014,Galaxy Alpha (S801),Samsung,4,Android,4.4.4,"[('32', '2')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'heart rate']",132.4 x 65.5 x 6.7,115,Nano-SIM,4.7,70.2,720 x 1280,312,450,1860
+2014,Galaxy Alpha,Samsung,8,Android,4.4.4,"[('32', '2')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'heart rate']",132.4 x 65.5 x 6.7,115,Nano-SIM,4.7,70.2,720 x 1280,312,390,1860
+2014,Galaxy S5 mini Duos,Samsung,4,Android,4.4.4,"[('16', '1.5')]",011,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'heart rate']",131.1 x 64.8 x 9.1,118,Micro-SIM,4.5,65.7,720 x 1280,326,250,2100
+2014,Galaxy Avant,Samsung,4,Android,4.4.2,"[('16', '1.5')]",111,"['Accelerometer', 'proximity', 'compass']",132.9 x 66 x 9.9,136.9,Micro-SIM,4.5,63.6,540 x 960,245,160,2100
+2014,Galaxy S Duos 3,Samsung,2,Android,4.4.2,"[('4', '512')]",011,['Accelerometer'],121.4 x 62.9 x 10.8,124,Micro-SIM,4.0,59.6,480 x 800,233,100,1500
+2014,Guru Music 2,Samsung,208.0,,,,001,[''],112.7 x 46.4 x 13.1,75,Mini-SIM,2.0,24.1,128 x 160,102,20,800
+2014,Metro 312,Samsung,208.0,,,,001,[''],112.7 x 46.4 x 13.1,74,Mini-SIM,2.0,24.1,128 x 160,102,,1000
+2015,Galaxy Tab 4 8.0 (2015),Samsung,4,Android,4.4.4,"[('16', '1.5')]",001,['Accelerometer'],210 x 124 x 8,320,,8.0,71.3,800 x 1280,189,,4450
+2014,Galaxy Ace NXT,Samsung,1.2,Android,4.4.2,"[('4', '512')]",011,['Accelerometer'],121.4 x 62.9 x 10.7,123,Micro-SIM,4.0,59.6,480 x 800,233,90,1500
+2014,Galaxy Star 2 Plus,Samsung,1.2,Android,4.4.2,"[('4', '512')]",001,['Accelerometer'],129.7 x 65.9 x 9.4,129,Micro-SIM,4.3,61.6,480 x 800,217,90,1800
+2014,Galaxy S5 mini,Samsung,4,Android,4.4.2,"[('16', '1.5')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'heart rate']",131.1 x 64.8 x 9.1,120,Micro-SIM,4.5,65.7,720 x 1280,326,220,2100
+2014,Galaxy Ace 4 LTE G313,Samsung,2,Android,4.4.2,"[('4', '1')]",111,['Accelerometer'],121.4 x 62.9 x 11,130.3,Micro-SIM,4.0,59.6,480 x 800,233,250,1800
+2014,Galaxy Ace 4,Samsung,2,Android,4.4.2,"[('4', '512')]",011,['Accelerometer'],121.4 x 62.9 x 10.8,123.8,Micro-SIM,4.0,59.6,480 x 800,233,220,1500
+2014,Galaxy Young 2,Samsung,1.0,Android,4.4.2,"[('4', '512')]",011,['Accelerometer'],109.8 x 59.9 x 11.8,108,Micro-SIM,3.5,55.5,320 x 480,165,100,1300
+2014,Galaxy Star 2,Samsung,1.0,Android,4.4.2,"[('4', '512')]",001,['Accelerometer'],109.8 x 59.9 x 11.8,107.6,Mini-SIM,3.5,55.5,320 x 480,165,120,1300
+2014,Galaxy Core II,Samsung,4,Android,4.4.2,"[('4', '768')]",011,['Accelerometer'],130.3 x 68 x 9.8,138,Micro-SIM,4.5,65.1,480 x 800,207,130,2000
+2014,Galaxy S5 Sport,Samsung,4,Android,4.4.2,"[('16', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate']",144 x 74 x 8.9,158,Micro-SIM,5.1,67.3,1080 x 1920,432,300,2800
+2014,Galaxy S5 LTE-A G906S,Samsung,4,Android,4.4.2,"[('16', '3'), ('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'gesture', 'heart rate']",142 x 72.5 x 8.1,145,Micro-SIM,5.1,69.4,1440 x 2560,577,300,2800
+2014,Galaxy Tab S 8.4 LTE,Samsung,4,Android,4.4.2,"[('16', '3'), ('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass']",212.8 x 125.6 x 6.6,298,Micro-SIM,8.4,76.5,1600 x 2560,359,370,4900
+2014,Galaxy Tab S 8.4,Samsung,8,Android,4.4.2,"[('16', '3'), ('32', '3')]",001,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",212.8 x 125.6 x 6.6,294,,8.4,76.5,1600 x 2560,359,300,4900
+2014,Galaxy Tab S 10.5 LTE,Samsung,4,Android,4.4.2,"[('16', '3'), ('32', '3')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",247.3 x 177.3 x 6.6,467,Micro-SIM,10.5,72.9,2560 x 1600,288,440,7900
+2014,Galaxy Tab S 10.5,Samsung,8,Android,4.4.2,"[('16', '3'), ('32', '3')]",001,"['Fingerprint', 'accelerometer', 'gyro', 'compass']",247.3 x 177.3 x 6.6,465,,10.5,72.9,2560 x 1600,288,370,7900
+2014,Galaxy Core Lite LTE,Samsung,4,Android,4.3,"[('8', '1')]",111,"['Accelerometer', 'proximity']",133.1 x 70 x 9.9,149,Micro-SIM,4.7,67.5,480 x 800,199,210,2000
+2014,I9301I Galaxy S3 Neo,Samsung,4,Android,4.4.2,"[('16', '1.5')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",136.6 x 70.7 x 8.6,132,Micro-SIM,4.8,65.8,720 x 1280,306,270,2100
+2014,Galaxy W,Samsung,4,Android,4.3,"[('16', '1.5')]",111,"['Accelerometer', 'compass', 'proximity']",191.8 x 99.6 x 8.8,245,Micro-SIM,7.0,70.7,720 x 1280,210,360,3200
+2014,Z,Samsung,4,Tizen,2.2.1,"[('16', '2')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'heart rate']",138.2 x 69.8 x 8.5,136,Micro-SIM,4.8,65.8,720 x 1280,306,,2600
+2014,Galaxy S5 Active,Samsung,4,Android,4.4.2,"[('16', '(11.2'), ('2', 'RA')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'heart rate']",145.3 x 73.4 x 8.9,170.1,Micro-SIM,5.1,67.2,1080 x 1920,432,400,2800
+2014,Galaxy K zoom,Samsung,6,Android,4.4.2,"[('8', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",137.5 x 70.8 x 16.6,200,Micro-SIM,4.8,65.2,720 x 1280,306,440,2430
+2014,Galaxy Beam2,Samsung,4,Android,4.2.2,,011,"['Accelerometer', 'gyro', 'proximity', 'compass']",134.5 x 70 x 11.6,165,Micro-SIM,4.66,65.6,480 x 800,200,250,2600
+2014,I9300I Galaxy S3 Neo,Samsung,4,Android,4.3,"[('16', '1.5')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",136.6 x 70.8 x 8.6,132,Micro-SIM,4.8,65.7,720 x 1280,306,300,2100
+2014,Galaxy Ace Style,Samsung,2,Android,4.4.2,"[('4', '512')]",011,"['Accelerometer', 'proximity']",121.2 x 62.7 x 10.7,123,Micro-SIM,4.0,59.9,480 x 800,233,120,1500
+2014,ATIV SE,Samsung,4,Microsoft,Windows,"[('16', '2')]",111,"['Accelerometer', 'proximity']",137.7 x 69.9 x 8.4,135.8 (4.80 oz),Micro-SIM,5.0,71.6,1080 x 1920,441,440,2600
+2014,Galaxy Tab 4 7.0,Samsung,4,Android,4.4.2,"[('8', '1.5'), ('16', '1.5')]",001,['Accelerometer'],186.9 x 107.9 x 9,276,,7.0,70.5,800 x 1280,216,190,4000
+2014,Galaxy Tab 4 7.0 3G,Samsung,4,Android,4.4.2,"[('8', '1.5'), ('16', '1.5')]",011,['Accelerometer'],186.9 x 107.9 x 9,276,Micro-SIM,7.0,70.5,800 x 1280,216,240,4000
+2014,Galaxy Tab 4 7.0 LTE,Samsung,4,Android,4.4.2,"[('8', '1.5'), ('16', '1.5')]",111,['Accelerometer'],186.9 x 107.9 x 9,276,Micro-SIM,7.0,70.5,800 x 1280,216,280,4000
+2014,Galaxy Tab 4 8.0,Samsung,4,Android,4.4.2,"[('16', '1.5')]",001,['Accelerometer'],210 x 124 x 8,320,,8.0,71.3,800 x 1280,189,270,4450
+2014,Galaxy Tab 4 8.0 3G,Samsung,4,Android,4.4.2,"[('16', '1.5')]",011,['Accelerometer'],210 x 124 x 8,320,Micro-SIM,8.0,71.3,800 x 1280,189,300,4450
+2014,Galaxy Tab 4 8.0 LTE,Samsung,4,Android,4.4.2,"[('16', '1.5')]",111,['Accelerometer'],210 x 124 x 8,320,Micro-SIM,8.0,71.3,800 x 1280,189,350,4450
+2014,Galaxy Tab 4 10.1,Samsung,4,Android,4.4.2,"[('16', '1.5')]",001,['Accelerometer'],243.4 x 176.4 x 8,487,,10.1,68.9,1280 x 800,149,270,6800
+2014,Galaxy Tab 4 10.1 3G,Samsung,4,Android,4.4.2,"[('16', '1.5')]",011,['Accelerometer'],243.4 x 176.4 x 8,487,Micro-SIM,10.1,68.9,1280 x 800,149,300,6800
+2014,G3812B Galaxy S3 Slim,Samsung,4,Android,4.2,"[('8', '1')]",011,"['Accelerometer', 'proximity', 'compass']",133 x 66 x 9.7,139,Micro-SIM,4.52,64.2,540 x 960,244,200,2100
+2014,I8200 Galaxy S III mini VE,Samsung,1.2,Android,4.2.2,"[('8', '1'), ('16', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",121.6 x 63 x 9.9,112,Mini-SIM,4.0,59.4,480 x 800,233,180,1500
+2014,Galaxy S5 Duos,Samsung,4,Android,4.4.2,"[('16', '2')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'gesture', 'heart rate']",142 x 72.5 x 8.1,145,Micro-SIM,5.1,69.6,1080 x 1920,432,420,2800
+2014,Galaxy S5 (octa-core),Samsung,8,Android,4.4.2,"[('16', '2'), ('32', '2')]",011,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'gesture', 'heart rate']",142 x 72.5 x 8.1,145,Micro-SIM,5.1,69.6,1080 x 1920,432,380,2800
+2014,Galaxy S5 (USA),Samsung,4,Android,4.4.2,"[('16', '2')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'gesture', 'heart rate']",142 x 72.4 x 7.9,144.9,Micro-SIM,5.1,69.7,1080 x 1920,432,480,2800
+2014,Galaxy S5,Samsung,4,Android,4.4.2,"[('16', '2'), ('32', '2')]",111,"['Fingerprint', 'accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'gesture', 'heart rate']",142 x 72.5 x 8.1,145,Micro-SIM,5.1,69.6,1080 x 1920,432,250,2800
+2014,Galaxy Core LTE G386W,Samsung,4,Android,4.4.2,"[('16', '1.5')]",111,"['Accelerometer', 'proximity', 'compass']",132.9 x 66.3 x 10,137,Micro-SIM,4.5,63.4,540 x 960,245,180,2100
+2014,Galaxy Core LTE,Samsung,2,Android,4.2.2,"[('8', '1')]",111,"['Accelerometer', 'proximity', 'compass']",132.9 x 66.3 x 9.8,137,Micro-SIM,4.5,63.4,540 x 960,245,260,2100
+2014,S5611,Samsung,460.0,,,"[('256',)]",011,[''],118.9 x 49.7 x 12.9,91,Mini-SIM,2.4,30.2,240 x 320,167,70,1000
+2013,E1272,Samsung,208.0,,,"[('32', '64')]",001,[''],95 x 46.5 x 18,82.9,Mini-SIM,1.77,22.3,128 x 160,116,50,800
+2014,Galaxy Star Trios S5283,Samsung,1.0,Android,4.1.2,"[('4', '512')]",011,"['Accelerometer', 'compass']",106 x 61 x 11,105,Mini-SIM,3.14,47.2,240 x 320,127,120,1300
+2014,Galaxy Note 3 Neo Duos,Samsung,4,Android,4.3,"[('16', '(11'), ('2', 'RA')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",148.4 x 77.4 x 8.6,162.5,Micro-SIM,5.5,72.6,720 x 1280,267,410,3100
+2014,Galaxy Note 3 Neo,Samsung,6,Android,4.3,"[('16', '(11'), ('2', 'RA')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",148.4 x 77.4 x 8.6,162.5,Micro-SIM,5.5,72.6,720 x 1280,267,320,3100
+2014,Galaxy Tab 3 Lite 7.0 3G,Samsung,2,Android,4.2,"[('8', '1')]",011,['Accelerometer'],193.4 x 116.4 x 9.7,322,Micro-SIM,7.0,61.3,600 x 1024,170,190,3600
+2014,Galaxy Tab 3 Lite 7.0,Samsung,2,Android,4.2,"[('8', '1')]",001,['Accelerometer'],193.4 x 116.4 x 9.7,310,,7.0,61.3,600 x 1024,170,150,3600
+2014,Galaxy Grand Neo,Samsung,4,Android,4.2,"[('8', '1'), ('16', '1')]",011,"['Accelerometer', 'proximity', 'compass']",143.7 x 77.1 x 9.6,163,Mini-SIM,5.01,64.5,480 x 800,186,130,2100
+2014,Galaxy Note Pro 12.2 LTE,Samsung,4,Android,4.4,"[('32', '3'), ('64', '3')]",111,"['Accelerometer', 'gyro', 'compass']",295.6 x 204 x 8,753,Micro-SIM,12.2,71.6,2560 x 1600,247,670,9500
+2014,Galaxy Note Pro 12.2 3G,Samsung,8,Android,4.4,"[('32', '3'), ('64', '3')]",011,"['Accelerometer', 'gyro', 'compass']",295.5 x 204 x 8,753,Micro-SIM,12.2,71.6,2560 x 1600,247,640,9500
+2014,Galaxy Note Pro 12.2,Samsung,8,Android,4.4,"[('32', '3'), ('64', '3')]",001,"['Accelerometer', 'gyro', 'compass']",295.6 x 203.9 x 8,750,,12.2,71.6,2560 x 1600,247,540,9500
+2014,Galaxy Tab Pro 12.2 LTE,Samsung,4,Android,4.4,"[('32', '3'), ('64', '3')]",111,"['Accelerometer', 'gyro', 'compass']",295.6 x 204 x 8,740,Micro-SIM,12.2,71.6,2560 x 1600,247,500,9500
+2014,Galaxy Tab Pro 12.2 3G,Samsung,8,Android,4.4,"[('32', '3'), ('64', '3')]",011,"['Accelerometer', 'gyro', 'compass']",295.6 x 204 x 8,732,Micro-SIM,12.2,71.6,2560 x 1600,247,470,9500
+2014,Galaxy Tab Pro 12.2,Samsung,8,Android,4.4.2,"[('32', '3'), ('64', '3')]",001,"['Accelerometer', 'gyro', 'compass']",295.4 x 203.7 x 7.9,730.2,,12.2,71.7,2560 x 1600,247,420,9500
+2014,Galaxy Tab Pro 10.1 LTE,Samsung,4,Android,4.4,"[('16', '2'), ('32', '2')]",111,"['Accelerometer', 'gyro', 'compass']",243.1 x 171.4 x 7.3,477,Micro-SIM,10.1,71.0,2560 x 1600,299,420,8220
+2014,Galaxy Tab Pro 10.1,Samsung,8,Android,4.4,"[('16', '2'), ('32', '2')]",001,"['Accelerometer', 'gyro', 'compass']",243.1 x 171.4 x 7.3,469,,10.1,71.0,2560 x 1600,299,360,8220
+2014,Galaxy Tab Pro 8.4 3G/LTE,Samsung,4,Android,4.4,"[('16', '2'), ('32', '2')]",111,"['Accelerometer', 'gyro', 'compass']",219 x 128.5 x 7.2,335,Micro-SIM,8.4,72.7,1600 x 2560,359,420,4800
+2014,Galaxy Tab Pro 8.4,Samsung,4,Android,4.4,"[('16', '2'), ('32', '2')]",001,"['Accelerometer', 'gyro']",219 x 128.5 x 7.2,331,,8.4,72.7,1600 x 2560,359,290,4800
+2014,Galaxy Camera 2 GC200,Samsung,4,Android,4.3,"[('8', '(2.8'), ('2', 'RA')]",001,"['Accelerometer', 'gyro', 'compass']",132.5 x 71.2 x 19.3,283,,4.8,67.3,720 x 1280,306,330,2000
+2013,Galaxy S II TV,Samsung,2,Android,4.2,"[('4', '1')]",011,"['Accelerometer', 'proximity', 'compass']",121.2 x 62.7 x 9.8,115,Micro-SIM,4.0,59.9,480 x 800,233,,1500
+2013,Galaxy Ace 3,Samsung,2,Android,4.2,"[('4', '1'), ('8', '1')]",111,"['Accelerometer', 'proximity', 'compass']",121.2 x 62.7 x 9.8,115,Micro-SIM,4.0,59.9,480 x 800,233,130,1800
+2013,Rex 80 S5222R,Samsung,,,,"[('20',)]",001,['Proximity'],102 x 58 x 11.5,-,Mini-SIM,3.0,47.1,240 x 320,133,70,1000
+2013,Rex 70 S3802,Samsung,,,,"[('10',)]",001,['Proximity'],104.9 x 57.2 x 12,89.2,Mini-SIM,3.0,46.4,240 x 320,133,60,1000
+2013,Rex 60 C3312R,Samsung,,,,"[('30',)]",001,['Proximity'],101.8 x 55 x 12.2,-,Mini-SIM,2.8,43.4,240 x 320,143,50,1000
+2013,Metro E2202,Samsung,,,,,001,[''],110.7 x 46 x 14.3,78.2,Mini-SIM,1.8,20.0,128 x 160,114,30,1000
+2013,E1282T,Samsung,,,,,001,[''],109.2 x 45.5 x 14.5,74.5,Mini-SIM,1.8,20.5,128 x 160,114,30,1000
+2013,E1207T,Samsung,,,,,001,[''],108 x 45.5 x 13.5,-,Mini-SIM,1.52,15.2,128 x 128,119,20,800
+2013,Galaxy Young S6310,Samsung,1.0,Android,4.1.2,"[('4', '(2'), ('768', 'RA')]",011,"['Accelerometer', 'proximity', 'compass']",109.4 x 58.6 x 12.5,112,Mini-SIM,3.27,49.7,320 x 480,176,90,1300
+2013,Galaxy Fame S6810,Samsung,1.0,Android,4.1.2,"[('4', '512')]",011,"['Accelerometer', 'proximity', 'compass']",113.2 x 61.6 x 11.6,120.6,Mini-SIM,3.5,52.3,320 x 480,165,120,1300
+2013,Galaxy Express I8730,Samsung,2,Android,4.1.2,"[('4', '1'), ('8', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",132.2 x 69.1 x 9.3,139.1,Micro-SIM,4.5,63.1,480 x 800,207,180,2000
+2013,S7710 Galaxy Xcover 2,Samsung,2,Android,4.1.2,"[('4', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",130.5 x 67.7 x 12,148.5,Mini-SIM,4.0,51.5,480 x 800,233,190,1700
+2013,Ativ Odyssey I930,Samsung,2,Microsoft,Windows,"[('8', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",122.4 x 63.8 x 10.9,125,Micro-SIM,4.0,58.3,480 x 800,233,200,2100
+2013,I9105 Galaxy S II Plus,Samsung,2,Android,4.1.2,"[('8', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",125.3 x 66.1 x 8.5,121,Mini-SIM,4.3,63.5,480 x 800,217,210,1650
+2012,Galaxy Grand I9082,Samsung,2,Android,4.1.2,"[('8', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",143.5 x 76.9 x 9.6,162,Mini-SIM,5.0,64.5,480 x 800,187,180,2100
+2012,Galaxy Grand I9080,Samsung,2,Android,4.1.2,"[('8', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",143.5 x 76.9 x 9.6,162,Mini-SIM,5.0,64.5,480 x 800,187,210,2100
+2012,Star Deluxe Duos S5292,Samsung,312.0,,,,001,['Accelerometer'],113 x 61.9 x 11.8,109,Mini-SIM,3.5,52.1,320 x 480,165,110,1000
+2012,Galaxy Note LTE 10.1 N8020,Samsung,4,Android,4.1,"[('16', '2'), ('32', '2'), ('64', '2')]",111,"['Accelerometer', 'gyro', 'compass']",262 x 180 x 8.9,600,Micro-SIM,10.1,62.7,800 x 1280,149,390,7000
+2012,A997 Rugby III,Samsung,468.0,,,"[('256', '128')]",011,[''],104.1 x 53.3 x 20.3,133,Mini-SIM,2.4,32.1,240 x 320,167,90,1300
+2012,Galaxy Axiom R830,Samsung,2,Android,4.0.4,"[('4', '1')]",111,"['Accelerometer', 'proximity']",121.7 x 63.8 x 11.9,136.1,Mini-SIM,4.0,58.7,480 x 800,233,150,2100
+2012,Galaxy Stratosphere II I415,Samsung,2,Android,4.0.4,"[('8', '1')]",111,"['Accelerometer', 'proximity', 'compass']",126.2 x 65.5 x 13.5,154,Micro-SIM,4.0,55.1,480 x 800,233,170,1800
+2012,Galaxy Discover S730M,Samsung,800.0,Android,4.0.4,"[('4', '(2.7'), ('512', 'RA')]",011,['Accelerometer'],112.8 x 61.5 x 11.5,122,Mini-SIM,3.5,52.6,320 x 480,165,80,1300
+2013,Galaxy Pop SHV-E220,Samsung,4,Android,4.1.2,"[('8', '1'), ('16', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",134.2 x 68.1 x 9.1,134,Mini-SIM,4.65,65.2,720 x 1280,316,110,2100
+2012,Galaxy Premier I9260,Samsung,2,Android,4.1,"[('8', '1'), ('16', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",134.2 x 68 x 9,130,Mini-SIM,4.65,65.3,720 x 1280,316,260,2100
+2012,Google Nexus 10 P8110,Samsung,2,Android,4.2,"[('16', '2'), ('32', '2')]",001,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",263.9 x 177.6 x 8.9,603,,10.1,63.1,2560 x 1600,299,260,9000
+2012,Ativ Tab P8510,Samsung,2,Microsoft,Windows,"[('32', '2'), ('64', '2')]",001,"['Accelerometer', 'gyro', 'grip']",265.8 x 168.1 x 8.9,570,,10.1,62.9,1366 x 768,155,440,8200
+2012,Comment 2 R390C,Samsung,,,,"[('256',)]",001,[''],110 x 61 x 10.9,95,Mini-SIM,2.4,26.6,320 x 240,167,60,1000
+2012,I8190 Galaxy S III mini,Samsung,1.0,Android,4.1,"[('8', '1'), ('16', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",121.6 x 63 x 9.9,111.5,Mini-SIM,4.0,59.4,480 x 800,233,130,1500
+2012,Galaxy Music Duos S6012,Samsung,850.0,Android,4.0.4,"[('4', '512')]",011,"['Accelerometer', 'proximity', 'compass']",110.1 x 59 x 12.3,106.9,Mini-SIM,3.0,42.9,240 x 320,133,100,1300
+2012,Galaxy Music S6010,Samsung,850.0,Android,4.0.4,"[('4', '512')]",011,"['Accelerometer', 'proximity', 'compass']",110.1 x 59 x 12.3,106.9,Mini-SIM,3.0,42.9,240 x 320,133,100,1300
+2012,Galaxy Rugby Pro I547,Samsung,2,Android,4.0.4,"[('8', '(5'), ('1', 'RA')]",111,"['Accelerometer', 'proximity']",128 x 67 x 12.7,159,Mini-SIM,4.0,53.1,480 x 800,233,150,1850
+2012,Galaxy Express I437,Samsung,2,Android,4.0,"[('8', '(5'), ('1', 'RA')]",111,"['Accelerometer', 'proximity', 'compass']",132.6 x 69.3 x 9.1,136,Micro-SIM,4.5,62.7,480 x 800,207,160,2000
+2012,Ch@t 357,Samsung,208.0,,,"[('34',)]",001,[''],111.9 x 60.4 x 11.5,95.5,Mini-SIM,2.4,26.4,320 x 240,167,70,1000
+2012,I9305 Galaxy S III,Samsung,4,Android,4.1.1,"[('16', '1'), ('16', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",136.6 x 70.6 x 8.6,131,Micro-SIM,4.8,65.9,720 x 1280,306,320,2100
+2012,Galaxy Victory 4G LTE L300,Samsung,2,Android,4.0.4,"[('4', '1')]",111,"['Accelerometer', 'proximity', 'compass']",121.9 x 63.5 x 12.7,139,Mini-SIM,4.0,58.8,480 x 800,233,150,2100
+2012,Champ Neo Duos C3262,Samsung,,,,"[('20',)]",001,[''],96.9 x 54.3 x 13.5,82,Mini-SIM,2.4,33.9,240 x 320,167,40,1000
+2012,Galaxy S Relay 4G T699,Samsung,2,Android,4.0,"[('8', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",126 x 66 x 13.5,147,Mini-SIM,4.0,54.8,480 x 800,233,150,1800
+2012,Galaxy Pocket Duos S5302,Samsung,832.0,Android,2.3,"[('3',)]",011,"['Accelerometer', 'compass']",103.9 x 57.9 x 13,103,Mini-SIM,2.8,40.4,240 x 320,143,90,1200
+2012,Galaxy Note II N7100,Samsung,4,Android,4.1.1,"[('16', '2'), ('32', '2'), ('64', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",151.1 x 80.5 x 9.4,183,Micro-SIM,5.5,68.6,720 x 1280,267,300,3100
+2012,Galaxy Note II CDMA,Samsung,4,Android,4.1,"[('16', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",151.1 x 80.5 x 9.4,179.4,Micro-SIM,5.5,68.6,720 x 1280,267,350,3100
+2012,Ativ S I8750,Samsung,2,Microsoft,Windows,"[('16', '1'), ('32', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",137.2 x 70.5 x 8.7,135,Micro-SIM,4.8,65.7,720 x 1280,306,220,2300
+2012,Galaxy Camera GC100,Samsung,4,Android,4.1,"[('4', '1')]",111,"['Accelerometer', 'gyro', 'compass']",128.7 x 70.8 x 19.1,300,Micro-SIM,4.8,69.7,720 x 1280,306,250,1650
+2012,Galaxy Rush M830,Samsung,1.0,Android,4.0.4,"[('2', '768')]",011,"['Accelerometer', 'proximity', 'compass']",122.9 x 59.9 x 11.9,119.1,Mini-SIM,3.5,49.5,320 x 480,165,100,1750
+2012,Galaxy Stellar 4G I200,Samsung,2,Android,4.0.4,"[('4', '(1.5'), ('1', 'RA')]",111,"['Accelerometer', 'proximity']",122 x 64 x 12,134,Mini-SIM,4.0,58.3,480 x 800,233,150,2100
+2011,Galaxy Reverb M950,Samsung,1.4,Android,4.0.4,"[('4', '768')]",011,"['Accelerometer', 'proximity']",122 x 64 x 11.3,129,Mini-SIM,4.0,58.3,480 x 800,233,150,1700
+2012,Galaxy Tab 2 7.0 I705,Samsung,2,Android,4.0.3,"[('8', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",193.8 x 122.4 x 10.4,345.7,Mini-SIM,7.0,58.1,600 x 1024,170,200,4000
+2012,Galaxy Note 10.1 N8000,Samsung,4,Android,4.0.3,"[('16', '2'), ('32', '2'), ('64', '2')]",011,"['Accelerometer', 'gyro', 'compass']",262 x 180 x 8.9,600,Mini-SIM,10.1,62.7,800 x 1280,149,320,7000
+2012,Galaxy Note 10.1 N8010,Samsung,4,Android,4.0.3,"[('16', '2'), ('32', '2'), ('64', '2')]",001,"['Accelerometer', 'gyro', 'compass']",262 x 180 x 8.9,597,,10.1,62.7,800 x 1280,149,350,7000
+2012,Array M390,Samsung,480.0,,,"[('40', '128')]",001,[''],112 x 54 x 15,117,Mini-SIM,2.4,29.5,240 x 320,167,90,1000
+2012,Galaxy S Lightray 4G R940,Samsung,1.0,Android,2.3,"[('1.4',)]",111,"['Accelerometer', 'proximity', 'compass']",130 x 68 x 11.7,142,Mini-SIM,4.3,59.5,480 x 800,217,100,1600
+2012,Galaxy S Duos S7562,Samsung,1.0,Android,4.0,"[('4', '(1.8'), ('768', 'RA')]",011,"['Accelerometer', 'proximity', 'compass']",121.5 x 63.1 x 10.5,120,Mini-SIM,4.0,59.4,480 x 800,233,110,1500
+2012,Manhattan E3300,Samsung,,,,"[('30',)]",011,[''],113.9 x 46.4 x 13.3,75.4,Mini-SIM,2.0,23.8,128 x 160,102,30,800
+2012,E2262,Samsung,256.0,,,"[('20',)]",001,[''],109.2 x 63.5 x 12.7,91.5,Mini-SIM,2.2,21.6,320 x 240,182,50,1000
+2012,E1260B,Samsung,,,,,001,[''],103 x 59 x 12,83,Mini-SIM,2.0,20.7,160 x 128,102,50,800
+2012,E1200 Pusha,Samsung,156.0,,,,001,[''],108 x 45 x 13.5,65.1,Mini-SIM,1.52,15.3,128 x 128,119,20,800
+2012,E2252,Samsung,208.0,,,"[('20',)]",001,[''],113 x 46 x 13.9,79,Mini-SIM,2.0,24.2,128 x 160,102,30,1000
+2012,Galaxy Chat B5330,Samsung,850.0,Android,4.0,"[('4',)]",011,"['Accelerometer', 'proximity', 'compass']",118.9 x 59.3 x 11.7,112,Mini-SIM,3.0,39.5,240 x 320,133,100,1200
+2012,U485 Intensity III,Samsung,,,,"[('128', 'RA'), ('256', 'RO')]",011,[''],112 x 54 x 14.5,115,Mini-SIM,2.4,29.5,240 x 320,167,80,1000
+2012,Galaxy I8250,Samsung,1.0,Android,2.3,"[('4', '512')]",011,"['Accelerometer', 'proximity', 'compass']",122.5 x 63 x 10.5,125,Mini-SIM,4.0,59.0,480 x 800,233,150,1650
+2012,Galaxy Ace Advance S6800,Samsung,832.0,Android,2.3,"[('4', '512')]",011,"['Accelerometer', 'proximity', 'compass']",112.7 x 61.5 x 11.5,122,Mini-SIM,3.5,52.6,320 x 480,165,110,1300
+2012,Galaxy Ace Duos S6802,Samsung,832.0,Android,2.3,"[('3', '512')]",011,"['Accelerometer', 'proximity', 'compass']",112.7 x 61.5 x 11.5,122,Mini-SIM,3.5,52.6,320 x 480,165,120,1300
+2012,Galaxy Appeal I827,Samsung,800.0,Android,2.3,"[('4', '512')]",011,"['Accelerometer', 'proximity']",112 x 57.7 x 14.2,114.2,Mini-SIM,3.2,47.2,320 x 480,180,120,1300
+2012,Galaxy Tab 8.9 4G P7320T,Samsung,2,Android,3.2,"[('16', '1'), ('32', '1')]",111,"['Accelerometer', 'gyro', 'compass']",230.9 x 157.8 x 8.6,458,Mini-SIM,8.9,63.0,800 x 1280,170,220,6100
+2012,C3780,Samsung,250.0,,,,001,[''],117.7 x 49 x 12.3,82,Mini-SIM,2.4,30.9,240 x 320,167,70,1000
+2012,C3782 Evan,Samsung,250.0,,,"[('36',)]",001,[''],117.7 x 49 x 12.3,82,Mini-SIM,2.4,30.9,240 x 320,167,60,1000
+2012,Galaxy Proclaim S720C,Samsung,1.0,Android,2.3,"[('1',)]",011,['Accelerometer'],114.3 x 59.7 x 11.4,114.9,Mini-SIM,3.5,53.5,320 x 480,165,80,1500
+2012,I9500 Fraser,Samsung,2,Tizen,1.0,"[('16', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",153.9 x 76.4 x 14.8,-,Mini-SIM,4.65,50.7,720 x 1280,316,,1750
+2012,Omnia M S7530,Samsung,1.0,Microsoft,Windows,"[('4', '384'), ('8', '384')]",011,"['Accelerometer', 'proximity', 'compass']",121.6 x 64.1 x 10.5,119,Mini-SIM,4.0,58.4,480 x 800,233,100,1500
+2012,Focus 2 I667,Samsung,1.4,Microsoft,Windows,"[('8',)]",111,"['Accelerometer', 'proximity', 'compass']",121.7 x 62.7 x 11,122,Mini-SIM,4.0,59.7,480 x 800,233,110,1750
+2012,Galaxy S III T999,Samsung,2,Android,4.0,"[('16', '2'), ('32', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",136.6 x 70.6 x 8.6,133,Micro-SIM,4.8,65.9,720 x 1280,306,310,2100
+2012,Galaxy S III I747,Samsung,2,Android,4.0,"[('16', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",136.6 x 70.6 x 8.6,134,Micro-SIM,4.8,65.9,720 x 1280,306,300,2100
+2012,Galaxy S III CDMA,Samsung,2,Android,4.1,"[('16', '2'), ('32', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",137.2 x 71.1 x 7.6,133.2,Micro-SIM,4.8,65.1,720 x 1280,306,280,2100
+2012,I9300 Galaxy S III,Samsung,4,Android,4.0.4,"[('16', '1'), ('32', '1'), ('64', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",136.6 x 70.6 x 8.6,133,Micro-SIM,4.8,65.9,720 x 1280,306,190,2100
+2012,E2350B,Samsung,208.0,,,,001,[''],98 x 47 x 14.7,84.6,Mini-SIM,2.0,27.3,128 x 160,102,50,800
+2012,U380 Brightside,Samsung,,,,"[('256', '128')]",011,"['Accelerometer', 'compass']",111 x 60 x 14,122,Mini-SIM,3.1,44.7,240 x 320,129,100,1000
+2012,Galaxy Player 70 Plus,Samsung,2,Android,2.3,"[('16/32',)]",001,"['Accelerometer', 'gyro', 'compass']",141.3 x 78.2 x 11.9,186,,5.0,64.4,480 x 800,187,180,2500
+2012,Galaxy Pocket plus S5301,Samsung,850.0,Android,4.0,"[('4', '512')]",011,['Accelerometer'],104.9 x 57.9 x 12,97.2,Mini-SIM,2.8,40.0,240 x 320,143,90,1200
+2012,Galaxy Pocket S5300,Samsung,832.0,Android,2.3,"[('3',)]",011,"['Accelerometer', 'compass']",103.7 x 57.5 x 12,97,Mini-SIM,2.8,40.7,240 x 320,143,80,1200
+2012,I8530 Galaxy Beam,Samsung,2,Android,2.3.6,"[('8', '768')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",124 x 64.2 x 12.5,145.3,Mini-SIM,4.0,57.2,480 x 800,233,240,2000
+2012,Galaxy Tab 2 10.1 CDMA,Samsung,2,Android,4.0,"[('8', '1'), ('16', '1')]",111,"['Accelerometer', 'gyro', 'compass']",256.6 x 175.3 x 9.7,581.2,,10.1,65.8,800 x 1280,149,,7000
+2012,Galaxy Tab 2 10.1 P5110,Samsung,2,Android,4.0.3,"[('8', '1'), ('16', '1'), ('32', '1')]",001,"['Accelerometer', 'gyro', 'compass']",256.6 x 175.3 x 9.7,581,,10.1,65.8,800 x 1280,149,290,7000
+2012,Galaxy Tab 2 10.1 P5100,Samsung,2,Android,4.0.3,"[('16', '1'), ('32', '1')]",011,"['Accelerometer', 'gyro', 'compass']",256.6 x 175.3 x 9.7,588,Mini-SIM,10.1,65.8,800 x 1280,149,290,7000
+2012,Rugby Smart I847,Samsung,1.4,Android,2.3.6,"[('4', '512')]",011,"['Accelerometer', 'proximity', 'compass']",122.4 x 65.9 x 12.2,119,Mini-SIM,3.7,48.3,480 x 800,252,170,1650
+2011,W999,Samsung,2,Android,2.3,"[('16',)]",011,"['Accelerometer', 'proximity', 'compass']",111 x 59 x 17.8,206,Mini-SIM,3.5,53.2,480 x 800,267,220,1500
+2012,Galaxy Ace II X S7560M,Samsung,1.0,Android,4.0,"[('4', '768')]",011,"['Accelerometer', 'proximity', 'compass']",121.5 x 63.1 x 10.5,122,Mini-SIM,4.0,59.4,480 x 800,233,150,1500
+2012,Galaxy Ace 2 I8160,Samsung,2,Android,2.3,"[('4', '768')]",011,"['Accelerometer', 'proximity', 'compass']",118.3 x 62.2 x 10.5,122,Mini-SIM,3.8,55.9,480 x 800,246,130,1500
+2012,Galaxy mini 2 S6500,Samsung,800.0,Android,2.3.6,"[('4', '512')]",011,"['Accelerometer', 'proximity', 'compass']",109.4 x 58.6 x 11.6,105.3,Mini-SIM,3.27,49.7,320 x 480,176,90,1300
+2012,Galaxy Ace Duos I589,Samsung,800.0,Android,2.2,,011,"['Accelerometer', 'proximity', 'compass']",112.4 x 59.9 x 12.5,125,Mini-SIM,3.5,54.2,320 x 480,165,130,1650
+2012,Galaxy Pop Plus S5570i,Samsung,832.0,Android,2.2,"[('160', '384')]",011,"['Accelerometer', 'proximity', 'compass']",110.4 x 60.6 x 12.1,106.6,Mini-SIM,3.14,45.6,240 x 320,127,100,1200
+2012,Galaxy Tab 2 7.0 P3110,Samsung,2,Android,4.0.3,"[('8', '1'), ('16', '1'), ('32', '1')]",001,"['Accelerometer', 'gyro', 'compass']",193.7 x 122.4 x 10.5,344,,7.0,58.2,600 x 1024,170,150,4000
+2012,Galaxy Tab 2 7.0 P3100,Samsung,2,Android,4.0.3,"[('8', '1'), ('16', '1'), ('32', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",193.7 x 122.4 x 10.5,345,Mini-SIM,7.0,58.2,600 x 1024,170,150,4000
+2012,I9070 Galaxy S Advance,Samsung,2,Android,2.3.6,"[('8', '768'), ('16', '768')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",123.2 x 63 x 9.7,120,Mini-SIM,4.0,58.7,480 x 800,233,150,1500
+2012,C3312 Duos,Samsung,,Android,2.3,"[('30',)]",001,['Accelerometer'],102 x 55 x 12,100,Mini-SIM,2.8,43.3,240 x 320,143,70,1000
+2012,Star 3 s5220,Samsung,,,,"[('20',)]",001,['Accelerometer'],102 x 58 x 11.5,95,Mini-SIM,3.0,47.1,240 x 320,133,90,1000
+2012,Star 3 Duos S5222,Samsung,,,,"[('20',)]",001,[''],102 x 58 x 11.5,95.5,Mini-SIM,3.0,47.1,240 x 320,133,90,1000
+2012,Galaxy Nexus I9250M,Samsung,2,Android,4.0,"[('16', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",135.5 x 67.9 x 8.9,135,Mini-SIM,4.65,64.8,720 x 1280,316,240,1750
+2012,Galaxy Attain 4G,Samsung,1.0,Android,2.3,"[('512', 'RA')]",111,"['Accelerometer', 'proximity', 'compass']",113.1 x 60.5 x 11.7,119.1,Mini-SIM,3.5,53.3,320 x 480,165,100,1650
+2012,Galaxy S Blaze 4G T769,Samsung,2,Android,2.3.6,"[('3', 'internal'), ('1', 'RA')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",121.9 x 63 x 11.2,127.6,Mini-SIM,3.97,58.4,480 x 800,235,140,1750
+2012,Galaxy Tab 7.7 LTE I815,Samsung,2,Android,3.2,"[('16', '1'), ('32', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",196.6 x 133.1 x 7.9,340.2,Mini-SIM,7.7,65.7,800 x 1280,196,280,5100
+2012,Galaxy Nexus LTE L700,Samsung,2,Android,4.0,"[('32', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",134.6 x 68.6 x 9.4,144.5,Mini-SIM,4.65,64.6,720 x 1280,316,270,1850
+2012,Exhilarate i577,Samsung,2,Android,2.3.6,"[('4', '1')]",111,"['Accelerometer', 'proximity', 'compass']",122 x 63 x 12,130,Mini-SIM,4.0,59.3,480 x 800,233,240,1750
+2012,Galaxy S II Skyrocket HD I757,Samsung,2,Android,2.3.5,"[('16', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",-,-,Micro-SIM,4.65,,720 x 1280,316,430,
+2012,Galaxy Note T879,Samsung,2,Android,4.0.4,"[('16', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",146.8 x 83.1 x 9.7,180,Mini-SIM,5.3,66.8,800 x 1280,285,350,2500
+2012,Galaxy Note I717,Samsung,2,Android,2.3,"[('16', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",146.8 x 83 x 9.7,178,Mini-SIM,5.3,66.8,800 x 1280,285,350,2500
+2012,Galaxy M Style M340S,Samsung,1.0,Android,2.3,"[('4',)]",011,"['Accelerometer', 'proximity', 'compass']",122.5 x 63 x 9.9,123.5,,4.0,59.0,480 x 800,233,160,1650
+2012,Galaxy Ace Plus S7500,Samsung,1.0,Android,2.3,"[('3', '512')]",011,"['Accelerometer', 'proximity', 'compass']",114.5 x 62.5 x 11.2,115,Mini-SIM,3.65,55.4,320 x 480,158,120,1300
+2011,I929 Galaxy S II Duos,Samsung,2,Android,2.3.5,"[('16', '1')]",001,"['Accelerometer', 'gyro', 'proximity', 'compass']",129.8 x 68.9 x 9.7,138,Mini-SIM,4.52,65.0,480 x 800,206,190,1800
+2011,Galaxy Y Duos S6102,Samsung,832.0,Android,2.3,"[('512',)]",011,"['Accelerometer', 'proximity', 'compass']",109.8 x 60 x 12,109,Mini-SIM,3.14,46.3,240 x 320,127,80,1300
+2011,Galaxy Y Pro Duos B5512,Samsung,832.0,Android,2.3,"[('512',)]",011,"['Accelerometer', 'proximity', 'compass']",110.8 x 63.5 x 11.9,112.3,Mini-SIM,2.6,29.8,320 x 240,154,120,1350
+2011,E2600,Samsung,,,,"[('40',)]",001,[''],97 x 49.9 x 15.3,88.7,Mini-SIM,2.4,36.9,240 x 320,167,70,800
+2012,M370,Samsung,192.0,,,"[('128', 'RA'), ('256', 'RO')]",011,[''],96.5 x 50 x 17.8,104.9,Mini-SIM,2.4,37.0,240 x 320,167,80,1000
+2011,R680 Repp,Samsung,800.0,Android,2.3,"[('2',)]",011,"['Accelerometer', 'proximity', 'compass']",110 x 57 x 12.2,105,Mini-SIM,3.2,48.6,320 x 480,180,70,1500
+2011,I110 Illusion,Samsung,1.0,Android,2.3,"[('2', '512')]",011,"['Accelerometer', 'proximity', 'compass']",114.4 x 59.9 x 11.7,120,Mini-SIM,3.5,53.2,320 x 480,165,70,1500
+2011,E1050,Samsung,,,,,001,[''],107.5 x 45.4 x 13.4,67.3,Mini-SIM,1.43,13.5,128 x 128,127,20,800
+2011,E1232B,Samsung,,,,,001,[''],110.6 x 45.4 x 13.9,75,Mini-SIM,1.8,20.3,128 x 160,114,50,1000
+2011,E1230,Samsung,,,,,001,[''],110.6 x 45.4 x 13.9,73,Mini-SIM,1.8,20.3,128 x 160,114,20,800
+2011,Focus S I937,Samsung,1.4,Microsoft,Windows,"[('16', '512'), ('32', '512')]",011,"['Accelerometer', 'proximity', 'compass']",126 x 66.8 x 8.5,110.6,Mini-SIM,4.3,62.5,480 x 800,217,130,1650
+2011,Focus Flash I677,Samsung,1.4,Microsoft,Windows,"[('8', '512')]",011,"['Accelerometer', 'proximity', 'compass']",116.1 x 58.7 x 11,116.2,Mini-SIM,3.7,57.2,480 x 800,252,80,1500
+2011,Galaxy S II Skyrocket i727,Samsung,2,Android,2.3.5,"[('16', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",129.8 x 68.8 x 9.5,130.5,Mini-SIM,4.5,64.5,480 x 800,207,180,1850
+2011,C3330 Champ 2,Samsung,,,,"[('20',)]",001,[''],96 x 52.6 x 12.2,79.1,Mini-SIM,2.4,35.3,240 x 320,167,70,1000
+2011,Exhibit II 4G T679,Samsung,1.0,Android,2.3.5,"[('1', '512')]",011,"['Accelerometer', 'proximity', 'compass']",115 x 60 x 11,116,Mini-SIM,3.7,56.5,480 x 800,252,100,1500
+2011,C3350,Samsung,,,,"[('38',)]",001,[''],122 x 53 x 17.9,110,Mini-SIM,2.2,23.2,240 x 320,182,90,1300
+2011,C3520,Samsung,,,,"[('28',)]",001,[''],102 x 52 x 16.8,97.3,Mini-SIM,2.4,33.6,240 x 320,167,50,800
+2011,Galaxy Nexus i515,Samsung,2,Android,4.0,"[('32', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",135.5 x 67.9 x 9.5,150,Mini-SIM,4.65,64.8,720 x 1280,316,150,1850
+2011,Galaxy Nexus I9250,Samsung,2,Android,OS,"[('16', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",135.5 x 67.9 x 8.9,135,Mini-SIM,4.65,64.8,720 x 1280,316,180,1750
+2011,I9100G Galaxy S II,Samsung,2,Android,2.3.4,"[('16', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",125.3 x 66.1 x 8.5,116,Mini-SIM,4.3,63.5,480 x 800,217,220,1650
+2011,I405 Stratosphere,Samsung,1.0,Android,2.3,"[('4', '512')]",111,"['Accelerometer', 'proximity', 'compass']",126 x 65 x 14,164,Mini-SIM,4.0,55.6,480 x 800,233,120,1800
+2011,R730 Transfix,Samsung,800.0,Android,2.3,"[('125',)]",011,"['Accelerometer', 'proximity', 'compass']",114 x 57 x 15,126,Mini-SIM,3.2,46.9,320 x 480,180,130,1500
+2011,i927 Captivate Glide,Samsung,2,Android,2.3,"[('8', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",124 x 64 x 13,147,Mini-SIM,4.0,57.4,480 x 800,233,110,1650
+2011,DoubleTime I857,Samsung,800.0,Android,2.2,"[('260', '256')]",011,"['Accelerometer', 'proximity', 'compass']",113 x 62 x 15,148,Mini-SIM,3.2,43.5,320 x 480,180,70,1200
+2011,M930 Transform Ultra,Samsung,1.0,Android,2.3,"[('952',)]",011,"['Accelerometer', 'proximity', 'compass']",116 x 61 x 14,139,Mini-SIM,3.5,51.5,320 x 480,165,100,1500
+2011,P6210 Galaxy Tab 7.0 Plus,Samsung,2,Android,3.2,"[('16', '1'), ('32', '1')]",001,"['Accelerometer', 'gyro', 'compass']",193.7 x 122.4 x 9.9,345,,7.0,58.2,600 x 1024,170,260,4000
+2011,P6200 Galaxy Tab 7.0 Plus,Samsung,2,Android,3.2,"[('16', '1'), ('32', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",193.7 x 122.4 x 9.9,345,Mini-SIM,7.0,58.2,600 x 1024,170,260,4000
+2011,Omnia W I8350,Samsung,1.4,Microsoft,Windows,"[('8', '512')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",115.6 x 58.8 x 10.9,115.3,Mini-SIM,3.7,57.3,480 x 800,252,150,1500
+2011,Galaxy S II HD LTE,Samsung,2,Android,2.3,"[('16', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",129.8 x 68.8 x 9.5,130.5,Micro-SIM,4.65,66.7,720 x 1280,316,180,1850
+2011,Ch@t 527,Samsung,,,,"[('80',)]",011,['Compass'],103 x 55 x 12,96,Mini-SIM,2.4,31.5,320 x 240,167,90,1000
+2011,P6810 Galaxy Tab 7.7,Samsung,2,Android,3.2,"[('16', '1'), ('32', '1'), ('64', '1')]",001,"['Accelerometer', 'gyro', 'compass']",196.7 x 133 x 7.9,340,,7.7,65.7,800 x 1280,196,280,5100
+2011,P6800 Galaxy Tab 7.7,Samsung,2,Android,3.2,"[('16', '1'), ('32', '1'), ('64', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",196.7 x 133 x 7.9,340,Mini-SIM,7.7,65.7,800 x 1280,196,280,5100
+2011,Galaxy Note N7000,Samsung,2,Android,2.3.5,"[('16', '1'), ('32', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",146.9 x 83 x 9.7,178,Mini-SIM,5.3,66.8,800 x 1280,285,270,2500
+2011,Galaxy S II I777,Samsung,2,Android,2.3.4,"[('16', '1'), ('32', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",126 x 66 x 8.9,121.9,Mini-SIM,4.3,63.3,480 x 800,217,170,1650
+2011,Galaxy S II X T989D,Samsung,2,Android,2.3,"[('16', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",131 x 67.3 x 9.4,109,Mini-SIM,4.52,66.0,480 x 800,206,180,
+2011,Galaxy S II T989,Samsung,2,Android,2.3.5,"[('16', '1'), ('32', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",129.8 x 68.8 x 9.4,135,Mini-SIM,4.52,65.1,480 x 800,206,160,1850
+2011,Galaxy S II Epic 4G Touch,Samsung,2,Android,2.3.4,"[('16', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",130 x 70 x 10,130,Mini-SIM,4.52,63.9,480 x 800,206,130,1800
+2011,S8600 Wave 3,Samsung,1.4,bada,2.0,"[('4',)]",011,"['Accelerometer', 'proximity', 'compass']",125.9 x 64.2 x 9.9,122,Mini-SIM,4.0,56.3,480 x 800,233,150,1500
+2011,Wave M S7250,Samsung,832.0,bada,2.0,"[('150',)]",011,"['Accelerometer', 'proximity']",113.8 x 63.3 x 12.2,121,Mini-SIM,3.65,55.1,320 x 480,158,120,1350
+2011,Wave Y S5380,Samsung,832.0,bada,2.0,"[('150',)]",011,"['Accelerometer', 'proximity']",110 x 58.2 x 12.3,102.4,Mini-SIM,3.2,47.6,320 x 480,180,90,1200
+2011,Galaxy S II LTE i727R,Samsung,2,Android,2.3,"[('16', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",130.9 x 69.9 x 9.4,132,Mini-SIM,4.5,63.0,480 x 800,207,160,1850
+2011,Galaxy S II LTE I9210,Samsung,2,Android,2.3,"[('16', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",130.9 x 69.9 x 9.4,132,Mini-SIM,4.5,63.0,480 x 800,207,200,1850
+2011,Galaxy Tab 8.9 LTE I957,Samsung,2,Android,3.2,"[('16', '1'), ('32', '1')]",111,"['Accelerometer', 'gyro', 'compass']",230.9 x 157.8 x 8.6,455,Mini-SIM,8.9,63.0,800 x 1280,170,330,6100
+2011,Galaxy W I8150,Samsung,1.4,Android,2.3.5,"[('2', '512')]",011,"['Accelerometer', 'proximity', 'compass']",115.5 x 59.8 x 11.5,114.7,Mini-SIM,3.7,56.4,480 x 800,252,160,1500
+2011,Galaxy M Pro B7800,Samsung,1.0,Android,2.3,,011,"['Accelerometer', 'proximity', 'compass']",113.5 x 66 x 10,108.4,Mini-SIM,2.66,28.1,480 x 320,217,200,1350
+2011,Galaxy Y Pro B5510,Samsung,832.0,Android,2.3,"[('160',)]",011,"['Accelerometer', 'proximity', 'compass']",110.8 x 63.5 x 11.5,108.6,Mini-SIM,2.6,29.8,320 x 240,154,110,1200
+2011,Galaxy Y TV S5367,Samsung,832.0,Android,2.3,"[('180',)]",011,"['Accelerometer', 'proximity', 'compass']",107 x 60 x 19,98,Mini-SIM,3.14,47.6,240 x 320,127,180,1200
+2011,Galaxy Y S5360,Samsung,830.0,Android,2.3.5,"[('180', '290')]",011,"['Accelerometer', 'proximity', 'compass']",104 x 58 x 11.5,97.5,Mini-SIM,3.0,46.2,240 x 320,133,70,1200
+2011,Gravity TXT T379,Samsung,,,,"[('115',)]",011,[''],112 x 53 x 14,112,Mini-SIM,2.44,31.1,240 x 320,164,,1000
+2011,Galaxy Q T589R,Samsung,,Android,2.2,,011,"['Accelerometer', 'proximity', 'compass']",113.9 x 58.7 x 13.9,135,Mini-SIM,3.2,45.6,320 x 480,180,120,
+2011,S5610,Samsung,,,,"[('108',)]",011,[''],118.9 x 49.7 x 12.9,91,Mini-SIM,2.4,30.2,240 x 320,167,80,1000
+2011,S3770,Samsung,,,,"[('100',)]",011,['Accelerometer'],96.3 x 53.8 x 13,80,Mini-SIM,2.8,46.9,240 x 320,143,100,1000
+2011,S5690 Galaxy Xcover,Samsung,800.0,Android,2.3,"[('150', '512')]",011,"['Accelerometer', 'proximity', 'compass']",121.5 x 65.9 x 12,100,Mini-SIM,3.65,49.5,320 x 480,158,90,1500
+2011,Galaxy S II 4G I9100M,Samsung,2,Android,2.3,"[('16', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",125.3 x 66.1 x 8.5,116,Mini-SIM,4.3,63.5,480 x 800,217,260,1700
+2011,I9103 Galaxy R,Samsung,2,Android,2.3.3,"[('8', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",125 x 66 x 9.5,135,Mini-SIM,4.2,60.9,480 x 800,222,200,1650
+2011,R720 Admire,Samsung,800.0,Android,2.3.3,,011,"['Accelerometer', 'proximity']",116 x 60 x 12,117,Mini-SIM,3.5,52.4,320 x 480,165,90,1600
+2011,Convoy 2,Samsung,,,,"[('128', 'RA'), ('256', 'RO')]",011,[''],99 x 51 x 22,111,Mini-SIM,2.2,29.7,240 x 320,182,100,1300
+2011,Conquer 4G,Samsung,1.0,Android,2.3.4,"[('1', '512')]",011,"['Accelerometer', 'proximity', 'compass']",116.1 x 60.5 x 11.7,116,Mini-SIM,3.5,51.9,320 x 480,165,90,1500
+2011,R640 Character,Samsung,,,,,011,[''],107 x 55 x 15,120,Mini-SIM,2.8,41.3,240 x 320,,130,1000
+2011,R380 Freeform III,Samsung,,,,"[('100',)]",001,[''],112 x 61 x 11,92,Mini-SIM,2.4,25.1,480 x 320,240,80,1000
+2011,Trender,Samsung,,,,,011,['Accelerometer'],107 x 56 x 15,113,Mini-SIM,2.8,40.5,240 x 320,143,70,1000
+2011,Gravity SMART,Samsung,800.0,Android,2.2,"[('150', '270')]",011,"['Accelerometer', 'proximity']",114 x 59 x 14,130,Mini-SIM,3.2,45.3,320 x 480,180,170,1500
+2011,Exhibit 4G,Samsung,1.0,Android,2.3,"[('1', '512')]",011,"['Accelerometer', 'proximity', 'compass']",119 x 58 x 13,125,Mini-SIM,3.5,50.5,480 x 800,267,200,1500
+2011,E1195,Samsung,,,,"[('8',)]",001,[''],88 x 44 x 18.9,71,Mini-SIM,1.43,17.0,128 x 128,127,20,800
+2011,C414,Samsung,,,,"[('120',)]",011,[''],98.5 x 49.2 x 16.9,89.4,Mini-SIM,2.2,30.9,240 x 320,182,80,
+2011,E1190,Samsung,,,,,001,[''],88 x 44 x 18.9,71,Mini-SIM,1.43,17.0,128 x 128,127,30,800
+2011,C3560,Samsung,,,,"[('50',)]",001,[''],94.8 x 46.7 x 16.6,84,Mini-SIM,2.2,33.9,240 x 320,182,50,800
+2011,Dart T499,Samsung,600.0,Android,2.2,,011,"['Accelerometer', 'proximity', 'compass']",104 x 61 x 13,108,Mini-SIM,3.14,48.1,240 x 320,127,60,1200
+2011,C3322,Samsung,,,,"[('45',)]",001,[''],114 x 48 x 13.9,89,Mini-SIM,2.2,27.4,240 x 320,182,70,1000
+2011,R260 Chrono,Samsung,,,,,011,[''],94 x 46 x 17,89,Mini-SIM,2.0,28.6,240 x 320,200,80,800
+2011,I9001 Galaxy S Plus,Samsung,1.4,Android,2.3,"[('8', '512'), ('16', '512')]",011,"['Accelerometer', 'proximity', 'compass']",122.4 x 64.2 x 9.9,119,Mini-SIM,4.0,58.0,480 x 800,233,230,1650
+2011,DuosTV I6712,Samsung,,,,"[('20',)]",001,['Accelerometer'],109.5 x 61 x 12,102,Mini-SIM,3.2,43.6,240 x 400,146,200,1200
+2011,C6712 Star II DUOS,Samsung,,,,"[('30',)]",001,['Accelerometer'],109.5 x 56 x 12.2,100,Mini-SIM,3.2,47.5,240 x 400,146,80,1200
+2011,Ch@t 222,Samsung,,,,"[('43',)]",001,[''],109.5 x 61.3 x 11.9,90,Mini-SIM,2.2,22.7,220 x 176,128,40,1000
+2011,Ch@t 220,Samsung,,,,"[('47',)]",001,[''],109.5 x 61.3 x 11.9,92,Mini-SIM,2.2,22.7,220 x 176,128,40,1000
+2011,M580 Replenish,Samsung,600.0,Android,2.2,"[('512', '256')]",011,[''],123 x 60 x 11,116,Mini-SIM,2.8,32.9,240 x 320,143,80,1160
+2011,Galaxy Prevail,Samsung,800.0,Android,2.2,"[('117',)]",011,"['Accelerometer', 'proximity', 'compass']",113 x 57 x 12,108,Mini-SIM,3.2,47.3,320 x 480,180,90,1500
+2011,M220L Galaxy Neo,Samsung,800.0,Android,2.2,"[('4', '512')]",011,"['Accelerometer', 'proximity']",115.9 x 56.9 x 12.1,121.8,Mini-SIM,3.5,52.9,480 x 800,267,80,1500
+2011,Google Nexus S I9020A,Samsung,1.0,Android,2.3,"[('16', '512')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",123.9 x 63 x 10.9,129,Mini-SIM,4.0,58.3,480 x 800,233,270,1500
+2011,Google Nexus S I9023,Samsung,1.0,Android,2.3,"[('16',)]",011,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",123.9 x 63 x 10.9,129,Mini-SIM,4.0,58.3,480 x 800,233,180,1500
+2011,E2230,Samsung,,,,"[('4',)]",001,[''],109 x 46 x 14.9,79,Mini-SIM,1.8,20.3,128 x 160,114,50,1000
+2011,P1010 Galaxy Tab Wi-Fi,Samsung,1.0,Android,2.2,"[('16', '592')]",001,"['Accelerometer', 'gyro', 'proximity']",190.1 x 120.5 x 12,380,,7.0,60.2,600 x 1024,170,150,4000
+2011,P7500 Galaxy Tab 10.1 3G,Samsung,2,Android,3.1,"[('16', '1'), ('32', '1'), ('64', '1')]",011,"['Accelerometer', 'gyro', 'compass']",256.7 x 175.3 x 8.6,565,Mini-SIM,10.1,65.7,800 x 1280,149,370,7000
+2011,Galaxy Tab 10.1 LTE I905,Samsung,2,Android,3.1,"[('16', '1'), ('32', '1')]",111,"['Accelerometer', 'gyro', 'compass']",256.7 x 175.3 x 8.6,565,Mini-SIM,10.1,65.7,800 x 1280,149,290,6800
+2011,Galaxy Tab 10.1 P7510,Samsung,2,Android,3.0,"[('16', '1'), ('32', '1'), ('64', '1')]",001,"['Accelerometer', 'gyro', 'compass']",256.7 x 175.3 x 8.6,560,,10.1,65.7,800 x 1280,149,310,7000
+2011,Galaxy Tab 8.9 P7300,Samsung,2,Android,3.0,"[('16', '1'), ('32', '1'), ('64', '1')]",011,"['Accelerometer', 'gyro', 'compass']",230.9 x 157.8 x 8.6,453,Mini-SIM,8.9,63.0,800 x 1280,170,290,6000
+2011,Galaxy Tab 8.9 P7310,Samsung,2,Android,3.0,"[('16', '1'), ('32', '1'), ('64', '1')]",001,"['Accelerometer', 'gyro', 'compass']",230.9 x 157.8 x 8.6,447.9,,8.9,63.0,800 x 1280,170,350,6000
+2011,Google Nexus S 4G,Samsung,1.0,Android,2.3,"[('16', '512')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",123.9 x 63 x 10.9,131,Mini-SIM,4.0,58.3,480 x 800,233,150,1500
+2011,M260 Factor,Samsung,,,,"[('128', 'RA'), ('256', 'RO')]",001,[''],97 x 48 x 18,91,Mini-SIM,2.0,27.0,128 x 160,102,90,800
+2011,S3850 Corby II,Samsung,,TouchWiz,UI,"[('26',)]",001,['Accelerometer'],109.9 x 60.6 x 11.7,102,Mini-SIM,3.2,47.6,240 x 320,125,80,1000
+2011,Galaxy Pro B7510,Samsung,800.0,Android,2.2.2,"[('270', 'RA')]",011,"['Accelerometer', 'proximity', 'compass']",108.6 x 66.7 x 10.7,103.4,Mini-SIM,2.8,33.5,320 x 240,143,120,1350
+2011,I9100 Galaxy S II,Samsung,2,Android,2.3.4,"[('16', '1'), ('32', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",125.3 x 66.1 x 8.5,116,Mini-SIM,4.3,63.5,480 x 800,217,170,1650
+2011,E2652W Champ Duos,Samsung,,,,"[('50',)]",001,[''],99.9 x 54.9 x 13,88,Mini-SIM,2.6,38.2,240 x 320,154,90,1000
+2011,E2652 Champ Duos,Samsung,,,,"[('50',)]",001,[''],99.9 x 54.9 x 13,88,Mini-SIM,2.6,38.2,240 x 320,154,70,1000
+2011,Galaxy S WiFi 5.0,Samsung,1.0,Android,2.2,"[('8/16',)]",001,"['Accelerometer', 'compass']",141.3 x 78.2 x 11.9,182,,5.0,64.4,480 x 800,187,180,2500
+2011,P7100 Galaxy Tab 10.1v,Samsung,2,Android,3.0,"[('16/32',)]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",246.2 x 170.4 x 10.9,589,Mini-SIM,10.1,70.5,800 x 1280,149,290,6860
+2011,S5780 Wave 578,Samsung,,bada,1.1,"[('100',)]",011,"['Accelerometer', 'proximity']",107.9 x 54.9 x 12.5,99.8,Mini-SIM,3.2,49.2,240 x 400,146,110,1200
+2011,Ch@t 350,Samsung,,,,"[('20',)]",001,[''],99.5 x 52 x 15.5,99.8,Mini-SIM,2.4,34.5,320 x 240,167,80,960
+2011,E3213 Hero,Samsung,,,,"[('36',)]",011,[''],112.8 x 46.4 x 13.2,80.6,Mini-SIM,2.0,24.1,128 x 160,102,40,800
+2011,E3210,Samsung,,,,"[('36',)]",011,[''],112.8 x 46.4 x 12.9,79.3,Mini-SIM,2.0,24.1,128 x 160,102,70,800
+2011,E2330,Samsung,,,,"[('4',)]",001,[''],98 x 47.5 x 14.9,87.5,Mini-SIM,2.0,27.0,128 x 160,102,60,800
+2011,I9003 Galaxy SL,Samsung,1.0,Android,2.2,"[('4', '478'), ('16', '478')]",011,"['Accelerometer', 'proximity', 'compass']",123.7 x 64.2 x 10.6,131,Mini-SIM,4.0,57.3,480 x 800,233,150,1650
+2011,Galaxy Ace S5830I,Samsung,832.0,Android,2.2,"[('158',)]",011,"['Accelerometer', 'proximity', 'compass']",112.4 x 59.9 x 11.5,113,Mini-SIM,3.5,54.2,320 x 480,165,70,1350
+2011,Galaxy Ace S5830,Samsung,800.0,Android,2.3,"[('158', '278')]",011,"['Accelerometer', 'proximity', 'compass']",112.4 x 59.9 x 11.5,113,Mini-SIM,3.5,54.2,320 x 480,165,90,1350
+2011,Galaxy Fit S5670,Samsung,600.0,Android,2.2,"[('160', '280')]",011,"['Accelerometer', 'proximity', 'compass']",110.2 x 61.2 x 12.6,108,Mini-SIM,3.3,50.0,240 x 320,121,120,1350
+2011,Galaxy Gio S5660,Samsung,800.0,Android,2.2,"[('158', '278')]",011,"['Accelerometer', 'proximity', 'compass']",110.5 x 57.5 x 12.2,102,Mini-SIM,3.2,48.0,320 x 480,180,110,1350
+2011,Galaxy Mini S5570,Samsung,600.0,Android,2.2,"[('160', '384')]",011,"['Accelerometer', 'proximity', 'compass']",110.4 x 60.8 x 12.1,105,Mini-SIM,3.14,45.5,240 x 320,127,90,1200
+2011,Galaxy Pop i559,Samsung,,Android,2.2,"[('164',)]",011,"['Accelerometer', 'proximity', 'compass']",110.9 x 60.6 x 12.1,106.6 (3.74 oz),Mini-SIM,3.14,45.4,240 x 320,127,90,1200
+2011,Galaxy S 4G T959,Samsung,1.0,Android,2.2,"[('1', '512')]",011,"['Accelerometer', 'proximity', 'compass']",122.4 x 64.5 x 9.9,118,Mini-SIM,4.0,57.7,480 x 800,233,120,1650
+2011,S5260 Star II,Samsung,,,,"[('30',)]",001,['Accelerometer'],107.5 x 54 x 12.4,94,Mini-SIM,3.0,44.1,240 x 400,155,70,1000
+2011,I997 Infuse 4G,Samsung,1.2,Android,2.2,"[('16',)]",011,"['Accelerometer', 'proximity', 'compass']",132 x 71 x 9,139,Mini-SIM,4.5,61.5,480 x 800,207,130,1750
+2011,R910 Galaxy Indulge,Samsung,,Android,2.2,,111,"['Accelerometer', 'proximity', 'compass']",132 x 61 x 15,152,Mini-SIM,3.5,45.3,320 x 480,165,130,1500
+2011,Droid Charge I510,Samsung,1.0,Android,2.2,"[('2',)]",111,"['Accelerometer', 'proximity', 'compass']",130 x 68 x 12,143,Mini-SIM,4.3,59.5,480 x 800,217,130,1600
+2010,Google Nexus S,Samsung,1.0,Android,2.3,"[('16', '512')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",123.9 x 63 x 10.9,129,Mini-SIM,4.0,58.3,480 x 800,233,170,1500
+2010,M190S Galaxy S Hoppin,Samsung,1.0,Android,2.2,"[('16',)]",011,"['Accelerometer', 'proximity', 'compass']",122.4 x 64 x 10.9,129,Mini-SIM,4.0,58.1,480 x 800,233,140,1500
+2010,A927 Flight II,Samsung,,,,"[('512',)]",011,[''],111.8 x 53.3 x 12.7,99,Mini-SIM,3.0,43.0,240 x 400,155,110,
+2010,T669 Gravity T,Samsung,184.0,,,"[('50',)]",011,['Accelerometer'],110 x 56.6 x 15,120,Mini-SIM,,,240 x 320,,120,1000
+2010,T479 Gravity 3,Samsung,184.0,,,"[('70',)]",011,[''],116.8 x 53.6 x 15.2,123,Mini-SIM,,,240 x 320,,130,1000
+2010,:) Smiley,Samsung,184.0,,,"[('50',)]",011,[''],99.6 x 59.4 x 15,112.8,Mini-SIM,,,240 x 320,,130,1000
+2010,C5010 Squash,Samsung,,,,"[('42',)]",011,[''],115 x 46 x 12.8,81,Mini-SIM,2.0,23.8,128 x 160,102,80,800
+2010,i897 Captivate,Samsung,1.0,Android,2.1,"[('16', '512')]",011,"['Accelerometer', 'proximity', 'compass']",122.4 x 64.2 x 9.9,118,Mini-SIM,4.0,58.0,480 x 800,233,170,1500
+2010,B7350 Omnia PRO 4,Samsung,,Microsoft,Windows,"[('200',)]",011,[''],117.7 x 59.8 x 11.9,122,Mini-SIM,2.62,31.5,320 x 320,173,150,1500
+2010,W960 AMOLED 3D,Samsung,,,,,011,['Accelerometer'],113.9 x 53.9 x 13.9,120.6,Mini-SIM,3.2,47.5,240 x 400,146,220,1150
+2010,M110S Galaxy S,Samsung,1.0,Android,2.1,"[('16', '(14')]",011,"['Accelerometer', 'proximity', 'compass']",122.4 x 64.2 x 9.9,121,Mini-SIM,4.0,58.0,480 x 800,233,220,1500
+2010,Galaxy A,Samsung,720.0,Android,2.1,"[('1', '384')]",011,"['Accelerometer', 'proximity', 'compass']",119.5 x 59.8 x 12.5,128,Mini-SIM,3.7,54.5,480 x 800,252,100,1500
+2010,I9000 Galaxy S,Samsung,1.0,Android,2.1,"[('8', '512'), ('16', '512')]",011,"['Accelerometer', 'proximity', 'compass']",122.4 x 64.2 x 9.9,119,Mini-SIM,4.0,58.0,480 x 800,233,120,1500
+2010,S3370,Samsung,,,,"[('50',)]",011,[''],99.9 x 53 x 12.9,86,Mini-SIM,2.6,39.5,240 x 320,154,90,1000
+2010,I6500U Galaxy,Samsung,800.0,Android,2.1,"[('180',)]",011,"['Accelerometer', 'compass']",117 x 59 x 13.3,126,Mini-SIM,3.2,44.2,320 x 480,180,310,1500
+2010,E1170,Samsung,,,,"[('16',)]",001,[''],108.7 x 46.1 x 14.1,72,Mini-SIM,1.52,14.9,128 x 128,119,30,1000
+2010,Metro TV,Samsung,,,,,011,[''],-,-,Mini-SIM,2.0,,240 x 320,200,80,
+2010,Corby TV F339,Samsung,,,,"[('79',)]",011,[''],103 x 56.5 x 12.2,92,Mini-SIM,2.8,41.7,240 x 320,143,100,960
+2010,S3650W Corby,Samsung,,,,"[('50',)]",001,[''],103 x 56.5 x 12,93.2,Mini-SIM,2.8,41.7,240 x 320,143,100,960
+2010,W9705,Samsung,,,,"[('83',)]",011,['Compass'],100.5 x 52 x 22.9,135,Mini-SIM,2.4,34.1,240 x 320,167,70,1000
+2010,A687 Strive,Samsung,,,,"[('80',)]",011,[''],105.9 x 58.9 x 14.6,113.1,Mini-SIM,2.6,33.6,240 x 320,154,100,1000
+2010,A697 Sunburst,Samsung,,,,"[('190',)]",001,['Accelerometer'],101 x 52.8 x 13,87.3,Mini-SIM,3.0,48.0,240 x 400,155,120,1000
+2010,S8500 Wave,Samsung,1.0,Bada,,"[('390',)]",011,"['Accelerometer', 'proximity', 'compass']",118 x 56 x 10.9,118,Mini-SIM,3.3,46.9,480 x 800,283,160,1500
+2010,I8520 Galaxy Beam,Samsung,720.0,Android,2.1,"[('16', '384')]",011,"['Accelerometer', 'proximity']",123 x 59.8 x 14.9,156g (5.50 oz),Mini-SIM,3.7,53.0,480 x 800,252,260,1800
+2010,B3410W Ch@t,Samsung,,,,"[('45',)]",001,[''],102.3 x 52.4 x 16.2,113.7,Mini-SIM,2.6,39.1,240 x 320,154,120,960
+2010,M3710 Corby Beat,Samsung,,,,"[('50',)]",001,[''],105 x 56.5 x 12.4,97,Mini-SIM,2.8,40.9,240 x 320,143,120,960
+2010,E2370 Xcover,Samsung,,,,"[('40',)]",001,[''],112 x 49 x 19,115,Mini-SIM,1.77,18.0,128 x 160,116,100,2000
+2010,E2550 Monte Slider,Samsung,,,,"[('13',)]",001,[''],98.5 x 48.5 x 14.3,87.7,Mini-SIM,2.0,26.4,128 x 160,102,80,800
+2010,C3200 Monte Bar,Samsung,,,,"[('40',)]",001,[''],111.8 x 46.9 x 13.3,77.3,Mini-SIM,2.0,23.6,240 x 320,200,60,1000
+2010,S5620 Monte,Samsung,,,,"[('200',)]",011,['Accelerometer'],108.8 x 53.7 x 12.4,92,Mini-SIM,3.0,43.8,240 x 400,155,100,1000
+2010,S5550 Shark 2,Samsung,,,,"[('110',)]",011,[''],101.8 x 48.7 x 14.8,99,Mini-SIM,2.2,30.2,240 x 320,182,130,960
+2010,S3550 Shark 3,Samsung,,,,"[('44',)]",001,[''],95.8 x 45.8 x 14.4,79,Mini-SIM,2.0,28.2,240 x 320,200,80,800
+2010,E1150,Samsung,,,,"[('No',)]",001,[''],88 x 44 x 19.8,72.5,Mini-SIM,1.43,17.0,128 x 128,127,20,800
+2010,S5350 Shark,Samsung,,,,"[('100',)]",011,[''],115.2 x 46.7 x 11.9,99.2,Mini-SIM,2.2,27.9,240 x 320,182,80,900
+2010,C6112,Samsung,,,,"[('30',)]",001,[''],105.8 x 50 x 16.5,112,Mini-SIM,2.4,33.7,240 x 320,167,90,960
+2010,M2520 Beat Techno,Samsung,,,,"[('15',)]",001,[''],101 x 50 x 15.4,100,Mini-SIM,2.2,30.2,176 x 220,128,90,800
+2013,Asha 500 Dual SIM,Nokia,,Nokia,Asha,"[('64', 'RA')]",001,"['Accelerometer', 'proximity']",100.3 x 58.1 x 12.8,101.3,Micro-SIM,2.8,41.7,240 x 320,143,60,1200
+2013,Galaxy J,Samsung,4,Android,4.3,"[('16', '3')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'temperature', 'humidity', 'gesture']",137 x 70 x 8.6,146,Micro-SIM,5.0,71.9,1080 x 1920,441,450,2600
+2013,Asha 502 Dual SIM,Nokia,,Nokia,Asha,"[('64', 'RA')]",001,"['Accelerometer', 'proximity']",99.6 x 59.5 x 11.1,100,Micro-SIM,3.0,47.0,240 x 320,133,80,1010
+2010,E2530,Samsung,,,,,001,[''],94.4 x 47.2 x 17.4,86,Mini-SIM,2.0,28.3,128 x 160,102,70,800
+2010,S5250 Wave525,Samsung,,bada,OS,"[('100',)]",001,['Accelerometer'],109.5 x 55 x 11.9,100,Mini-SIM,3.2,48.4,240 x 400,146,120,1200
+2013,Galaxy S4 Active LTE-A,Samsung,4,Android,4.2.2,"[('16', '2'), ('32', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'gesture']",139.7 x 71.3 x 9.1,147,Micro-SIM,5.0,69.2,1080 x 1920,441,410,2600
+2013,Galaxy Trend II Duos S7572,Samsung,2,Android,4.1,"[('4', '768')]",011,"['Accelerometer', 'proximity']",121.5 x 63.1 x 11.1,128.5,Mini-SIM,4.0,59.4,480 x 800,233,170,1500
+2013,Galaxy Y Plus S5303,Samsung,850.0,Android,4.0,"[('4',)]",011,"['Accelerometer', 'compass']",104.9 x 57.9 x 13,96,Mini-SIM,2.8,40.0,240 x 320,143,120,1200
+2010,C3750,Samsung,,,,"[('37',)]",001,[''],98 x 49 x 15.4,89,Mini-SIM,2.4,37.1,240 x 320,167,90,800
+2013,Galaxy Light,Samsung,4,Android,4.2.2,"[('8', '1')]",111,"['Accelerometer', 'proximity', 'compass']",121.4 x 63.5 x 10.2,121.9,Micro-SIM,4.0,59.1,480 x 800,233,180,1800
+2010,T369,Samsung,,,,"[('50',)]",001,[''],114 x 53 x 15,112,Mini-SIM,2.5,32.0,240 x 320,160,100,1000
+2010,I5801 Galaxy Apollo,Samsung,,Android,2.1,"[('512', '256')]",011,"['Accelerometer', 'proximity', 'compass']",113.5 x 55 x 12.6,113,Mini-SIM,3.2,46.7,240 x 400,146,140,1500
+2013,Galaxy Note 8.0 Wi-Fi,Samsung,4,Android,4.1.2,"[('16', '2'), ('32', '2')]",001,"['Accelerometer', 'gyro', 'proximity', 'compass']",210.8 x 135.9 x 8,338,,8.0,64.8,800 x 1280,189,280,4600
+2013,Galaxy Tab 3 8.0,Samsung,2,Android,4.2.2,"[('16', '1.5'), ('32', '1.5')]",111,"['Accelerometer', 'compass', 'proximity']",209.8 x 123.8 x 7.4,314,Micro-SIM,8.0,71.4,800 x 1280,189,270,4450
+2010,Galaxy Tab CDMA P100,Samsung,1.0,Android,2.2,"[('2',)]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",190.5 x 119.4 x 11.9,380,Mini-SIM,7.0,60.6,600 x 1024,170,150,4000
+2010,B7722,Samsung,,,,"[('270',)]",011,[''],113.5 x 55.5 x 14.3,112,Mini-SIM,3.2,46.3,240 x 400,146,150,1200
+2013,ATIV S Neo,Samsung,2,Microsoft,Windows,"[('16', '1')]",111,"['Accelerometer', 'proximity']",135.4 x 69.1 x 9.1,144,,4.77,67.0,720 x 1280,308,310,2000
+2013,I9505 Galaxy S4,Samsung,4,Android,4.2.2,"[('16', '2'), ('32', '2'), ('64', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'temperature', 'humidity', 'gesture']",136.6 x 69.8 x 7.9,130,Micro-SIM,5.0,72.3,1080 x 1920,441,330,2600
+2011,E1182,Samsung,,,,,001,[''],106.9 x 44.4 x 13.9,68,Mini-SIM,1.52,15.7,128 x 128,119,50,1000
+2010,Focus,Samsung,1.0,Microsoft,Windows,"[('8', '512')]",011,"['Accelerometer', 'proximity', 'compass']",124.7 x 64.3 x 9.9,119.4,Mini-SIM,4.0,56.8,480 x 800,233,90,1500
+2013,Galaxy S4 zoom,Samsung,2,Android,4.2.2,"[('8', '1.5')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",125.5 x 63.5 x 15.4,208,Micro-SIM,4.3,64.0,540 x 960,256,280,2330
+2013,Galaxy Win I8550,Samsung,4,Android,4.1.2,"[('8', '1')]",011,"['Accelerometer', 'proximity', 'compass']",133.3 x 70.7 x 9.7,143.9,Micro-SIM,4.7,66.7,480 x 800,199,170,2000
+2013,Gravity Q T289,Samsung,416.0,,,"[('256', 'RO'), ('128', 'RA')]",011,['Accelerometer'],112.5 x 59.7 x 14.2,118.8,Mini-SIM,3.0,41.5,240 x 320,133,120,1000
+2010,Mpower Muzik 219,Samsung,,,,"[('8',)]",001,[''],112 x 46.3 x 15.3,88,Mini-SIM,1.7,17.5,128 x 160,121,,1000
+2010,A847 Rugby II,Samsung,,,,"[('70',)]",011,[''],102 x 52 x 22,100,Mini-SIM,2.2,28.3,240 x 320,182,100,1300
+2010,A200K Nori F,Samsung,,,,"[('100',)]",011,[''],106 x 52 x 14.6,108.6,Mini-SIM,2.8,40.5,240 x 400,167,50,880
+2013,Galaxy Tab 3 10.1 P5220,Samsung,2,Android,4.2.2,"[('16', '1'), ('32', '1')]",111,"['Accelerometer', 'compass']",243.1 x 176.1 x 8,510,Micro-SIM,10.1,69.1,1280 x 800,149,290,6800
+2010,R360 Freeform II,Samsung,,,,"[('42',)]",001,[''],104.9 x 53.8 x 15,108,Mini-SIM,2.2,26.6,240 x 320,182,40,1000
+2011,C3752,Samsung,,,,"[('40',)]",001,[''],97.9 x 49 x 16.4,92.7,Mini-SIM,2.4,37.2,240 x 320,167,100,900
+2010,Intercept,Samsung,,Android,2.1,,011,['Accelerometer'],113 x 56 x 15,139,Mini-SIM,3.2,46.1,240 x 400,146,150,1500
+2010,A817 Solstice II,Samsung,,,,"[('256',)]",011,[''],109 x 54.1 x 12,95,Mini-SIM,3.35,54.2,240 x 400,139,90,1000
+2013,I9190 Galaxy S4 mini,Samsung,2,Android,4.2.2,"[('8', '1.5')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",124.6 x 61.3 x 8.9,107,Micro-SIM,4.3,66.7,540 x 960,256,230,1900
+2013,Galaxy Core Advance,Samsung,2,Android,4.2,"[('8', '1')]",011,"['Accelerometer', 'proximity']",133.3 x 70.5 x 9.7,145,Mini-SIM,4.7,66.9,480 x 800,199,190,2000
+2010,Xcover 271,Samsung,,,,"[('30',)]",011,['Compass'],120.7 x 53 x 17.9,115,Mini-SIM,2.0,19.4,240 x 320,200,110,1300
+2010,R570 Messenger III,Samsung,,,,,011,[''],116.6 x 53.5 x 14.9,105,Mini-SIM,2.4,28.6,240 x 320,167,110,1140
+2013,I9506 Galaxy S4,Samsung,4,Android,4.2.2,"[('16', '2'), ('32', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'temperature', 'humidity', 'gesture']",136.6 x 69.8 x 7.9,130,Micro-SIM,5.0,72.3,1080 x 1920,441,390,2600
+2013,Galaxy Tab 3 7.0,Samsung,2,Android,4.1.2,"[('8', '1'), ('16', '1')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",188 x 111.1 x 9.9,306,Micro-SIM,7.0,66.0,600 x 1024,170,150,4000
+2011,Ch@t 322 Wi-Fi,Samsung,,,,"[('54',)]",001,[''],109.5 x 60 x 12.3,95,Mini-SIM,2.2,23.2,220 x 176,128,70,1000
+2013,Ch@t 333,Samsung,208.0,,,"[('28',)]",001,[''],112.1 x 61.1 x 11.7,99.5,Mini-SIM,2.4,26.0,240 x 320,,80,1200
+2010,Guru E1081T,Samsung,,,,,001,[''],107.4 x 45.5 x 13.6,64.5,Mini-SIM,1.43,13.5,128 x 128,127,,800
+2010,Mesmerize i500,Samsung,1.0,Android,2.1,"[('2', '512')]",011,"['Accelerometer', 'proximity', 'compass']",124.5 x 64.3 x 9.9,117.9,Mini-SIM,4.0,56.9,480 x 800,233,100,1500
+2013,Galaxy Mega 5.8 I9150,Samsung,2,Android,4.2.2,"[('8', '1.5')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",162.6 x 82.4 x 9,182,Micro-SIM,5.8,69.2,540 x 960,190,280,2600
+2013,Galaxy Round G910S,Samsung,4,Android,4.3,"[('32', '3')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'temperature', 'humidity', 'gesture']",151.1 x 79.6 x 7.9,154,Micro-SIM,5.7,74.5,1080 x 1920,386,680,2800
+2010,U750 Zeal,Samsung,,,,,011,[''],101.9 x 51.8 x 17.1,123,Mini-SIM,2.6,39.7,240 x 320,154,100,880
+2010,B6520 Omnia PRO 5,Samsung,,Microsoft,Windows,"[('220',)]",011,[''],116.5 x 61.8 x 11.5,111,Mini-SIM,2.4,24.8,320 x 240,167,170,1500
+2010,M920 Transform,Samsung,,Android,2.1,"[('512', '512')]",011,"['Accelerometer', 'proximity']",117 x 61 x 15,152,Mini-SIM,3.5,51.1,320 x 480,165,120,1500
+2010,S5530,Samsung,,,,"[('40',)]",011,[''],105 x 49.5 x 11.5,96,Mini-SIM,2.2,28.8,240 x 320,182,90,800
+2010,U460 Intensity II,Samsung,,,,,011,[''],124 x 73 x 17.9,116,Mini-SIM,2.2,16.6,240 x 320,182,100,1000
+2010,Vibrant,Samsung,1.0,Android,2.1,"[('16', '512')]",011,"['Accelerometer', 'proximity', 'compass']",122.4 x 64.5 x 9.9,"117,9 (4.13 oz)",Mini-SIM,4.0,57.7,480 x 800,233,150,1500
+2013,I9500 Galaxy S4,Samsung,8,Android,4.2.2,"[('16', '2'), ('32', '2'), ('64', '2')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'temperature', 'humidity', 'gesture']",136.6 x 69.8 x 7.9,130,Micro-SIM,5.0,72.3,1080 x 1920,441,320,2600
+2013,C3590,Samsung,416.0,,,,011,[''],100.9 x 50.9 x 17.3,99.8 (3.49 oz),Mini-SIM,2.4,34.7,240 x 320,167,70,800
+2010,U360 Gusto,Samsung,,,,"[('64',)]",011,[''],101 x 47 x 14,93,Mini-SIM,2.0,26.5,128 x 160,102,80,1000
+2013,Galaxy Fresh S7390,Samsung,1.0,Android,4.1.2,"[('4', '512')]",011,"['Accelerometer', 'proximity', 'compass']",121.5 x 63.1 x 10.9,126,Micro-SIM,4.0,59.4,480 x 800,233,120,1500
+2013,Galaxy Note 3,Samsung,4,Android,4.3,"[('16', '3'), ('32', '3'), ('64', '3')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'temperature', 'humidity', 'gesture']",151.2 x 79.2 x 8.3,168,Micro-SIM,5.7,74.8,1080 x 1920,386,420,3200
+2011,Galaxy Tab 4G LTE,Samsung,1.2,Android,2.2,"[('2',)]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",190.1 x 120.5 x 12,380,Mini-SIM,7.0,60.2,600 x 1024,170,240,4000
+2013,Galaxy Star Pro S7260,Samsung,1.0,Android,4.1.2,"[('4', '512')]",001,['Accelerometer'],121.2 x 62.7 x 10.6,121,Micro-SIM,4.0,59.9,480 x 800,233,90,1500
+2013,I9502 Galaxy S4,Samsung,8,Android,4.2.2,"[('16', '2'), ('32', '2'), ('64', '2')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'temperature', 'humidity', 'gesture']",136.6 x 69.8 x 7.9,132,Micro-SIM,5.0,72.3,1080 x 1920,441,460,2600
+2010,I9010 Galaxy S Giorgio Armani,Samsung,1.0,Android,2.2,"[('16',)]",011,"['Accelerometer', 'proximity', 'compass']",122.5 x 64.2 x 9.9,123,Mini-SIM,4.0,57.9,480 x 800,233,280,1650
+2010,S7230E Wave 723,Samsung,,bada,OS,"[('90',)]",011,['Accelerometer'],109.5 x 53.9 x 11.8,113.8,Mini-SIM,3.2,49.4,240 x 400,146,130,1200
+2010,Epic 4G,Samsung,1.0,Android,2.1,"[('512', '512')]",011,"['Accelerometer', 'proximity', 'compass']",124 x 65 x 14,155,Mini-SIM,4.0,56.5,480 x 800,233,200,1500
+2010,M570 Restore,Samsung,,,,,011,[''],117 x 53 x 15,122,Mini-SIM,2.66,35.3,240 x 320,150,110,1160
+2013,Galaxy Fame Lite S6790,Samsung,850.0,Android,4.1.2,"[('4',)]",011,['Accelerometer'],113.2 x 61.6 x 11.9,118.2,Micro-SIM,3.5,52.3,320 x 480,165,70,1300
+2011,Breeze B209,Samsung,,,,"[('351', 'K')]",001,[''],108 x 44.8 x 14.3,72.3,Mini-SIM,1.52,15.4,128 x 128,119,20,1000
+2011,Hero Plus B159,Samsung,,,,"[('597', 'K')]",001,[''],108.5 x 45.8 x 13.3,70,Mini-SIM,1.52,15.0,128 x 128,119,30,800
+2010,S5750 Wave575,Samsung,,bada,OS,"[('100',)]",011,['Accelerometer'],109.5 x 55 x 11.9,100,Mini-SIM,3.2,48.4,240 x 400,146,120,1200
+2013,108 Dual SIM,Nokia,,,,"[('4', 'RA')]",001,[''],110.4 x 47 x 13.5,70.2,Mini-SIM,1.8,19.7,128 x 160,114,30,950
+2010,E1225 Dual Sim Shift,Samsung,,,,,001,[''],109.1 x 45.5 x 13.7,72.4,Mini-SIM,1.8,20.5,128 x 160,114,50,800
+2010,M130K Galaxy K,Samsung,1.2,Android,2.2,"[('8',)]",011,"['Accelerometer', 'proximity', 'compass']",119.5 x 59.6 x 12.4,131,Mini-SIM,3.7,54.7,480 x 800,252,180,1500
+2013,Galaxy Note 8.0,Samsung,4,Android,4.1.2,"[('16', '2'), ('32', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",210.8 x 135.9 x 8,338,Micro-SIM,8.0,64.8,800 x 1280,189,320,4600
+2011,I100 Gem,Samsung,,Android,2.1,"[('124',)]",011,"['Accelerometer', 'proximity']",113.8 x 55.4 x 12.2,109.2,Mini-SIM,3.2,46.2,240 x 400,146,50,
+2013,Galaxy S Duos 2 S7582,Samsung,2,Android,4.2.2,"[('4', '768')]",011,"['Accelerometer', 'proximity', 'compass']",121.5 x 63.1 x 10.6,118,Mini-SIM,4.0,59.4,480 x 800,233,130,1500
+2010,W169 Duos,Samsung,,,,"[('42',)]",001,[''],115.5 x 48 x 15.9,110,Mini-SIM,2.2,27.5,176 x 220,128,,1000
+2013,Galaxy Pocket Neo S5310,Samsung,850.0,Android,4.1.2,"[('4', '512')]",011,"['Accelerometer', 'compass']",105 x 57.8 x 11.8,100.5,Micro-SIM,3.0,45.9,240 x 320,133,90,1200
+2010,M130L Galaxy U,Samsung,,Android,2.1,"[('8',)]",011,"['Accelerometer', 'proximity', 'compass']",119.5 x 59.6 x 12.4,131,Mini-SIM,3.7,54.7,480 x 800,252,220,1500
+2013,Galaxy S4 CDMA,Samsung,4,Android,4.2.2,"[('16', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'temperature', 'humidity', 'gesture']",136.7 x 69.6 x 7.9,130.1,Micro-SIM,5.0,72.4,1080 x 1920,441,440,2600
+2013,Galaxy Tab 3 10.1 P5210,Samsung,2,Android,4.2.2,"[('16', '1'), ('32', '1')]",001,"['Accelerometer', 'compass']",243.1 x 176.1 x 8,510,,10.1,69.1,1280 x 800,149,260,6800
+2010,P1000 Galaxy Tab,Samsung,1.0,Android,2.2,"[('16', '512'), ('32', '512')]",011,"['Accelerometer', 'gyro', 'compass']",190.1 x 120.5 x 12,380,Mini-SIM,7.0,60.2,600 x 1024,170,150,4000
+2010,Mpower Txt M369,Samsung,,,,"[('104',)]",011,[''],112 x 61 x 12,102.3,Mini-SIM,2.2,21.9,320 x 240,182,,1000
+2010,Galaxy 551,Samsung,600.0,Android,2.2,"[('160',)]",011,"['Accelerometer', 'proximity', 'compass']",111 x 55 x 15.2,117,Mini-SIM,3.2,47.7,240 x 400,146,90,1200
+2013,Galaxy Core I8260,Samsung,2,Android,4.1.2,"[('8', '(4.5'), ('1', 'RA')]",011,"['Accelerometer', 'proximity', 'compass']",129.3 x 67.6 x 9,124,Micro-SIM,4.3,60.2,480 x 800,217,160,1800
+2010,M210S Wave2,Samsung,1.2,bada,OS,"[('1.7',)]",011,"['Accelerometer', 'proximity', 'compass']",123.9 x 59.8 x 11.8,137,Mini-SIM,3.7,52.6,480 x 800,252,80,1500
+2013,Galaxy Prevail 2,Samsung,1.4,Android,4.1,"[('4', '512')]",011,"['Accelerometer', 'proximity']",122 x 63.5 x 12.7,130.4,Mini-SIM,4.0,58.8,480 x 800,233,140,1750
+2010,T249,Samsung,,,,"[('100',)]",001,[''],99 x 48 x 15,91,Mini-SIM,,,176 x 220,,100,800
+2010,Acclaim,Samsung,,Android,2.1,,011,['Accelerometer'],114 x 59 x 15,130,Mini-SIM,3.2,45.3,320 x 480,180,170,1500
+2010,Ch@t 335,Samsung,,,,"[('60',)]",001,[''],111.2 x 61.2 x 12,93,Mini-SIM,2.4,26.2,320 x 240,167,70,
+2013,Galaxy Mega 6.3 I9200,Samsung,2,Android,4.2.2,"[('8', '1.5'), ('16', '1.5')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",167.6 x 88 x 8,199,Micro-SIM,6.3,74.2,720 x 1280,233,300,3200
+2013,Galaxy Tab 3 7.0 WiFi,Samsung,2,Android,4.1.2,"[('8', '1'), ('16', '1')]",001,"['Accelerometer', 'compass']",188 x 111.1 x 9.9,302,,7.0,66.0,600 x 1024,170,140,4000
+2010,C3300K Champ,Samsung,,TouchWiz,Lite,"[('30',)]",001,[''],96.3 x 53.8 x 13,80,Mini-SIM,2.4,34.4,240 x 320,167,80,1000
+2011,E2232,Samsung,,,,"[('20',)]",001,[''],109.2 x 46 x 14.9,79,Mini-SIM,1.77,19.6,128 x 160,116,70,1000
+2013,Asha 500,Nokia,,Nokia,Asha,"[('64', 'RA')]",001,"['Accelerometer', 'proximity']",100.3 x 58.1 x 12.8,101,Micro-SIM,2.8,41.7,240 x 320,143,60,1200
+2013,Galaxy Grand 2,Samsung,4,Android,4.3,"[('8', '1.5')]",111,"['Accelerometer', 'proximity', 'compass']",146.8 x 75.3 x 8.9,163,Micro-SIM,5.25,68.7,720 x 1280,280,180,2600
+2010,I909 Galaxy S,Samsung,1.0,Android,2.1,"[('16',)]",001,"['Accelerometer', 'proximity', 'compass']",123 x 64.2 x 10.8,123,Mini-SIM,4.0,57.7,480 x 800,233,200,1500
+2010,Continuum I400,Samsung,1.0,Android,2.1,"[('2', '336')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",125 x 58 x 12,125,Mini-SIM,3.4,45.4,480 x 800,274,90,
+2010,S5330 Wave533,Samsung,,bada,OS,"[('100',)]",001,['Accelerometer'],109.5 x 55 x 15.2,118,Mini-SIM,3.2,48.4,240 x 400,146,150,1200
+2010,Mpower TV S239,Samsung,,,,"[('85',)]",011,[''],118.5 x 50 x 12.5,87,Mini-SIM,2.4,30.1,240 x 320,167,,960
+2010,M350 Seek,Samsung,,,,"[('128', 'RA'), ('256', 'RO')]",011,[''],105 x 53 x 15,109,Mini-SIM,2.6,37.6,240 x 320,154,130,1500
+2013,Galaxy Win Pro G3812,Samsung,4,Android,4.2.2,"[('8', '1.5')]",011,"['Accelerometer', 'proximity', 'compass']",132.7 x 66.5 x 9.7,139,Micro-SIM,4.5,63.3,540 x 960,245,170,2100
+2013,I9295 Galaxy S4 Active,Samsung,4,Android,4.2.2,"[('16', '(11.2'), ('2', 'RA')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer', 'gesture']",139.7 x 71.3 x 9.1,153,Micro-SIM,5.0,69.2,1080 x 1920,441,310,2600
+2013,Rex 90 S5292,Samsung,,,,"[('10',)]",001,['Proximity'],113 x 61.9 x 11.9,-,Mini-SIM,3.5,52.1,320 x 480,165,80,1000
+2013,I9230 Galaxy Golden,Samsung,2,Android,4.2,"[('16', '1.5')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass', 'barometer']",118 x 59.5 x 15.8,179,Micro-SIM,3.7,55.5,480 x 800,252,590,1820
+2013,Galaxy Exhibit T599,Samsung,1.0,Android,4.1.2,"[('4', '1')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",121.4 x 62.5 x 10.4,119.1,Micro-SIM,3.8,54.2,480 x 800,246,90,1500
+2013,Galaxy Fame Lite Duos S6792L,Samsung,850.0,Android,4.1.2,"[('4',)]",011,['Accelerometer'],113.2 x 61.6 x 11.9,118.9,Micro-SIM,3.5,52.3,320 x 480,165,80,1300
+2010,Galaxy Tab T-Mobile T849,Samsung,1.0,Android,2.2,"[('16', '640')]",011,"['Accelerometer', 'gyro', 'proximity', 'compass']",190.1 x 120.5 x 12,380,Mini-SIM,7.0,60.2,600 x 1024,170,270,4000
+2013,Asha 503 Dual SIM,Nokia,,Nokia,Asha,,011,"['Accelerometer', 'proximity']",102.6 x 60.6 x 12.7,111.4,Micro-SIM,3.0,44.8,240 x 320,133,100,1200
+2013,Lumia 525,Nokia,2,Microsoft,Windows,"[('8', '1')]",011,"['Accelerometer', 'proximity']",119.9 x 64 x 9.9,124,Micro-SIM,4.0,59.3,480 x 800,233,120,1430
+2013,Lumia 2520,Nokia,4,Microsoft,Windows,"[('32', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",267 x 168 x 8.9,615,Micro-SIM,10.1,62.7,1080 x 1920,218,360,8120
+2010,R900 Craft,Samsung,,,,"[('165',)]",111,[''],114.3 x 55.9 x 11.9,106,Mini-SIM,3.3,48.5,480 x 800,283,100,1500
+2014,Galaxy Tab 4 10.1 LTE,Samsung,4,Android,4.4.2,"[('16', '1.5')]",111,['Accelerometer'],243.4 x 176.4 x 8,487,Micro-SIM,10.1,68.9,1280 x 800,149,310,6800
+2013,Galaxy Tab 3 10.1 P5200,Samsung,2,Android,4.2.2,"[('16', '1'), ('32', '1')]",011,"['Accelerometer', 'compass']",243.1 x 176.1 x 8,510,Micro-SIM,10.1,69.1,1280 x 800,149,330,6800
+2010,A667 Evergreen,Samsung,,,,"[('256',)]",011,[''],116 x 56 x 15,128,Mini-SIM,1.92,17.6,240 x 320,208,70,1000
+2015,Galaxy Xcover 3,Samsung,4,Android,4.4.4,"[('8', '1.5')]",111,"['Accelerometer', 'proximity', 'compass']",132.9 x 70.1 x 10,154,Micro-SIM,4.5,61.9,480 x 800,207,220,2200
+2010,S8530 Wave II,Samsung,1.0,bada,1.2,"[('2',)]",011,"['Accelerometer', 'proximity', 'compass']",123.9 x 59.8 x 11.8,135,Mini-SIM,3.7,52.6,480 x 800,252,120,1500
+2010,R360 Messenger Touch,Samsung,,,,"[('100',)]",011,[''],105 x 54 x 15,108,Mini-SIM,2.6,36.9,240 x 320,154,90,1000
+2010,I8700 Omnia 7,Samsung,1.0,Microsoft,Windows,"[('8/16',)]",011,"['Accelerometer', 'proximity', 'compass']",122.4 x 64.2 x 11,138.2,Mini-SIM,4.0,58.0,480 x 800,233,150,1500
+2010,E2152,Samsung,,,,,001,[''],111.6 x 46.3 x 13.5,80.4,Mini-SIM,2.0,24.4,128 x 160,102,60,1000
+2011,R710 Suede,Samsung,,,,"[('135',)]",011,['Accelerometer'],112.9 x 55.5 x 12.7,94,Mini-SIM,3.0,40.9,240 x 400,155,70,1080
+2010,Fascinate,Samsung,1.0,Android,2.1,"[('2',)]",011,"['Accelerometer', 'proximity', 'compass']",125 x 64 x 10.5,116,Mini-SIM,4.0,56.9,480 x 800,233,120,1500
+2010,A220 F Nori,Samsung,,,,,011,['Accelerometer'],-,-,Mini-SIM,3.0,,240 x 400,155,60,1000
+2024,Galaxy Tab Active5,Samsung,8,Android,14,"[('128', '6'), ('256', '8')]",111,"['Fingerprint', 'accelerometer', 'proximity', 'gyro', 'compass', 'proximity']",213.8 x 126.8 x 10.1,433,Nano-SIM,8.0,68.5,1920 x 1200,283,480,5050
+2013,Asha 503,Nokia,,Nokia,Asha,,011,"['Accelerometer', 'proximity']",102.6 x 60.6 x 12.7,110.2,Micro-SIM,3.0,44.8,240 x 320,133,90,1200
+2010,C3630,Samsung,,,,"[('90',)]",001,[''],115.2 x 45.7 x 13.2,-,Mini-SIM,2.2,28.5,240 x 320,182,50,900
+2013,Galaxy Express 2,Samsung,2,Android,4.2.2,"[('8', '1.5')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",132.4 x 65.7 x 9.8,134.2,Micro-SIM,4.5,64.2,540 x 960,245,210,2100
+2013,Galaxy Note 10.1 (2014),Samsung,4,Android,4.3,"[('16', '3'), ('32', '3'), ('64', '3')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass']",243.1 x 171.4 x 7.9,540g (WIFI)/ 535,Micro-SIM,10.1,71.0,2560 x 1600,299,370,8220
+2010,C3530,Samsung,,,,"[('50',)]",001,[''],112.2 x 46.7 x 11.9,91.4,Mini-SIM,2.2,28.6,240 x 320,182,90,960
+2010,R580 Profile,Samsung,,,,"[('100',)]",011,[''],117 x 54 x 15,108,Mini-SIM,2.4,28.2,240 x 320,167,90,1140
+2010,I5500 Galaxy 5,Samsung,600.0,Android,2.1,"[('170',)]",011,"['Accelerometer', 'proximity']",108 x 56 x 12.3,102,Mini-SIM,2.8,40.1,240 x 320,143,80,1200
+2013,Lumia 1320,Nokia,2,Microsoft,Windows,"[('8', '1')]",111,"['Accelerometer', 'proximity', 'compass']",164.2 x 85.9 x 9.8,220,Micro-SIM,6.0,70.4,720 x 1280,245,210,3400
+2010,I5800 Galaxy 3,Samsung,,Android,2.1,"[('512', '256')]",011,"['Accelerometer', 'proximity', 'compass']",113.5 x 55 x 12.9,109,Mini-SIM,3.2,46.7,240 x 400,146,140,1500
+2010,i225 Exec,Samsung,667.0,Microsoft,Windows,"[('123',)]",011,[''],117 x 60 x 11,105,Mini-SIM,2.4,25.4,320 x 240,167,120,1500
+2013,Galaxy Star S5280,Samsung,1.0,Android,4.1.2,"[('4', '512')]",001,['Accelerometer'],105 x 58 x 11.9,100.5,Micro-SIM,3.0,45.8,240 x 320,133,70,1200
+2010,E1252,Samsung,,,,,001,[''],112.7 x 46.7 x 13.9,76.7,Mini-SIM,2.0,23.9,128 x 160,102,30,1000
+2013,Lumia 1520,Nokia,4,Microsoft,Windows,"[('16', '2'), ('32', '2')]",111,"['Accelerometer', 'gyro', 'proximity', 'compass', 'sensor core']",162.8 x 85.4 x 8.7,209,Nano-SIM,6.0,71.4,1080 x 1920,367,350,3400
+2010,U320 Haven,Samsung,,,,"[('24', '16')]",011,[''],100 x 51 x 18,99,Mini-SIM,2.2,29.9,176 x 220,128,90,1000
+2013,Galaxy Core Plus,Samsung,2,Android,4.2,"[('4',)]",011,"['Accelerometer', 'proximity']",129.7 x 66 x 9.5,132.5,Micro-SIM,4.3,61.5,480 x 800,217,150,1800
+2010,Ch@t 322,Samsung,,,,"[('54',)]",001,[''],109.5 x 60 x 12.3,95,Mini-SIM,2.2,23.2,220 x 176,128,60,1000
